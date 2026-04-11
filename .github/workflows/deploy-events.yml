@@ -24,6 +24,15 @@ jobs:
         run: |
           mkdir -p dist
           cp events.json dist/events.json
+          # _headers: CORS so racingfreaks.de can fetch api.racingfreaks.de,
+          # plus aggressive CDN caching (browser 5 min, edge 10 min).
+          cat > dist/_headers << 'EOF'
+          /events.json
+            Access-Control-Allow-Origin: *
+            Access-Control-Allow-Methods: GET, OPTIONS
+            Cache-Control: public, max-age=300, s-maxage=600
+            Content-Type: application/json; charset=utf-8
+          EOF
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
