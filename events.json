@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-12T05:52:54Z",
+  "generated_at": "2026-04-12T06:28:27Z",
   "source": "racingfreaks-scraper",
   "stats": {
     "events_total": 357,
-    "events_with_price": 189,
-    "events_without_price": 168,
+    "events_with_price": 191,
+    "events_without_price": 166,
     "tracks_total": 74
   },
   "tracks": {
@@ -638,10 +638,14 @@
       "url": "http://www.gasss.eu",
       "db": "Kein Limit*",
       "preis": null,
-      "kategorie": null,
+      "kategorie": "Endurance",
       "tage": 3,
-      "info": "Saisonstart mit #gasss_family_endurance auf der Hausstrecke in Cremona",
-      "status": null
+      "info": "1. #gasss_family_endurance in die Saison auf dem Cremona Circuit",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Endurance"
     },
     {
       "id": 2,
@@ -656,8 +660,12 @@
       "preis": 120,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "1. Cupevent am Pannoniaring - Ungarn. Moderne, 4,7 km lange Rennstrecke mit schnellen Kurvenkombinationen und technischen Passagen. Ideal für Einsteiger und erfahrene Fahrer.",
-      "status": "frei"
+      "info": "1. Cupevent am Pannoniaring - Ungarn. Moderne, 4,7 km lange Rennstrecke mit schnellen Kurvenkombinationen und technischen Passagen. Boxen: kleine Box 130€/Tag, große Box 160€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 3,
@@ -673,7 +681,11 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 4,
@@ -689,7 +701,11 @@
       "kategorie": "Instructie",
       "tage": 1,
       "info": null,
-      "status": "ausgebucht"
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie"
     },
     {
       "id": 5,
@@ -705,7 +721,11 @@
       "kategorie": null,
       "tage": 1,
       "info": "Start your engine!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 6,
@@ -721,7 +741,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 7,
@@ -736,8 +760,12 @@
       "preis": 777.28,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Aragon - Full Circuit, 3 Gruppen, 15 Turns pro Gruppe, 2h Freies Fahren, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "3 Gruppen, 15 Turns pro Gruppe, 2h Freies Fahren, Racing School Europe mit dabei",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 8,
@@ -750,10 +778,14 @@
       "url": "https://www.rossocorsaonline.com/?lang=en",
       "db": "105 dB(A)",
       "preis": 299,
-      "kategorie": "Trackday",
+      "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 9,
@@ -762,14 +794,18 @@
       "start": "2026-04-14",
       "ende": "2026-04-15",
       "veranstalter": "Speer Racing",
-      "titel": "Aragon Sportfahrertraining kompakt",
+      "titel": "Aragon kompakt Sportfahrertraining",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 535.42,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Aragon - Full Circuit, 4 Gruppen, 15 Turns pro Gruppe, 2h Freies Fahren, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "4 Gruppen, 15 Turns pro Gruppe, 2h Freies Fahren, Racing School Europe mit dabei",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 10,
@@ -782,10 +818,14 @@
       "url": "https://www.actionbike.de/de/veranstaltungen/termine",
       "db": "Kein Limit",
       "preis": 650,
-      "kategorie": "Rennwochenende/freies Fahren",
+      "kategorie": "Rennwochenende",
       "tage": 4,
       "info": "4 Tage Fahrspaß an der kroatischen Küste",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 11,
@@ -801,7 +841,11 @@
       "kategorie": "Sportfahrtraining",
       "tage": 1,
       "info": "evt. noch freie Plätze nach Rückfrage",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrtraining"
     },
     {
       "id": 12,
@@ -816,8 +860,12 @@
       "preis": 1046.51,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Barcelona - Full Circuit, 4 Gruppen",
-      "status": "wenig"
+      "info": "4 Gruppen",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 13,
@@ -833,7 +881,11 @@
       "kategorie": "Race event",
       "tage": 1,
       "info": "1. Lauf der ältesten Langstreckenserie Deutschlands in der Saison 2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 14,
@@ -849,7 +901,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 15,
@@ -864,8 +920,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 16,
@@ -874,14 +934,18 @@
       "start": "2026-04-18",
       "ende": "2026-04-19",
       "veranstalter": "Speer Racing",
-      "titel": "Barcelona Sportfahrertraining kompakt",
+      "titel": "Barcelona kompakt Sportfahrertraining",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 709.69,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Barcelona - Full Circuit, 4 Gruppen",
-      "status": "wenig"
+      "info": "4 Gruppen",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 17,
@@ -897,7 +961,11 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Lauf 1 der HR Cup-Saison 2026",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 18,
@@ -912,8 +980,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 19,
@@ -928,8 +1000,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 20,
@@ -942,10 +1018,14 @@
       "url": "https://www.rossocorsaonline.com/?lang=en",
       "db": "105 dB(A)",
       "preis": 279,
-      "kategorie": "Trackday",
+      "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 21,
@@ -958,10 +1038,14 @@
       "url": "https://www.rossocorsaonline.com/?lang=en",
       "db": "105 dB(A)",
       "preis": 249,
-      "kategorie": "Trackday",
+      "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 22,
@@ -974,10 +1058,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "k.A.",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 23,
@@ -993,7 +1081,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 24,
@@ -1009,7 +1101,11 @@
       "kategorie": "Sportfahrertraining",
       "tage": 2,
       "info": "4 Sportfahrergruppen, 12 Turns pro Gruppe",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 25,
@@ -1025,7 +1121,11 @@
       "kategorie": "Freies Fahren",
       "tage": 1,
       "info": "3 Gruppen Freies Fahren mit je 6 Turns à 20 Minuten. motorschool im Programm. Reifenservice, Fotograf, Fahrwerksservice, Biomechanik-Analyse vor Ort.",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
       "id": 26,
@@ -1038,10 +1138,14 @@
       "url": "https://www.rossocorsaonline.com/?lang=en",
       "db": "Kein Limit*",
       "preis": 229,
-      "kategorie": "Trackday",
+      "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 27,
@@ -1050,14 +1154,18 @@
       "start": "2026-04-26",
       "ende": "2026-04-26",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Sportfahrertraining IDM-Kurs 26.04.",
+      "titel": "Hockenheim IDM-Kurs Einzeltag 26.4.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 297.05,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Hockenheim - IDM-Kurs, 4 Sportfahrergruppen, keine Boxen / Fahrerlager an der Mercedesarena",
-      "status": "frei"
+      "info": "4 Sportfahrergruppen",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 28,
@@ -1066,14 +1174,18 @@
       "start": "2026-04-27",
       "ende": "2026-04-28",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Most",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 29,
@@ -1082,14 +1194,18 @@
       "start": "2026-04-27",
       "ende": "2026-04-28",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Most",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 30,
@@ -1104,8 +1220,12 @@
       "preis": 529,
       "kategorie": "Rider training",
       "tage": 2,
-      "info": "Zwei Tage Fahrertraining in der Motorsportarena als Saisonauftakt",
-      "status": "frei"
+      "info": "Zwei Tage Fahrertraining in der Motorsportarena als Saisonauftakt und einfach zum Spaß haben...",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 31,
@@ -1120,8 +1240,12 @@
       "preis": 195.92,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Drei Sportfahrergruppen, 5 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "Drei Sportfahrergruppen, 5 Turns pro Gruppe",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 32,
@@ -1137,7 +1261,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "The famous 'Cathedral of Speed'",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 33,
@@ -1153,7 +1281,11 @@
       "kategorie": "Rennstreckentraining",
       "tage": 4,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 34,
@@ -1162,33 +1294,21 @@
       "start": "2026-05-01",
       "ende": "2026-05-01",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 01.05.",
+      "titel": "Anneau du Rhin Sportfahrertraining 1. Mai",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 272.11,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Drei Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "Drei Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 35,
-      "strecke": "Assen",
-      "land": "Niederlande",
-      "start": "2026-05-01",
-      "ende": "2026-05-03",
-      "veranstalter": "Team Dannhoff",
-      "titel": "Rennstreckentraining Assen",
-      "url": "http://www.Team-Dannhoff.de",
-      "db": "101 dB(A) dynamisch",
-      "preis": null,
-      "kategorie": "Trackday",
-      "tage": null,
-      "info": "Freies Fahren in 4-5 Gruppen, für Hobby- und Sportfahrer sowie Einsteiger geeignet",
-      "status": null
-    },
-    {
-      "id": 36,
       "strecke": "Balaton Park",
       "land": "Ungarn",
       "start": "2026-05-01",
@@ -1200,11 +1320,15 @@
       "preis": 150.0,
       "kategorie": "SBK-WM",
       "tage": 4,
-      "info": "Incl. SBK-WM Ticket, Pirelli Reifensatz, selber fahren ab Montag",
-      "status": null
+      "info": "Pirelli Reifensatz, selber Fahren am Montag ab €150,00, zählt nicht zur Jahreskarte und nicht zur Cupwertung",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "SBK-WM"
     },
     {
-      "id": 37,
+      "id": 36,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-05-01",
@@ -1216,27 +1340,35 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 38,
+      "id": 37,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-05-01",
       "ende": "2026-05-03",
       "veranstalter": "Speer Racing",
-      "titel": "Most Sportfahrertraining",
+      "titel": "Most 4 Gruppenzeitplan",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
-      "preis": null,
+      "preis": 796.39,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "4 Gruppenzeitplan, Abschlussrennen & Auftakt RegioCup",
-      "status": null
+      "info": "4 Gruppen mit Abschlussrennen und Auftakt RegioCup, Restplätze",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 39,
+      "id": 38,
       "strecke": "Pannoniaring",
       "land": "Ungarn",
       "start": "2026-05-01",
@@ -1249,10 +1381,14 @@
       "kategorie": "Cup",
       "tage": 3,
       "info": "Freies Fahren in 4 homogenen Gruppen, Rennen und Jahreswertungen",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup"
     },
     {
-      "id": 40,
+      "id": 39,
       "strecke": "Tazio Nuvolari",
       "land": "Italien",
       "start": "2026-05-01",
@@ -1264,11 +1400,15 @@
       "preis": 640,
       "kategorie": "Rennwochenende",
       "tage": 3,
-      "info": "Feiertags-Event – 3 Tage Racing & Dolce Vita",
-      "status": "wenig"
+      "info": "Feiertags-Event - 3 Tage Racing südlich von Mailand",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
-      "id": 41,
+      "id": 40,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-05-02",
@@ -1278,13 +1418,17 @@
       "url": "https://www.rossocorsaonline.com/?lang=en",
       "db": "Kein Limit*",
       "preis": 249,
-      "kategorie": "Trackday",
+      "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 42,
+      "id": 41,
       "strecke": "Ecuyers",
       "land": "Frankreich",
       "start": "2026-05-02",
@@ -1297,23 +1441,51 @@
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 2,
       "info": "7 plekken voor instructie, 6 plekken voor vrij rijden",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
-      "id": 43,
+      "id": 42,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-05-02",
       "ende": "2026-05-03",
       "veranstalter": "Speer Racing",
-      "titel": "Most Sportfahrertraining kompakt",
+      "titel": "Most kompakt Sportfahrertraining",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 556.2,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Most - Full Circuit, 4 Gruppen mit Abschlussrennen",
-      "status": "frei"
+      "info": "4 Gruppen mit Abschlussrennen",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
+    },
+    {
+      "id": 43,
+      "strecke": "Oschersleben",
+      "land": "Deutschland",
+      "start": "2026-05-02",
+      "ende": "2026-05-02",
+      "veranstalter": "ART MOTOR",
+      "titel": "Classic Endurance - Lauf 1",
+      "url": "https://artmotor.de/",
+      "db": "98-100 dB(A)",
+      "preis": null,
+      "kategorie": "Racing",
+      "tage": 1,
+      "info": null,
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing"
     },
     {
       "id": 44,
@@ -1329,7 +1501,11 @@
       "kategorie": "Sportfahrtraining",
       "tage": 2,
       "info": "Neu im Kalender",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrtraining"
     },
     {
       "id": 45,
@@ -1345,7 +1521,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 46,
@@ -1354,14 +1534,18 @@
       "start": "2026-05-04",
       "ende": "2026-05-05",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Oschersleben",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 47,
@@ -1377,7 +1561,11 @@
       "kategorie": null,
       "tage": 3,
       "info": "In the heart of the Algarve!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 48,
@@ -1393,7 +1581,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 49,
@@ -1409,7 +1601,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 50,
@@ -1424,8 +1620,12 @@
       "preis": 120,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "2. Cupevent am Slovakiaring - Slowakei. Eine der längsten und modernsten Rennstrecken Europas (bis zu 5,9 km) mit schnellen Geraden, anspruchsvollen Kurven und starken Höhenwechseln.",
-      "status": "frei"
+      "info": "2. Cupevent am Slovakiaring - Slowakei. Bis zu 5,9 km lange moderne Rennstrecke mit schnellen Geraden und anspruchsvollen Kurven. Boxen: 150€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 51,
@@ -1434,14 +1634,18 @@
       "start": "2026-05-09",
       "ende": "2026-05-10",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 52,
@@ -1457,7 +1661,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 53,
@@ -1472,8 +1680,12 @@
       "preis": 439,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren in vier Gruppen á 15 Minuten (sieben Turns pro Teilnehmer pro Tag). Instruktoren vor Ort. Keine Rennen und Zeitnahme, für Anfänger geeignet. 2,7 km Rundkurs mit 10 Rechts- und 7 Linkskurven. Freibier am Samstagabend. Optional: Frühstück, Getränke, Obst und Abendessen für 49€. Kostenlose Übernachtung im Fahrerlager Sa./So., 15€ So./Mo.",
-      "status": null
+      "info": "Freies Fahren in vier Gruppen á 15 Minuten, sieben Turns pro Teilnehmer pro Tag, Instruktoren vor Ort, keine Rennen und Zeitnahme, für Anfänger geeignet, 2,7 km Rundkurs mit 10 Rechts- und 7 Linkskurven, Freibier am Samstagabend, optionales Upgrade mit Verpflegung für 49 €, kostenlose Übernachtung im Fahrerlager Sa./So.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 54,
@@ -1489,7 +1701,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 55,
@@ -1504,8 +1720,12 @@
       "preis": 459,
       "kategorie": "Renntraining",
       "tage": 2,
-      "info": "2-Tages-Event in Belgien (ca. 2h von Aachen)",
-      "status": "wenig"
+      "info": "2-Tages-Event in Belgien (ca. 2h von Aachen). Ausgebucht, nur noch wenige Plätze in der schnellen Gruppe.",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
       "id": 56,
@@ -1520,8 +1740,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Misano World Circuit, lunghezza 4.180 metri, completamente illuminata per utilizzo in notturna.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 57,
@@ -1537,7 +1761,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Fahren auf unserer MotoGP Strecke Deutschlands! Fühle Dich wie Rossi & Co.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 58,
@@ -1546,14 +1774,18 @@
       "start": "2026-05-14",
       "ende": "2026-05-15",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 59,
@@ -1569,7 +1801,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 60,
@@ -1585,7 +1821,11 @@
       "kategorie": null,
       "tage": 1,
       "info": "Start your engine!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 61,
@@ -1601,7 +1841,11 @@
       "kategorie": "Rider training",
       "tage": 4,
       "info": "Himmelfahrts-Wochenende. Fahrertraining in der Motorsportarena mit BMW Test-Flotte",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 62,
@@ -1616,8 +1860,12 @@
       "preis": 790,
       "kategorie": "Rennwochenende",
       "tage": 3,
-      "info": "Feiertags-Event – 3 Tage Fahrspaß",
-      "status": "wenig"
+      "info": "Feiertags-Event - 3 Tage Fahrspaß",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 63,
@@ -1632,8 +1880,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 64,
@@ -1649,7 +1901,11 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Lauf 1 der CSBK- Saison 2026",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 65,
@@ -1665,7 +1921,11 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 66,
@@ -1680,8 +1940,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 67,
@@ -1690,14 +1954,18 @@
       "start": "2026-05-16",
       "ende": "2026-05-17",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 68,
@@ -1713,7 +1981,11 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Einzylinder-Action auf Deutschlands zentralster Rennstrecke!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 69,
@@ -1728,8 +2000,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 70,
@@ -1745,7 +2021,11 @@
       "kategorie": "Junior Track",
       "tage": 1,
       "info": "2 plekken voor instructie middag, 5 plekken voor vrij rijden middag",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Junior Track"
     },
     {
       "id": 71,
@@ -1760,8 +2040,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Autodromo internazionale del Mugello, lunghezza 5245 m, 15 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 72,
@@ -1770,14 +2054,18 @@
       "start": "2026-05-18",
       "ende": "2026-05-19",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Pannonia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)*",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": "Freies Fahren und Rennen",
-      "status": "ausgebucht"
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 73,
@@ -1792,8 +2080,12 @@
       "preis": null,
       "kategorie": "Rennstreckentraining",
       "tage": 3,
-      "info": "3 Tage, buchbar",
-      "status": "frei"
+      "info": "buchbar",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 74,
@@ -1809,7 +2101,11 @@
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 2,
       "info": "1 plek voor instructie, 4 plekken voor vrij rijden",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
       "id": 75,
@@ -1822,10 +2118,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "Kein Limit",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 76,
@@ -1840,8 +2140,12 @@
       "preis": 509,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "ausgebucht"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 77,
@@ -1857,7 +2161,11 @@
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 2,
       "info": "4 plekken voor instructie, 10+ plekken voor vrij rijden",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
       "id": 78,
@@ -1873,7 +2181,11 @@
       "kategorie": "Rider training",
       "tage": 1,
       "info": "Enjoy the legend! Nutz die Gelegenheit, die GP-Strecke gibt's nur äußerst selten!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 79,
@@ -1889,7 +2201,11 @@
       "kategorie": "Cup",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup"
     },
     {
       "id": 80,
@@ -1905,7 +2221,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 81,
@@ -1914,14 +2234,18 @@
       "start": "2026-05-23",
       "ende": "2026-05-25",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 82,
@@ -1930,14 +2254,18 @@
       "start": "2026-05-23",
       "ende": "2026-05-24",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Sportfahrertraining 2 Tage",
+      "titel": "Hockenheim Sportfahrertraining 23.-24. Mai",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 555.0,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Hockenheim - IDM-Kurs, 4 Sportfahrergruppen",
-      "status": "wenig"
+      "info": "4 Sportfahrergruppen",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 83,
@@ -1953,7 +2281,11 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Zweiter Lauf der IBPM-Saison 2026. Einmaliges Event auf der großen GP-Variante!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 84,
@@ -1968,8 +2300,12 @@
       "preis": 579,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "ausgebucht"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 85,
@@ -1985,7 +2321,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 86,
@@ -1994,14 +2334,18 @@
       "start": "2026-05-24",
       "ende": "2026-05-24",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Sportfahrertraining 24.05.",
+      "titel": "Hockenheim Sportfahrertraining Einzeltag 24.5.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 280.0,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Hockenheim - IDM-Kurs, 4 Sportfahrergruppen",
-      "status": "frei"
+      "info": "4 Sportfahrergruppen",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 87,
@@ -2014,10 +2358,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "105 dB(A)",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 88,
@@ -2033,7 +2381,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "Soak up the sun!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 89,
@@ -2042,14 +2394,18 @@
       "start": "2026-05-25",
       "ende": "2026-05-25",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Instruktorentraining 25.05.",
+      "titel": "Hockenheim Instruktorentraining 25.5.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 280.0,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs, geführtes Training in Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
       "id": 90,
@@ -2058,14 +2414,18 @@
       "start": "2026-05-25",
       "ende": "2026-05-26",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Slovakia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)",
       "preis": 259,
       "kategorie": "Trackday",
       "tage": 2,
       "info": "Freies Fahren und Rennen",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 91,
@@ -2074,14 +2434,18 @@
       "start": "2026-05-25",
       "ende": "2026-05-27",
       "veranstalter": "Speer Racing",
-      "titel": "Rijeka Girls Camp",
+      "titel": "Rijeka GirlsCamp",
       "url": "https://www.speer-racing.de/",
       "db": "Kein Limit",
       "preis": 636.5,
       "kategorie": "Girls Camp",
       "tage": 3,
-      "info": "Rijeka - Full Circuit, Drei Tage Fahrspass mit Instruktorenbegleitung, Trackwalk, Schrauberworkshop und Abschlussrennen inklusive",
-      "status": "wenig"
+      "info": "Drei Tage Fahrspass mit Instruktorenbegleitung, Trackwalk, Schrauberworkshop und Abschlussrennen inklusive",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Girls Camp"
     },
     {
       "id": 92,
@@ -2097,7 +2461,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 93,
@@ -2113,7 +2481,11 @@
       "kategorie": "Rennstreckentraining",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 94,
@@ -2128,8 +2500,12 @@
       "preis": 350.0,
       "kategorie": "Freies Fahren",
       "tage": 2,
-      "info": "Rijeka - Full Circuit, inkl. Sprintrennen",
-      "status": "wenig"
+      "info": "Inkl. Sprintrennen",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
       "id": 95,
@@ -2138,14 +2514,18 @@
       "start": "2026-05-30",
       "ende": "2026-05-31",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Slovakiaring",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 96,
@@ -2154,14 +2534,18 @@
       "start": "2026-05-30",
       "ende": "2026-05-31",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Slovakia",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 97,
@@ -2176,8 +2560,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Misano World Circuit, lunghezza 4.180 metri, completamente illuminata per utilizzo in notturna.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 98,
@@ -2192,8 +2580,12 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Misano World Circuit, lunghezza 4.180 metri, completamente illuminata per utilizzo in notturna.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 99,
@@ -2206,10 +2598,14 @@
       "url": "http://www.tz-motorsport.ch",
       "db": "98-102 dB(A)",
       "preis": null,
-      "kategorie": "Track-Days",
+      "kategorie": "Track-Day",
       "tage": 2,
       "info": "05. Juni 2026, 3.0 km Strecke / 06. Juni 2026, 3.7 km Strecke",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Track-Day"
     },
     {
       "id": 100,
@@ -2224,8 +2620,12 @@
       "preis": 569,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "Zusatzevent am Tazio Nuvolari Circuit - Italien. Moderne, rund 5,1 km lange Rennstrecke mit flüssigem Layout. Lautstärkenlimit: maximal 105 dB.",
-      "status": "frei"
+      "info": "Zusatzevent am Tazio Nuvolari Circuit - Italien. Rund 5,1 km lange moderne Rennstrecke nahe Mailand. ACHTUNG: Lautstärkenlimit maximal 105 dB. Boxen: 200€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 101,
@@ -2241,23 +2641,31 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "Genieß mit uns die schnelle und schöne Strecke südlich von Mailand!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 102,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-06-06",
-      "ende": "2026-06-07",
+      "ende": "2026-06-06",
       "veranstalter": "motorspeed",
-      "titel": "motorbasics und Freies Fahren",
+      "titel": "motorbasics",
       "url": "https://motorspeed.de/",
       "db": "k.A.",
       "preis": null,
       "kategorie": "motorbasics",
-      "tage": 2,
-      "info": "Samstag 06.06. motorbasics: vormittags Instruktion, nachmittags Freies Fahren. Sonntag 07.06. Freies Fahren in 4 Gruppen mit je 6 Turns.",
-      "status": null
+      "tage": 1,
+      "info": "Rennstreckeneinstieg für Anfänger. Vormittags 3 Turns mit Instruktoren, nachmittags 3 Turns Freies Fahren.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "motorbasics"
     },
     {
       "id": 103,
@@ -2266,17 +2674,41 @@
       "start": "2026-06-06",
       "ende": "2026-06-07",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 104,
+      "strecke": "Circuit Carole",
+      "land": "Frankreich",
+      "start": "2026-06-07",
+      "ende": "2026-06-07",
+      "veranstalter": "motorspeed",
+      "titel": "Freies Fahren",
+      "url": "https://motorspeed.de/",
+      "db": "k.A.",
+      "preis": null,
+      "kategorie": "Freies Fahren",
+      "tage": 1,
+      "info": "4 Gruppen Freies Fahren mit je 6 Turns. Strecke 3,75 km. Reifenservice, Fotograf, Fahrwerksservice, Biomechanik-Analyse vor Ort.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
+    },
+    {
+      "id": 105,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-06-07",
@@ -2289,10 +2721,14 @@
       "kategorie": null,
       "tage": 1,
       "info": "The first date of the year at Spa-Francorchamps!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 105,
+      "id": 106,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-06-08",
@@ -2305,26 +2741,34 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 106,
+      "id": 107,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-06-08",
       "ende": "2026-06-11",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Autodrom Most",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 4,
       "info": "Freies Fahren und Rennen",
-      "status": "ausgebucht"
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 107,
+      "id": 108,
       "strecke": "Sachsenring",
       "land": "Deutschland",
       "start": "2026-06-08",
@@ -2337,10 +2781,14 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Fahren auf unserer MotoGP Strecke Deutschlands! Fühle Dich wie Rossi & Co.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 108,
+      "id": 109,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-06-09",
@@ -2353,42 +2801,54 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 109,
+      "id": 110,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-06-10",
       "ende": "2026-06-11",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Autodrom Most",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "105 dB(A)",
       "preis": 499,
       "kategorie": "Trackday",
       "tage": 2,
       "info": "Freies Fahren und Rennen",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 110,
+      "id": 111,
       "strecke": "Sachsenring",
       "land": "Deutschland",
       "start": "2026-06-11",
       "ende": "2026-06-12",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Sachsenring",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "Nur Serie!",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 111,
+      "id": 112,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-06-12",
@@ -2401,10 +2861,14 @@
       "kategorie": "Cup",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup"
     },
     {
-      "id": 112,
+      "id": 113,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-06-12",
@@ -2416,11 +2880,15 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 113,
+      "id": 114,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-12",
@@ -2432,11 +2900,15 @@
       "preis": 229,
       "kategorie": "Rider training",
       "tage": 3,
-      "info": "Das Motorrad-Fest für alle inklusive Testfahrten auf der Rennstrecke",
-      "status": "frei"
+      "info": "Das Motorrad-Fest für alle inklusive Testfahrten auf der Rennstrecke, der Landstraße und Offroad. Besonders einsteigerfreundlich, da nur mit einem kurzen Hobbyrennen.",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 114,
+      "id": 115,
       "strecke": "Rijeka",
       "land": "Kroatien",
       "start": "2026-06-12",
@@ -2448,11 +2920,15 @@
       "preis": 550,
       "kategorie": "Rennwochenende",
       "tage": 3,
-      "info": "Sommer-Event – 3 Tage Sonne, Meer & Motorradfeeling",
-      "status": "wenig"
+      "info": "Sommer-Event - 3 Tage Sonne, Meer & Motorradfeeling",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
-      "id": 115,
+      "id": 116,
       "strecke": "Schleizer Dreieck",
       "land": "Deutschland",
       "start": "2026-06-12",
@@ -2465,10 +2941,14 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Lauf 2 der GTT-Saison 2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 116,
+      "id": 117,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-06-12",
@@ -2481,10 +2961,14 @@
       "kategorie": null,
       "tage": 2,
       "info": "To end spring on a high note!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 117,
+      "id": 118,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-06-13",
@@ -2494,13 +2978,17 @@
       "url": "https://ppotrackdays.com/",
       "db": "k.A.",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
-      "id": 118,
+      "id": 119,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-06-13",
@@ -2512,11 +3000,15 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 119,
+      "id": 120,
       "strecke": "Dijon-Prenois",
       "land": "Frankreich",
       "start": "2026-06-13",
@@ -2529,10 +3021,14 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 120,
+      "id": 121,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-13",
@@ -2545,10 +3041,14 @@
       "kategorie": "Renntraining",
       "tage": 2,
       "info": "2-Tages-Event in Deutschland, nahe Magdeburg",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
-      "id": 121,
+      "id": 122,
       "strecke": "Schleizer Dreieck",
       "land": "Deutschland",
       "start": "2026-06-13",
@@ -2561,10 +3061,14 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Einzylinder-Action auf dem Schleizer Dreieck!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 122,
+      "id": 123,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-06-14",
@@ -2576,27 +3080,35 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Il Cremona Circuit è situato a San Martino del Lago in provincia di Cremona. La pista principale ha una lunghezza di 3.702 mt con 13 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 123,
+      "id": 124,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-06-14",
       "ende": "2026-06-14",
       "veranstalter": "Bikers Days",
-      "titel": "Bikers' Days Spa SpaItalia",
+      "titel": "Bikers' Days Spa",
       "url": "https://bikersdays.com/en/calendrier/",
       "db": "99 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 1,
       "info": "As part of SpaItalia",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 124,
+      "id": 125,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-06-15",
@@ -2609,26 +3121,34 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 125,
+      "id": 126,
       "strecke": "Pannoniaring",
       "land": "Ungarn",
       "start": "2026-06-15",
       "ende": "2026-06-16",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Pannonia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)*",
       "preis": 199,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren und Rennen, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren und Rennen (Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 126,
+      "id": 127,
       "strecke": "Sachsenring",
       "land": "Deutschland",
       "start": "2026-06-15",
@@ -2640,27 +3160,35 @@
       "preis": 299,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "Deutschlands einzige Moto GP Strecke. 2 Tage Fahrtraining mit Gruppeneinteilung A-D. Serviceleistungen: Teile & Reifendienst, Fotoservice, Fahrwerkservice (optional), Einzelcoaching, Kaffee/Wasser ganztägig. Catering mit Frühstück optional buchbar. Nur Serienauspuff erlaubt.",
-      "status": "wenig"
+      "info": "2 Tage Fahrtraining mit Instruktoren in verschiedenen Leistungsgruppen (A-D). Serviceleistungen: Teile & Reifendienst, Fotoservice, Fahrwerkservice (optional), Einzelcoaching, Catering. Originalauspuff Pflicht.",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
-      "id": 127,
+      "id": 128,
       "strecke": "Tor Poznań",
       "land": "Polen",
       "start": "2026-06-15",
       "ende": "2026-06-17",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 128,
+      "id": 129,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-06-18",
@@ -2673,26 +3201,34 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 129,
+      "id": 130,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-06-19",
       "ende": "2026-06-21",
       "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
-      "titel": "#gasss_family_endurance Sommer",
+      "titel": "Sommeranfang Cremona",
       "url": "http://www.gasss.eu",
       "db": "Kein Limit*",
       "preis": null,
-      "kategorie": null,
+      "kategorie": "Trackday",
       "tage": 3,
-      "info": "Sommeranfang auf der Hausstrecke in Cremona, Freies Fahren in 4 Gruppen mit Qualifying",
-      "status": null
+      "info": "Wochenende (FR-SA-SO) auf der Hausstrecke Cremona. Freies Fahren in 4 Gruppen, Qualifying",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 130,
+      "id": 131,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-06-19",
@@ -2705,10 +3241,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 131,
+      "id": 132,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-06-20",
@@ -2721,26 +3261,34 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 132,
+      "id": 133,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-06-22",
       "ende": "2026-06-23",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Most",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 133,
+      "id": 134,
       "strecke": "Mugello",
       "land": "Italien",
       "start": "2026-06-22",
@@ -2752,59 +3300,75 @@
       "preis": null,
       "kategorie": null,
       "tage": 1,
-      "info": null,
-      "status": null
+      "info": "Autodromo internazionale del Mugello, lunghezza 5245 m, 15 curve.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 134,
+      "id": 135,
       "strecke": "Nürburgring GP",
       "land": "Deutschland",
       "start": "2026-06-22",
       "ende": "2026-06-22",
       "veranstalter": "Speer Racing",
-      "titel": "Nürburgring Instruktorentraining 22.06.",
+      "titel": "Nürburgring Instruktorentraining 22.6.",
       "url": "https://www.speer-racing.de/",
       "db": "95 dB(A)",
       "preis": 283.08,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Nürburgring - Grand-Prix-Kurs, geführtes Training in neun Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in neun Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 135,
+      "id": 136,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-22",
       "ende": "2026-06-23",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 136,
+      "id": 137,
       "strecke": "Nürburgring GP",
       "land": "Deutschland",
       "start": "2026-06-23",
       "ende": "2026-06-23",
       "veranstalter": "Speer Racing",
-      "titel": "Nürburgring Sportfahrertraining 23.06.",
+      "titel": "Nürburgring Sportfahrertraining 23.6. mit RegioCup",
       "url": "https://www.speer-racing.de/",
       "db": "95 dB(A)",
       "preis": 279.75,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Nürburgring - Grand-Prix-Kurs, 4 Gruppen, 6 Turns pro Tag mit RegioCup",
-      "status": "frei"
+      "info": "4 Gruppen, 6 Turns pro Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 137,
+      "id": 138,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-06-26",
@@ -2816,11 +3380,15 @@
       "preis": 299,
       "kategorie": "Training and racing event",
       "tage": 3,
-      "info": "Die IBPM ist zurück auf dem badischen Traditionskurs!",
-      "status": "frei"
+      "info": "Die IBPM ist zurück auf dem badischen Traditionskurs! Das kannst Du nicht weglassen- es gibt nur eine lizenzfreie Veranstaltung dieser Art auf dem Hockenheimring!",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Training and racing event"
     },
     {
-      "id": 138,
+      "id": 139,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-26",
@@ -2833,10 +3401,14 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Lauf 2 der CSBK- Saison 2026",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 139,
+      "id": 140,
       "strecke": "Rijeka",
       "land": "Kroatien",
       "start": "2026-06-26",
@@ -2848,40 +3420,32 @@
       "preis": 120,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "3. Cupevent Automotodrom Grobnik / Rijeka - Kroatien. Traditionsreiche Rennstrecke mit 4,2 km Länge. Schnelle Kurvenwechsel und flüssiges Layout nahe der Adriaküste.",
-      "status": "frei"
+      "info": "3. Cupevent Automotodrom Grobnik / Rijeka - Kroatien. 4,2 km lange traditionsreiche Rennstrecke mit flüssigem Layout. Boxen: kleine Box 120€/Tag, große Box 170€/Tag, Boxenplatz 40€/Tag",
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 140,
+      "id": 141,
       "strecke": "Slovakiaring",
       "land": "Slowakei",
       "start": "2026-06-26",
       "ende": "2026-06-28",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
-    },
-    {
-      "id": 141,
-      "strecke": "Brno",
-      "land": "Tschechien",
-      "start": "2026-06-27",
-      "ende": "2026-06-28",
-      "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Brünn",
-      "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
-      "db": "105 dB(A)",
-      "preis": null,
-      "kategorie": null,
-      "tage": 2,
-      "info": "Warteliste",
-      "status": "wenig"
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 142,
@@ -2889,18 +3453,42 @@
       "land": "Tschechien",
       "start": "2026-06-27",
       "ende": "2026-06-28",
+      "veranstalter": "FR Timekeeping",
+      "titel": "FR-Timekeeping Trackday",
+      "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
+      "db": "105 dB(A)",
+      "preis": null,
+      "kategorie": null,
+      "tage": 2,
+      "info": null,
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
+    },
+    {
+      "id": 143,
+      "strecke": "Brno",
+      "land": "Tschechien",
+      "start": "2026-06-27",
+      "ende": "2026-06-28",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Brünn",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 143,
+      "id": 144,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-06-27",
@@ -2913,10 +3501,14 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 144,
+      "id": 145,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-27",
@@ -2929,26 +3521,34 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Lauf 3 der GTT- Saison 2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 145,
+      "id": 146,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-06-29",
       "ende": "2026-06-29",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Instruktorentraining 29.06.",
+      "titel": "Hockenheim Instruktorentraining 29.6.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 320.1,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs, geführtes Training in Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 146,
+      "id": 147,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-06-29",
@@ -2960,11 +3560,15 @@
       "preis": 509,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "frei"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 147,
+      "id": 148,
       "strecke": "Zandvoort",
       "land": "Niederlande",
       "start": "2026-06-29",
@@ -2977,42 +3581,54 @@
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 1,
       "info": "Instructie volgeboekt, 2 plekken voor vrij rijden",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
-      "id": 148,
+      "id": 149,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-06-30",
       "ende": "2026-06-30",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Getting Started 30.06.",
+      "titel": "Hockenheim Getting Started",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 271.6,
       "kategorie": "Getting Started",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs, Vormittagsprogramm im Fahrerlager (Schräglagentraining und Bremsübungen), nachmittags Rennstreckenturns",
-      "status": "frei"
+      "info": "Vormittagsprogramm Schräglagentraining und Bremsübungen, nachmittags Rennstreckenturns",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Getting Started"
     },
     {
-      "id": 149,
+      "id": 150,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-06-30",
       "ende": "2026-07-02",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 150,
+      "id": 151,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-06-30",
@@ -3025,23 +3641,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "Spa-Francorchamps to kick off the summer!",
-      "status": null
-    },
-    {
-      "id": 151,
-      "strecke": "Assen",
-      "land": "Niederlande",
-      "start": "2026-07-01",
-      "ende": "2026-07-03",
-      "veranstalter": "Team Dannhoff",
-      "titel": "Rennstreckentraining Assen",
-      "url": "http://www.Team-Dannhoff.de",
-      "db": "101 dB(A) dynamisch",
-      "preis": null,
-      "kategorie": "Trackday",
-      "tage": null,
-      "info": "Freies Fahren in 4-5 Gruppen, für Hobby- und Sportfahrer sowie Einsteiger geeignet",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 152,
@@ -3057,7 +3661,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 153,
@@ -3073,7 +3681,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 154,
@@ -3089,7 +3701,11 @@
       "kategorie": "Rennstreckentraining",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 155,
@@ -3105,7 +3721,11 @@
       "kategorie": "Training and racing event",
       "tage": 3,
       "info": "Renn- und Fahrertraining mit Just4Fun-Rennen",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Training and racing event"
     },
     {
       "id": 156,
@@ -3121,7 +3741,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 157,
@@ -3134,10 +3758,14 @@
       "url": "https://racing-school-europe.com/",
       "db": "105 dB(A)",
       "preis": null,
-      "kategorie": "Trackday",
+      "kategorie": "Trackday/Racing School",
       "tage": 3,
-      "info": "Fly in and ride BMW S 1000 RR, GoPro recording & analysis, 1 on 3 instruction, riding gear available",
-      "status": "wenig"
+      "info": "Fly in and ride, BMW S 1000 RR included, final spots available",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday/Racing School"
     },
     {
       "id": 158,
@@ -3152,8 +3780,12 @@
       "preis": 969.03,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Mugello - Full Circuit, drei volle Tage, drei Gruppen, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "Drei volle Tage, drei Gruppen, Racing School Europe mit dabei",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 159,
@@ -3166,10 +3798,14 @@
       "url": "http://www.gasss.eu",
       "db": "98 dB(A)*",
       "preis": null,
-      "kategorie": null,
+      "kategorie": "Endurance",
       "tage": 3,
-      "info": "3 Tage am Pannonia-Ring mit #gasss_family_endurance",
-      "status": null
+      "info": "2. #gasss_family_endurance – Wochenende (FR-SA-SO) am Pannonia-Ring",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Endurance"
     },
     {
       "id": 160,
@@ -3184,8 +3820,12 @@
       "preis": 440,
       "kategorie": "Kurventraining",
       "tage": 3,
-      "info": "Abwechslungsreiche Rennstrecke mit flüssigen Kurven und spannenden Geraden. Keine DB-Limit. Professionelle Instruktoren. Gruppen-& Einzelinstruktion. Zeitnahme mit Transponder (15€/Tag). Fun Races für Rookies, Supersport und Superbike. Endurance Race am 2. Tag. Freibier & Grillwurst. Fotograf vor Ort. Getränke und Snacks inklusive.",
-      "status": null
+      "info": "3 Tage Fahrtraining mit Gruppen-& Einzelinstruktion, professionelle Zeitnahme, Fun Races und Endurance Race. Getränke, Snacks, Freibier & Grillwurst inklusive.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
       "id": 161,
@@ -3194,14 +3834,18 @@
       "start": "2026-07-04",
       "ende": "2026-07-04",
       "veranstalter": "Speer Racing",
-      "titel": "Assen Sportfahrertraining 04.07.",
+      "titel": "Assen Sportfahrertraining 4.7.",
       "url": "https://www.speer-racing.de/",
       "db": "101 dB(A) dynamisch",
       "preis": 324.95,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Assen - Full Circuit, 4 Gruppen, 6 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "4 Gruppen, 6 Turns pro Gruppe",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 162,
@@ -3217,7 +3861,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Klassiker bis Baujahr 1990 sind willkommen!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 163,
@@ -3232,8 +3880,12 @@
       "preis": 659.6,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Mugello - Full Circuit, drei Gruppen, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "Drei Gruppen, Racing School Europe mit dabei",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 164,
@@ -3242,14 +3894,18 @@
       "start": "2026-07-05",
       "ende": "2026-07-05",
       "veranstalter": "Speer Racing",
-      "titel": "Assen Sportfahrertraining 05.07.",
+      "titel": "Assen Sportfahrertraining 5.7.",
       "url": "https://www.speer-racing.de/",
       "db": "101 dB(A) dynamisch",
       "preis": 324.95,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Assen - Full Circuit, 4 Gruppen, 6 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "4 Gruppen, 6 Turns pro Gruppe",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 165,
@@ -3262,10 +3918,14 @@
       "url": "http://www.tz-motorsport.ch",
       "db": "105 dB(A)",
       "preis": null,
-      "kategorie": "Track-Days",
+      "kategorie": "Track-Day",
       "tage": 3,
-      "info": "wenige freie Plätze! Strecke der WSBK",
-      "status": "wenig"
+      "info": "3 Tage auf der Strecke der WSBK",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Track-Day"
     },
     {
       "id": 166,
@@ -3274,14 +3934,18 @@
       "start": "2026-07-06",
       "ende": "2026-07-08",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 167,
@@ -3294,10 +3958,14 @@
       "url": "https://www.wsb-sport.com/",
       "db": "105 dB(A)",
       "preis": 273.6,
-      "kategorie": "Cup",
+      "kategorie": "Cup mit Int. Sidecar Trophy",
       "tage": 3,
-      "info": "Cup mit Int. Sidecar Trophy",
-      "status": null
+      "info": null,
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup mit Int. Sidecar Trophy"
     },
     {
       "id": 168,
@@ -3310,10 +3978,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "105 dB(A)",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 169,
@@ -3329,7 +4001,11 @@
       "kategorie": "Motorradtraining",
       "tage": 2,
       "info": "Samstag & Sonntag, 9 bis 18 Uhr, online und buchbar",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Motorradtraining"
     },
     {
       "id": 170,
@@ -3338,14 +4014,18 @@
       "start": "2026-07-11",
       "ende": "2026-07-12",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Lausitzring",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 171,
@@ -3354,14 +4034,18 @@
       "start": "2026-07-11",
       "ende": "2026-07-12",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Lausitz",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 172,
@@ -3376,8 +4060,12 @@
       "preis": null,
       "kategorie": "Kurven- und Handlingstraining",
       "tage": 2,
-      "info": "Individuelles Motorradtraining mit Fokus auf technische Perfektion und Handling. Sozius fährt kostenlos mit. Veranstalterhaftpflicht-Versicherung inklusive.",
-      "status": null
+      "info": "Individuelles Kurven- und Handlingstraining. Fokus auf perfektes Handling und Souveränität. Sozius fährt kostenlos mit.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurven- und Handlingstraining"
     },
     {
       "id": 173,
@@ -3386,14 +4074,18 @@
       "start": "2026-07-11",
       "ende": "2026-07-12",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 174,
@@ -3408,8 +4100,12 @@
       "preis": 179,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "2,7 km Strecke, ideales Einsteigertraining. 20 Minuten Turns in Gruppen. Kein Rennen, keine Zeitnahme. Geeignet für Anfänger und Neulinge. Serviceleistungen: Teile & Reifendienst, Fotoservice, Fahrwerkservice, Einzelcoaching. Gebäck am Nachmittag. Kaffee/Wasser ganztägig. Catering mit Frühstück optional buchbar.",
-      "status": null
+      "info": "Reines Training ohne Zeitnahme und Rennen. Ideal für Anfänger und Neulinge. 2,7 km lange, technisch anspruchsvolle Strecke.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
       "id": 175,
@@ -3422,10 +4118,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "k.A.",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 176,
@@ -3441,7 +4141,11 @@
       "kategorie": "Renntraining",
       "tage": 2,
       "info": "2-Tages-Event in Deutschland, Niedersachsen (nahe holländische Grenze)",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
       "id": 177,
@@ -3457,7 +4161,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 178,
@@ -3466,14 +4174,18 @@
       "start": "2026-07-13",
       "ende": "2026-07-14",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 179,
@@ -3482,14 +4194,18 @@
       "start": "2026-07-13",
       "ende": "2026-07-14",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Pannonia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)*",
       "preis": 199,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren, keine Rennen im Juli, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren (Keine Rennen im Juli, Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 180,
@@ -3498,14 +4214,18 @@
       "start": "2026-07-16",
       "ende": "2026-07-16",
       "veranstalter": "Speer Racing",
-      "titel": "Nürburgring Instruktorentraining 16.07.",
+      "titel": "Nürburgring Instruktorentraining 16.7.",
       "url": "https://www.speer-racing.de/",
       "db": "95 dB(A)",
       "preis": 283.08,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Nürburgring - Grand-Prix-Kurs, geführtes Training in neun Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in neun Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
       "id": 181,
@@ -3520,8 +4240,12 @@
       "preis": null,
       "kategorie": "Rennstreckentraining",
       "tage": 3,
-      "info": "3 Tage, buchbar",
-      "status": "frei"
+      "info": "buchbar",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 182,
@@ -3537,7 +4261,11 @@
       "kategorie": "Rennwochenende",
       "tage": 3,
       "info": "Abwechslungsreiches Wochenende für Einsteiger und erfahrene Racer",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 183,
@@ -3546,14 +4274,18 @@
       "start": "2026-07-17",
       "ende": "2026-07-17",
       "veranstalter": "Speer Racing",
-      "titel": "Nürburgring 1:1 Coaching 17.07.",
+      "titel": "Nürburgring 1:1 Coaching 17.7.",
       "url": "https://www.speer-racing.de/",
       "db": "95 dB(A)",
       "preis": 899.0,
       "kategorie": "1:1 Coaching",
       "tage": 1,
-      "info": "Nürburgring - Grand-Prix-Kurs, Dein persönlicher Instruktor den ganzen Tag nur für dich!",
-      "status": "frei"
+      "info": "Persönlicher Instruktor den ganzen Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "1:1 Coaching"
     },
     {
       "id": 184,
@@ -3569,7 +4301,11 @@
       "kategorie": "Rennstreckentraining",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
       "id": 185,
@@ -3585,7 +4321,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 186,
@@ -3594,14 +4334,18 @@
       "start": "2026-07-18",
       "ende": "2026-07-19",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 187,
@@ -3617,7 +4361,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 188,
@@ -3632,8 +4380,12 @@
       "preis": 189,
       "kategorie": "Freies Fahren",
       "tage": 1,
-      "info": "Montag, Freies Fahren",
-      "status": null
+      "info": "Montag Trainingstag",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
       "id": 189,
@@ -3642,14 +4394,18 @@
       "start": "2026-07-20",
       "ende": "2026-07-21",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Brno Circuit",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren, keine Rennen im Juli",
-      "status": "ausgebucht"
+      "info": "Freies Fahren (Keine Rennen im Juli)",
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 190,
@@ -3665,7 +4421,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "In the heart of Burgundy!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 191,
@@ -3674,14 +4434,18 @@
       "start": "2026-07-20",
       "ende": "2026-07-21",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 192,
@@ -3697,7 +4461,11 @@
       "kategorie": "Rider training",
       "tage": 1,
       "info": "Fahrspaß auf dem badischen Traditionskurs!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 193,
@@ -3706,14 +4474,18 @@
       "start": "2026-07-20",
       "ende": "2026-07-21",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Oschersleben",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 194,
@@ -3722,14 +4494,18 @@
       "start": "2026-07-20",
       "ende": "2026-07-21",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Oschersleben",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 195,
@@ -3745,7 +4521,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Fahren auf unserer MotoGP Strecke Deutschlands! Fühle Dich wie Rossi & Co.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 196,
@@ -3754,14 +4534,18 @@
       "start": "2026-07-21",
       "ende": "2026-07-21",
       "veranstalter": "motorspeed",
-      "titel": "Freies Fahren und motorbasics",
+      "titel": "Freies Fahren / motorbasics",
       "url": "https://motorspeed.de/",
       "db": "98-102 dB(A)",
       "preis": 169,
       "kategorie": "Freies Fahren",
       "tage": 1,
-      "info": "Dienstag, Freies Fahren für 169€. motorbasics für 199€ (vormittags 3 Turns Instruktion, nachmittags 3 Turns Freies Fahren)",
-      "status": null
+      "info": "Dienstag Trainingstag. motorbasics für 199,- € (vormittags 3 Turns mit Instruktoren, nachmittags 3 Turns Freies Fahren)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
       "id": 197,
@@ -3770,14 +4554,18 @@
       "start": "2026-07-22",
       "ende": "2026-07-23",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Slovakia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)",
       "preis": 199,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren, keine Rennen im Juli, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren (Keine Rennen im Juli, Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 198,
@@ -3786,14 +4574,18 @@
       "start": "2026-07-23",
       "ende": "2026-07-23",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 23.07.",
+      "titel": "Anneau du Rhin Sportfahrertraining 23.7.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 184.5,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Drei Sportfahrergruppen, 5 Turns pro Gruppe",
-      "status": "frei"
+      "info": "Drei Sportfahrergruppen, 5 Turns pro Gruppe",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 199,
@@ -3809,7 +4601,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "In the footsteps of the 24Heures Motos",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 200,
@@ -3822,10 +4618,14 @@
       "url": "https://www.yart-racingschool-germany.de",
       "db": "Nur Serie!",
       "preis": 490,
-      "kategorie": "Kurventraining",
+      "kategorie": null,
       "tage": 2,
-      "info": "Moto GP Feeling. Flüssige Kurven, anspruchsvolle Steigungen, schnelle Geraden. Professionelle Instruktoren. Zeitnahme obligatorisch (15€/Tag). 2 Fun Races am 2. Tag. Freibier und Grillwurst am 1. Abend. Fotograf vor Ort. Getränke und Snacks inklusive. Nur Serienauspuff erlaubt.",
-      "status": null
+      "info": "Moto GP Feeling mit professioneller Betreuung, Zeitnahme (Obligatorisch 15€/Tag), 2 Fun Races am 2. Tag. Freibier und Grillwurst am ersten Abend.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 201,
@@ -3834,14 +4634,18 @@
       "start": "2026-07-24",
       "ende": "2026-07-24",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 24.07.",
+      "titel": "Anneau du Rhin Sportfahrertraining 24.7.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 235.75,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Zwei Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "Zwei Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 202,
@@ -3857,7 +4661,11 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Lauf 3 der CSBK- Saison 2026",
-      "status": "ausgebucht"
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
       "id": 203,
@@ -3872,8 +4680,12 @@
       "preis": 120,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "4. Cupevent am Slovakiaring - Slowakei. Eine der längsten und modernsten Rennstrecken Europas mit schnellen Geraden, anspruchsvollen Kurven und Höhenwechseln.",
-      "status": "frei"
+      "info": "4. Cupevent am Slovakiaring - Slowakei. Bis zu 5,9 km lange moderne Rennstrecke mit schnellen Geraden und anspruchsvollen Kurven. Boxen: 150€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 204,
@@ -3882,14 +4694,18 @@
       "start": "2026-07-25",
       "ende": "2026-07-25",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 25.07.",
+      "titel": "Anneau du Rhin Sportfahrertraining 25.7.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 256.25,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Zwei Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "wenig"
+      "info": "Zwei Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 205,
@@ -3905,7 +4721,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Einmal im Jahr geht es nach Groß Dölln.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 206,
@@ -3921,7 +4741,11 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 207,
@@ -3936,8 +4760,12 @@
       "preis": 530,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "Grand-Prix-Kurs 4,6km. Schnelle Geraden, Parabolika, harte Bremspunkte, flüssige Kurvenkombinationen. 6x 20min Turns. Professionelle Instruktoren. Zeitnahme verfügbar. Fokus auf freies Fahren und Training. Freibier und Grillwurst am 1. Abend. Fotograf vor Ort. Geräuschlimit ca. 100 dB. Nicht für absolute Einsteiger.",
-      "status": null
+      "info": "4,6 km Grand-Prix-Kurs mit Highspeed-Passagen und Parabolika. Professionelle Instruktion, Zeitnahme, Fotoservice, Freibier und Grillwurst am 1. Abend. Kein Einsteigertraining.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
       "id": 208,
@@ -3953,7 +4781,11 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Eine weitere Endurance-Legende in unserem Kalender!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 209,
@@ -3969,7 +4801,11 @@
       "kategorie": null,
       "tage": 3,
       "info": "Under the Tuscan sun",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 210,
@@ -3984,8 +4820,12 @@
       "preis": 299,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "Deutschlands einzige Moto GP Strecke. 2 Tage Fahrtraining mit Gruppeneinteilung A-D. Serviceleistungen: Reifendienst, Fotoservice, Fahrwerkservice (optional), Einzelcoaching, Kaffee/Wasser ganztägig. Catering mit Frühstück optional buchbar. Nur Serienauspuff erlaubt.",
-      "status": null
+      "info": "2 Tage Fahrtraining auf Deutschlands einzigem Moto GP Strecke. Serviceleistungen, Fotoservice, optionale Catering mit 2 Tage Frühstück.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
       "id": 211,
@@ -3998,10 +4838,14 @@
       "url": "https://racing-school-europe.com/",
       "db": "105 dB(A)",
       "preis": null,
-      "kategorie": "Trackday",
+      "kategorie": "Trackday/Racing School",
       "tage": 3,
-      "info": "WorldSBK and MotoGP venue, Fly in and ride BMW S 1000 RR, GoPro recording & analysis, 1 on 3 instruction, riding gear available",
-      "status": null
+      "info": "Fly in and ride, BMW S 1000 RR included, WorldSBK and MotoGP venue",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday/Racing School"
     },
     {
       "id": 212,
@@ -4010,14 +4854,18 @@
       "start": "2026-07-31",
       "ende": "2026-08-02",
       "veranstalter": "Speer Racing",
-      "titel": "Brünn Sportfahrertraining 3 Tage",
+      "titel": "Brünn Sportfahrertraining",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 795.4,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Brünn - Full Circuit, 3 Gruppen, Racing School Europe mit dabei, mit Abschlussrennen",
-      "status": "wenig"
+      "info": "3 Gruppen, Racing School Europe mit dabei, mit Abschlussrennen",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 213,
@@ -4026,14 +4874,18 @@
       "start": "2026-07-31",
       "ende": "2026-08-02",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Rijeka",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 214,
@@ -4042,14 +4894,18 @@
       "start": "2026-07-31",
       "ende": "2026-08-02",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Rijeka",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 215,
@@ -4065,7 +4921,11 @@
       "kategorie": null,
       "tage": 2,
       "info": "The Ardennes slide!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 216,
@@ -4080,43 +4940,35 @@
       "preis": 543.2,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Brünn - Full Circuit, 3 Gruppen, Racing School Europe mit dabei, mit Abschlussrennen",
-      "status": "wenig"
+      "info": "3 Gruppen, Racing School Europe mit dabei, mit Abschlussrennen",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 217,
-      "strecke": "Dijon-Prenois",
-      "land": "Frankreich",
-      "start": "2026-08-01",
-      "ende": "2026-08-03",
-      "veranstalter": "Team Dannhoff",
-      "titel": "Rennstreckentraining Dijon",
-      "url": "http://www.Team-Dannhoff.de",
-      "db": "95 dB(A)",
-      "preis": null,
-      "kategorie": "Trackday",
-      "tage": null,
-      "info": "Freies Fahren in 3 Gruppen, leichte Rennstrecken Erfahrung erwünscht, Einteilung nach Fahrkönnen und Schnelligkeit",
-      "status": null
-    },
-    {
-      "id": 218,
       "strecke": "Ecuyers",
       "land": "Frankreich",
       "start": "2026-08-01",
       "ende": "2026-08-03",
       "veranstalter": "RACECRACKS",
-      "titel": "Ecuyers - 2/3 dagen",
+      "titel": "Ecuyers - Instructie & Vrij Rijden",
       "url": "http://www.racecracks.nl/",
       "db": "95 dB(A)",
       "preis": 669,
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 3,
-      "info": "2 dagen instructie volgeboekt, 6 plekken vrij rijden; 3 dagen 4 plekken instructie, 10+ plekken vrij rijden",
-      "status": null
+      "info": "2 dagen instructie volgeboekt, 6 plekken vrij rijden 2 dagen, 4 plekken instructie 3 dagen, 10+ plekken vrij rijden 3 dagen",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
-      "id": 219,
+      "id": 218,
       "strecke": "Salzburgring",
       "land": "Österreich",
       "start": "2026-08-01",
@@ -4128,43 +4980,55 @@
       "preis": 290.0,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Salzburgring - Full Circuit, geführtes Training in fünf Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in fünf Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 220,
+      "id": 219,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-08-02",
       "ende": "2026-08-02",
       "veranstalter": "Bikers Days",
-      "titel": "Bikers' Days Spa Asia",
+      "titel": "Bikers' Days Spa",
       "url": "https://bikersdays.com/en/calendrier/",
       "db": "99 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 1,
       "info": "As part of Spa Asia",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 221,
+      "id": 220,
       "strecke": "Pannoniaring",
       "land": "Ungarn",
       "start": "2026-08-03",
       "ende": "2026-08-04",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Pannonia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)*",
       "preis": 179,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren und Rennen, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren und Rennen (Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 222,
+      "id": 221,
       "strecke": "Spreewaldring",
       "land": "Deutschland",
       "start": "2026-08-03",
@@ -4176,11 +5040,15 @@
       "preis": null,
       "kategorie": "Kids",
       "tage": 5,
-      "info": "5 Tage Fahrspaß für Kids von 5 – 21 Jahren. Motorräder von 50 ccm – 800 ccm",
-      "status": null
+      "info": "Fahrspaß für Kids von 5 – 21 Jahren (Motorräder von 50 ccm – 800 ccm)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kids"
     },
     {
-      "id": 223,
+      "id": 222,
       "strecke": "Assen",
       "land": "Niederlande",
       "start": "2026-08-07",
@@ -4193,10 +5061,14 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Lauf 4 der GTT-Saison 2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 224,
+      "id": 223,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-07",
@@ -4208,11 +5080,15 @@
       "preis": 170,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "5. Cupevent am Masaryk Circuit Brünn - Tschechei. Eine der bekanntesten und anspruchsvollsten Strecken in Europa (5,4 km) mit schnellen Wechselkurven und Höhenunterschieden.",
-      "status": "frei"
+      "info": "5. Cupevent am Masaryk Circuit Brünn - Tschechei. 5,4 km lange anspruchtsvolle Strecke mit schnellen Wechselkurven und Höhenunterschieden. Boxen: 280€/Tag, Boxenplatz 40€/Tag",
+      "status": "ausgebucht",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 225,
+      "id": 224,
       "strecke": "Croix en Ternois",
       "land": "Frankreich",
       "start": "2026-08-07",
@@ -4225,26 +5101,34 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 226,
+      "id": 225,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-08-07",
       "ende": "2026-08-07",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Instruktorentraining 07.08.",
+      "titel": "Hockenheim Instruktorentraining 7.8.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 320.1,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs, geführtes Training in Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 227,
+      "id": 226,
       "strecke": "Mugello",
       "land": "Italien",
       "start": "2026-08-07",
@@ -4257,10 +5141,14 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "Nimm die beliebteste Strecke der Welt unter die Räder!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 228,
+      "id": 227,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-07",
@@ -4273,10 +5161,14 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Rock die Börde! 5. Event der BPM- Saison 2026!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 229,
+      "id": 228,
       "strecke": "Rijeka",
       "land": "Kroatien",
       "start": "2026-08-07",
@@ -4289,10 +5181,14 @@
       "kategorie": "Cup",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup"
     },
     {
-      "id": 230,
+      "id": 229,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-08-08",
@@ -4305,10 +5201,14 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 231,
+      "id": 230,
       "strecke": "Croix en Ternois",
       "land": "Frankreich",
       "start": "2026-08-08",
@@ -4321,42 +5221,54 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 232,
+      "id": 231,
       "strecke": "Groß Dölln",
       "land": "Deutschland",
       "start": "2026-08-08",
       "ende": "2026-08-09",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 233,
+      "id": 232,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-08-08",
       "ende": "2026-08-08",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Instruktorentraining 08.08.",
+      "titel": "Hockenheim Instruktorentraining 8.8.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 320.1,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs, geführtes Training in Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 234,
+      "id": 233,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-08",
@@ -4369,10 +5281,14 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Lauf 3 der HR Cup-Saison 2026",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 235,
+      "id": 234,
       "strecke": "Croix en Ternois",
       "land": "Frankreich",
       "start": "2026-08-09",
@@ -4385,10 +5301,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 236,
+      "id": 235,
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-08-09",
@@ -4400,11 +5320,15 @@
       "preis": 315.25,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Hockenheim - Grand-Prix-Kurs",
-      "status": "frei"
+      "info": null,
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 237,
+      "id": 236,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-08-10",
@@ -4416,11 +5340,15 @@
       "preis": 499,
       "kategorie": "Renntraining",
       "tage": 2,
-      "info": "2-Tages-Event im Nordosten von Frankreich (im Elsass)",
-      "status": null
+      "info": "2-Tages-Event in Nordosten von Frankreich (im Elsass)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
-      "id": 238,
+      "id": 237,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-08-10",
@@ -4433,26 +5361,34 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 239,
+      "id": 238,
       "strecke": "Red Bull Ring",
       "land": "Österreich",
       "start": "2026-08-10",
       "ende": "2026-08-11",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Slovakia Ring",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "98 dB(A)",
       "preis": 209,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren und Rennen, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren und Rennen (Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 240,
+      "id": 239,
       "strecke": "Misano",
       "land": "Italien",
       "start": "2026-08-11",
@@ -4464,59 +5400,75 @@
       "preis": 790.0,
       "kategorie": null,
       "tage": 3,
-      "info": "Zählt nicht zur Jahreskarte und nicht zur Cupwertung",
-      "status": null
+      "info": "zählt nicht zur Jahreskarte und nicht zur Cupwertung",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 241,
+      "id": 240,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-12",
       "ende": "2026-08-13",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Brno Circuit",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "105 dB(A)",
       "preis": 449,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren und Rennen, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren und Rennen (Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 242,
+      "id": 241,
       "strecke": "Tor Poznań",
       "land": "Polen",
       "start": "2026-08-12",
       "ende": "2026-08-14",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 243,
+      "id": 242,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-14",
       "ende": "2026-08-16",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Brünn",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 244,
+      "id": 243,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-14",
@@ -4528,27 +5480,35 @@
       "preis": 89,
       "kategorie": "Vrij Rijden",
       "tage": 3,
-      "info": "10+ plekken beschikbaar",
-      "status": null
+      "info": "10+ plekken voor vrij rijden",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Vrij Rijden"
     },
     {
-      "id": 245,
+      "id": 244,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-14",
       "ende": "2026-08-16",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Brünn",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 246,
+      "id": 245,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-08-14",
@@ -4561,10 +5521,14 @@
       "kategorie": null,
       "tage": 1,
       "info": "The Ardennes slide!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 247,
+      "id": 246,
       "strecke": "Ecuyers",
       "land": "Frankreich",
       "start": "2026-08-15",
@@ -4577,10 +5541,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 248,
+      "id": 247,
       "strecke": "Lausitzring",
       "land": "Deutschland",
       "start": "2026-08-15",
@@ -4590,13 +5558,17 @@
       "url": "https://www.yart-racingschool-germany.de",
       "db": "98 dB(A)",
       "preis": 299,
-      "kategorie": "Renntraining",
+      "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "Pflichttermin im Saisonkalender. Einzigartige Geräuschkulisse. Lärmlimit: Typenschild +2 dB max. Schulung auf dem Bike mit Ausleger möglich (Vorab-Anmeldung erforderlich). Serviceleistungen: Reifendienst, Fotoservice, Fahrwerkservice, Einzelcoaching (optional), Zeitnahmedienst, Gebäck am Nachmittag. Catering mit Frühstück optional buchbar.",
-      "status": null
+      "info": "Schulung mit Ausleger möglich. Lärmlimit: Typenschild +2 dB max. Reifendienst, Fotoservice, Fahrwerkservice, Einzelcoaching (optional), Zeitnahme.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
-      "id": 249,
+      "id": 248,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-15",
@@ -4609,26 +5581,34 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Klassiker bis Baujahr 1990 sind willkommen!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 250,
+      "id": 249,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-08-15",
       "ende": "2026-08-15",
       "veranstalter": "Bikers Days",
-      "titel": "Bikers' Days Spa Bikers'Festival",
+      "titel": "Bikers' Days Spa",
       "url": "https://bikersdays.com/en/calendrier/",
       "db": "99 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 1,
       "info": "As part of the Bikers'Festival",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 251,
+      "id": 250,
       "strecke": "Ecuyers",
       "land": "Frankreich",
       "start": "2026-08-16",
@@ -4641,10 +5621,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 252,
+      "id": 251,
       "strecke": "Le Mans (Bugatti)",
       "land": "Frankreich",
       "start": "2026-08-16",
@@ -4657,26 +5641,34 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Die Endurance-Legende in unserem Kalender!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 253,
+      "id": 252,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-08-16",
       "ende": "2026-08-16",
       "veranstalter": "Bikers Days",
-      "titel": "Bikers' Days Spa Bikers'Festival",
+      "titel": "Bikers' Days Spa",
       "url": "https://bikersdays.com/en/calendrier/",
       "db": "99 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 1,
       "info": "As part of the Bikers'Festival",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 254,
+      "id": 253,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-17",
@@ -4689,26 +5681,34 @@
       "kategorie": "Training and racing event",
       "tage": 2,
       "info": "Brno - Immer eine Reise wert!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Training and racing event"
     },
     {
-      "id": 255,
+      "id": 254,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-17",
       "ende": "2026-08-18",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98-100 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 256,
+      "id": 255,
       "strecke": "Rijeka",
       "land": "Kroatien",
       "start": "2026-08-17",
@@ -4717,30 +5717,38 @@
       "titel": "Rijeka 2026",
       "url": "https://www.motorspass.eu/",
       "db": "Kein Limit",
-      "preis": null,
+      "preis": 450,
       "kategorie": null,
       "tage": 3,
-      "info": "Ladys 350,-€ / Gentlemen 450,-€. Seit über 20 Jahren der Kult-Event in Rijeka. Reservierung via E-Mail, WhatsApp, Telefon oder Kontaktformular erforderlich.",
-      "status": null
+      "info": "Ladys 350,-€ / Gentlemen 450,-€. Seit über 20 Jahren der Kult-Event in Rijeka. Buchung via E-Mail, WhatsApp, Telefon oder Kontaktformular.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 257,
+      "id": 256,
       "strecke": "Misano",
       "land": "Italien",
       "start": "2026-08-18",
       "ende": "2026-08-20",
       "veranstalter": "Michael Fiala Motor-Sports",
-      "titel": "Motorrad Trackday - Misano World Circuit",
+      "titel": "Motorrad Renntraining",
       "url": "https://motor-sports.eu",
       "db": "105 dB(A)",
       "preis": 627,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "Freies Fahren und Rennen, Preis bis 31.3.2026",
-      "status": null
+      "info": "Freies Fahren und Rennen (Frühjahrsrabatt bis 31.3.2026)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 258,
+      "id": 257,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-21",
@@ -4753,10 +5761,14 @@
       "kategorie": "Training and racing event",
       "tage": 3,
       "info": "Wochenend-Training auf Tschechiens legendärer GP- Strecke! Mega- Spaß zum absoluten Sparpreis!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Training and racing event"
     },
     {
-      "id": 259,
+      "id": 258,
       "strecke": "Magny-Cours",
       "land": "Frankreich",
       "start": "2026-08-21",
@@ -4766,45 +5778,57 @@
       "url": "https://ppotrackdays.com/",
       "db": "95 dB(A)",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
-      "id": 260,
+      "id": 259,
       "strecke": "Magny-Cours",
       "land": "Frankreich",
       "start": "2026-08-21",
       "ende": "2026-08-23",
       "veranstalter": "Speer Racing",
-      "titel": "Magny Cours VIP Sportfahrertraining",
+      "titel": "Magny Cours VIP",
       "url": "https://www.speer-racing.de/",
       "db": "95 dB(A)",
       "preis": 599.0,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Magny Cours - Full Circuit, Partnerevent PPO",
-      "status": "frei"
+      "info": "Partnerevent PPO",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 261,
+      "id": 260,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-08-21",
       "ende": "2026-08-23",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 262,
+      "id": 261,
       "strecke": "Pannoniaring",
       "land": "Ungarn",
       "start": "2026-08-21",
@@ -4817,10 +5841,14 @@
       "kategorie": "Cup",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup"
     },
     {
-      "id": 263,
+      "id": 262,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-22",
@@ -4833,26 +5861,34 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Klassiker bis Baujahr 1990 sind willkommen!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 264,
+      "id": 263,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-08-22",
       "ende": "2026-08-22",
       "veranstalter": "MotoMonster",
-      "titel": "Endurance Rennen",
+      "titel": "Endurance 4h",
       "url": "http://www.motomonster.de",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Endurance",
       "tage": 1,
-      "info": "4h Endurance Rennen",
-      "status": null
+      "info": "4h Rennen",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Endurance"
     },
     {
-      "id": 265,
+      "id": 264,
       "strecke": "Spreewaldring",
       "land": "Deutschland",
       "start": "2026-08-22",
@@ -4864,11 +5900,15 @@
       "preis": 179,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "2,7 km Strecke, ideales Einsteigertraining. 20 Minuten Turns in Gruppen. Kein Rennen, keine Zeitnahme. Geeignet für Anfänger und Neulinge. Serviceleistungen: Teile & Reifendienst, Fotoservice, Fahrwerkservice, Einzelcoaching. Gebäck am Nachmittag. Kaffee/Wasser ganztägig. Catering mit Frühstück optional buchbar.",
-      "status": null
+      "info": "Reines Training ohne Zeitnahme und Rennen. Ideal für Anfänger und Neulinge. 2,7 km lange, technisch anspruchsvolle Strecke.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
-      "id": 266,
+      "id": 265,
       "strecke": "Sachsenring",
       "land": "Deutschland",
       "start": "2026-08-24",
@@ -4881,10 +5921,14 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Fahren auf unserer MotoGP Strecke Deutschlands! Fühle Dich wie Rossi & Co.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 267,
+      "id": 266,
       "strecke": "Cremona",
       "land": "Italien",
       "start": "2026-08-27",
@@ -4897,10 +5941,14 @@
       "kategorie": "Freies Fahren",
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 268,
+      "id": 267,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-08-27",
@@ -4913,10 +5961,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 269,
+      "id": 268,
       "strecke": "Balaton Park",
       "land": "Ungarn",
       "start": "2026-08-28",
@@ -4928,11 +5980,15 @@
       "preis": 799,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "6. Cupevent am Balaton Park - Ungarn. Moderne, 4,1 km lange Rennstrecke mit Mischung aus schnellen Geraden und technischen Kurven. Lautstärkenlimit: maximal 105 dB.",
-      "status": "frei"
+      "info": "6. Cupevent am Balaton Park - Ungarn. Moderne, 4,1 km lange Rennstrecke nahe dem Plattensee. ACHTUNG: Lautstärkenlimit maximal 105 dB. Boxen: 250€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 270,
+      "id": 269,
       "strecke": "Balaton Park",
       "land": "Ungarn",
       "start": "2026-08-28",
@@ -4945,26 +6001,34 @@
       "kategorie": "Training and racing event",
       "tage": 3,
       "info": "Richtig neu und richtig geil- die MotoGP-Stracke in Ungarn!",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Training and racing event"
     },
     {
-      "id": 271,
+      "id": 270,
       "strecke": "Brno",
       "land": "Tschechien",
       "start": "2026-08-28",
       "ende": "2026-08-30",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 272,
+      "id": 271,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-08-28",
@@ -4977,10 +6041,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 273,
+      "id": 272,
       "strecke": "Dijon-Prenois",
       "land": "Frankreich",
       "start": "2026-08-29",
@@ -4993,10 +6061,14 @@
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 274,
+      "id": 273,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-08-29",
@@ -5009,10 +6081,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 275,
+      "id": 274,
       "strecke": "Misano",
       "land": "Italien",
       "start": "2026-08-29",
@@ -5025,10 +6101,14 @@
       "kategorie": null,
       "tage": 3,
       "info": "In the land of VR 46",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 276,
+      "id": 275,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-29",
@@ -5040,11 +6120,15 @@
       "preis": 559,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "frei"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 277,
+      "id": 276,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-08-30",
@@ -5057,10 +6141,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 278,
+      "id": 277,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-08-31",
@@ -5073,10 +6161,14 @@
       "kategorie": "Renntraining",
       "tage": 2,
       "info": "2-Tages-Event in Belgien (ca. 2h von Aachen)",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
-      "id": 279,
+      "id": 278,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-08-31",
@@ -5088,27 +6180,35 @@
       "preis": 489,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "frei"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 280,
+      "id": 279,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-02",
       "ende": "2026-09-02",
       "veranstalter": "motorspeed",
-      "titel": "Freies Fahren und motorbasics",
+      "titel": "Freies Fahren / motorbasics",
       "url": "https://motorspeed.de/",
       "db": "98-102 dB(A)",
       "preis": 169,
       "kategorie": "Freies Fahren",
       "tage": 1,
-      "info": "Mittwoch, Freies Fahren für 169€. motorbasics für 199€ (vormittags 3 Turns Instruktion, nachmittags 3 Turns Freies Fahren)",
-      "status": null
+      "info": "Mittwoch Trainingstag. motorbasics für 199,- € (vormittags 3 Turns mit Instruktoren, nachmittags 3 Turns Freies Fahren)",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 281,
+      "id": 280,
       "strecke": "Ledenon",
       "land": "Frankreich",
       "start": "2026-09-04",
@@ -5118,13 +6218,17 @@
       "url": "https://ppotrackdays.com/",
       "db": "99 dB(A)",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
-      "id": 282,
+      "id": 281,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-04",
@@ -5137,10 +6241,14 @@
       "kategorie": "Race event",
       "tage": 3,
       "info": "Lauf 4 und Finale der CSBK- Saison 2026",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 283,
+      "id": 282,
       "strecke": "Meppen",
       "land": "Deutschland",
       "start": "2026-09-05",
@@ -5152,11 +6260,15 @@
       "preis": 459,
       "kategorie": "Trackday",
       "tage": 2,
-      "info": "Freies Fahren in nach Leistung orientierten Gruppen á 15 Minuten (9 Turns Samstag, 7 Turns Sonntag). Instruktoren vor Ort. Transponderpflicht, Leihgebühr 20€/Tag im Preis enthalten. Keine Rennen und Zeitnahme, für Anfänger geeignet. 2,7 km Rundkurs mit 12 Kurven. Samstag 09:00-19:00 Uhr, Sonntag 09:00-17:00 Uhr. Restaurants und Selbstverpflegung vor Ort. Übernachtung im Fahrerlager 15€.",
-      "status": null
+      "info": "Freies Fahren in nach Leistung orientierten Gruppen á 15 Minuten, neun Turns am Samstag und sieben Turns am Sonntag, Transponderpflicht mit 20 € Leihgebühr im Preis enthalten, Instruktoren vor Ort, keine Rennen und Zeitnahme, für Anfänger geeignet, 2,7 km Rundkurs mit 12 Kurven, Samstag 09:00-19:00 Uhr, Sonntag 09:00-17:00 Uhr, zwei Restaurants und Strandbar vor Ort, Übernachtung im Fahrerlager 15 € pro Nacht",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 284,
+      "id": 283,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-05",
@@ -5169,10 +6281,14 @@
       "kategorie": "Race event",
       "tage": 2,
       "info": "Lauf 5 Finale der GTT-Saison 2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Race event"
     },
     {
-      "id": 285,
+      "id": 284,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-07",
@@ -5185,26 +6301,34 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 286,
+      "id": 285,
       "strecke": "Tor Poznań",
       "land": "Polen",
       "start": "2026-09-07",
       "ende": "2026-09-09",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "98 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 287,
+      "id": 286,
       "strecke": "Mugello",
       "land": "Italien",
       "start": "2026-09-11",
@@ -5217,10 +6341,14 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 288,
+      "id": 287,
       "strecke": "Mugello",
       "land": "Italien",
       "start": "2026-09-11",
@@ -5232,11 +6360,15 @@
       "preis": 969.03,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Mugello - Full Circuit, drei volle Tage, drei Gruppen, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "Drei volle Tage, drei Gruppen, Racing School Europe mit dabei",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 289,
+      "id": 288,
       "strecke": "Slovakiaring",
       "land": "Slowakei",
       "start": "2026-09-11",
@@ -5246,13 +6378,17 @@
       "url": "https://www.wsb-sport.com/",
       "db": "105 dB(A)",
       "preis": 216.0,
-      "kategorie": "Cup",
+      "kategorie": "Cup mit Int. Sidecar Trophy",
       "tage": 3,
-      "info": "Cup mit Int. Sidecar Trophy",
-      "status": null
+      "info": null,
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Cup mit Int. Sidecar Trophy"
     },
     {
-      "id": 290,
+      "id": 289,
       "strecke": "Spa-Francorchamps",
       "land": "Belgien",
       "start": "2026-09-11",
@@ -5265,26 +6401,34 @@
       "kategorie": null,
       "tage": 2,
       "info": "The last track day of the year at Spa-Francorchamps!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 291,
+      "id": 290,
       "strecke": "Groß Dölln",
       "land": "Deutschland",
       "start": "2026-09-12",
       "ende": "2026-09-13",
       "veranstalter": "MotoMonster",
-      "titel": "Kurventraining",
+      "titel": "Trackday",
       "url": "http://www.motomonster.de",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 292,
+      "id": 291,
       "strecke": "Rijeka",
       "land": "Kroatien",
       "start": "2026-09-13",
@@ -5296,11 +6440,15 @@
       "preis": 1099,
       "kategorie": "Rennstreckentraining",
       "tage": 7,
-      "info": "All Inclusive-Paket bestehend aus Touren, Rennstrecke, Instruktion, Hotel, Verpflegung. 6 Übernachtungen mit Frühstück und Abendessen, drei Tage geführte Touren durch Kroatien, zwei Tage Training auf der Rennstrecke, Betreuung durch erfahrene Instruktoren.",
-      "status": null
+      "info": "All-Inclusive Paket mit Touren, Rennstrecke, Instruktion, Hotel, Verpflegung. 6 Übernachtungen, 3 Tage geführte Touren, 2 Tage Rennstreckentraining in Kleingruppen, Instruktorenbetreuung.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
-      "id": 293,
+      "id": 292,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-14",
@@ -5313,10 +6461,14 @@
       "kategorie": "Freies Fahren",
       "tage": 1,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 294,
+      "id": 293,
       "strecke": "Bresse",
       "land": "Frankreich",
       "start": "2026-09-14",
@@ -5328,11 +6480,15 @@
       "preis": null,
       "kategorie": "Rennstreckentraining",
       "tage": 3,
-      "info": "3 Tage, buchbar",
-      "status": "frei"
+      "info": "buchbar",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
-      "id": 295,
+      "id": 294,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-09-14",
@@ -5345,10 +6501,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 296,
+      "id": 295,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-09-15",
@@ -5361,10 +6521,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 297,
+      "id": 296,
       "strecke": "Circuit Carole",
       "land": "Frankreich",
       "start": "2026-09-16",
@@ -5376,59 +6540,75 @@
       "preis": 309,
       "kategorie": "Freies Fahren",
       "tage": 2,
-      "info": "Zwei Tage freies Fahren auf der Rennstrecke. 6 Turns à 20min pro Renntag. Wasser/Obst/kleine Snacks und Kaffee kostenlos. Kleine Gruppen (maximal 35 Fahrer gleichzeitig). Optional: Einzelinstruktion vor Ort buchbar.",
-      "status": null
+      "info": "Zwei Tage freies Fahren auf der Rennstrecke. 6 Turns à 20min pro Renntag. Kleine Gruppen (maximal 35 Fahrer). Kostenlos: Wasser, Obst, Snacks, Kaffee. Optional: Einzelinstruktion mit Videoanalyse.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 298,
+      "id": 297,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-17",
       "ende": "2026-09-17",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Instruktorentraining 17.09.",
+      "titel": "Anneau du Rhin Instruktorentraining 17.9.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 297.25,
       "kategorie": "Instruktorentraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, geführtes Training in fünf Kleingruppen mit je 6 Teilnehmern",
-      "status": "frei"
+      "info": "Geführtes Training in fünf Kleingruppen mit je 6 Teilnehmern",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instruktorentraining"
     },
     {
-      "id": 299,
+      "id": 298,
       "strecke": "Sachsenring",
       "land": "Deutschland",
       "start": "2026-09-17",
       "ende": "2026-09-18",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Sachsenring",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "Nur Serie!",
       "preis": null,
       "kategorie": null,
       "tage": 2,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 300,
+      "id": 299,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-18",
       "ende": "2026-09-18",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 18.09.",
+      "titel": "Anneau du Rhin Sportfahrertraining 18.9.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 235.75,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Vier Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "frei"
+      "info": "Vier Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
-      "id": 301,
+      "id": 300,
       "strecke": "Mugello",
       "land": "Italien",
       "start": "2026-09-18",
@@ -5440,11 +6620,15 @@
       "preis": 1004.0,
       "kategorie": null,
       "tage": 3,
-      "info": "Incl. Boxenplatz, zählt nicht zur Jahreskarte und nicht zur Cupwertung",
-      "status": null
+      "info": "incl. Boxenplatz, zählt nicht zur Jahreskarte und nicht zur Cupwertung",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 302,
+      "id": 301,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-09-19",
@@ -5456,11 +6640,15 @@
       "preis": 559,
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
-      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands",
-      "status": "frei"
+      "info": "Einfach Spaß haben auf der Superbike WM und FIM EWC Rennstrecke Deutschlands - Motorsportarena Oschersleben in der Mitte Deutschlands",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
-      "id": 303,
+      "id": 302,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-21",
@@ -5472,11 +6660,15 @@
       "preis": 179,
       "kategorie": "Freies Fahren",
       "tage": 1,
-      "info": "Montag, Freies Fahren",
-      "status": null
+      "info": "Montag Trainingstag",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 304,
+      "id": 303,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-09-21",
@@ -5489,10 +6681,14 @@
       "kategorie": "Rider training",
       "tage": 2,
       "info": "Fahrertraining in der Motorsportarena mit BMW Test-Flotte - schöner Saisonabschluss in Deutschland",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
-      "id": 305,
+      "id": 304,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-09-21",
@@ -5505,10 +6701,14 @@
       "kategorie": "Renntraining",
       "tage": 2,
       "info": "2-Tages-Event in Deutschland, nahe Magdeburg",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Renntraining"
     },
     {
-      "id": 306,
+      "id": 305,
       "strecke": "Paul Ricard",
       "land": "Frankreich",
       "start": "2026-09-21",
@@ -5518,13 +6718,17 @@
       "url": "https://ppotrackdays.com/",
       "db": "95 dB(A)",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
-      "id": 307,
+      "id": 306,
       "strecke": "Anneau du Rhin",
       "land": "Frankreich",
       "start": "2026-09-22",
@@ -5536,11 +6740,15 @@
       "preis": 169,
       "kategorie": "Freies Fahren",
       "tage": 1,
-      "info": "Dienstag, Freies Fahren",
-      "status": null
+      "info": "Dienstag Trainingstag",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Freies Fahren"
     },
     {
-      "id": 308,
+      "id": 307,
       "strecke": "Assen",
       "land": "Niederlande",
       "start": "2026-09-22",
@@ -5553,10 +6761,14 @@
       "kategorie": "Junior Track",
       "tage": 1,
       "info": "10+ plekken voor instructie middag, 10+ plekken voor vrij rijden middag",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Junior Track"
     },
     {
-      "id": 309,
+      "id": 308,
       "strecke": "Assen",
       "land": "Niederlande",
       "start": "2026-09-23",
@@ -5568,11 +6780,15 @@
       "preis": 669,
       "kategorie": "Instructie & Vrij Rijden",
       "tage": 1,
-      "info": "Instructie volgeboekt, 10+ plekken vrij rijden",
-      "status": null
+      "info": "Instructie volgeboekt, 10+ plekken voor vrij rijden",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Instructie & Vrij Rijden"
     },
     {
-      "id": 310,
+      "id": 309,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-09-24",
@@ -5585,10 +6801,14 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 311,
+      "id": 310,
       "strecke": "Oschersleben",
       "land": "Deutschland",
       "start": "2026-09-24",
@@ -5601,10 +6821,14 @@
       "kategorie": "Rennstreckentraining",
       "tage": 4,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennstreckentraining"
     },
     {
-      "id": 312,
+      "id": 311,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-09-25",
@@ -5617,26 +6841,34 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 313,
+      "id": 312,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-25",
       "ende": "2026-09-27",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Most",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
-      "id": 314,
+      "id": 313,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-25",
@@ -5648,27 +6880,35 @@
       "preis": 579,
       "kategorie": "Vrij Rijden",
       "tage": 3,
-      "info": "10+ plekken beschikbaar",
-      "status": null
+      "info": "10+ plekken voor vrij rijden",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Vrij Rijden"
     },
     {
-      "id": 315,
+      "id": 314,
       "strecke": "Most",
       "land": "Tschechien",
       "start": "2026-09-25",
       "ende": "2026-09-27",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Most",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 316,
+      "id": 315,
       "strecke": "Pannoniaring",
       "land": "Ungarn",
       "start": "2026-09-25",
@@ -5680,11 +6920,15 @@
       "preis": 120,
       "kategorie": "Trackday",
       "tage": 3,
-      "info": "Abschluss-Cupevent am Pannoniaring - Ungarn. Moderne, 4,7 km lange Rennstrecke mit schnellen Kurvenkombinationen und technischen Passagen.",
-      "status": "frei"
+      "info": "Abschluss-Cupevent am Pannoniaring - Ungarn. Moderne, 4,7 km lange Rennstrecke mit schnellen Kurvenkombinationen. Boxen: kleine Box 130€/Tag, große Box 160€/Tag, Boxenplatz 40€/Tag",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
-      "id": 317,
+      "id": 316,
       "strecke": "Mettet",
       "land": "Belgien",
       "start": "2026-09-26",
@@ -5697,7 +6941,31 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
+    },
+    {
+      "id": 317,
+      "strecke": "Oschersleben",
+      "land": "Deutschland",
+      "start": "2026-09-26",
+      "ende": "2026-09-27",
+      "veranstalter": "ART MOTOR",
+      "titel": "Classic Endurance - Lauf 3",
+      "url": "https://artmotor.de/",
+      "db": "98-100 dB(A)",
+      "preis": null,
+      "kategorie": "Racing",
+      "tage": 2,
+      "info": null,
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing"
     },
     {
       "id": 318,
@@ -5706,14 +6974,18 @@
       "start": "2026-09-27",
       "ende": "2026-09-27",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 27.09.",
+      "titel": "Anneau du Rhin Sportfahrertraining 27.9.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 256.25,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Drei Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "frei"
+      "info": "Drei Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 319,
@@ -5729,7 +7001,11 @@
       "kategorie": null,
       "tage": 1,
       "info": null,
-      "status": null
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 320,
@@ -5738,14 +7014,18 @@
       "start": "2026-09-28",
       "ende": "2026-09-28",
       "veranstalter": "Speer Racing",
-      "titel": "Hockenheim Sportfahrertraining 28.09.",
+      "titel": "Hockenheim Sportfahrertraining 28.9.",
       "url": "https://www.speer-racing.de/",
       "db": "98 dB(A)",
       "preis": 271.6,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Hockenheim - IDM-Kurs, 3 Sportfahrergruppen",
-      "status": "frei"
+      "info": "3 Sportfahrergruppen",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 321,
@@ -5754,14 +7034,18 @@
       "start": "2026-09-28",
       "ende": "2026-09-29",
       "veranstalter": "YART Racing School Germany",
-      "titel": "Most 2 Tage",
+      "titel": "Most 2 Tage Kurventraining",
       "url": "https://www.yart-racingschool-germany.de",
       "db": "105 dB(A)",
       "preis": 299,
       "kategorie": "Kurventraining",
       "tage": 2,
-      "info": "Rennstreckentraining auf Most. Gruppeneinteilung A-D. Instruktoren, Einzelcoaching, Zeitnahme, Catering und Frühstück optional buchbar. Unfallversicherung pro Tag optional.",
-      "status": null
+      "info": "2 Tage Fahrtraining auf dem Autodrom Most mit Instruktoren in verschiedenen Leistungsgruppen.",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Kurventraining"
     },
     {
       "id": 322,
@@ -5776,8 +7060,12 @@
       "preis": 669,
       "kategorie": "Rider training",
       "tage": 3,
-      "info": "MotoGP and World SBK Strecke Motorland Aragon - Kombimöglichkeit mit Circuito Ricardo Tormo Valencia",
-      "status": "frei"
+      "info": "MotoGP and World SBK Strecke Motorland Aragon - Kombimöglichkeit mit Circuito Ricardo Tormo Valencia 03.10.-05.10.2026",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 323,
@@ -5791,9 +7079,13 @@
       "db": "105 dB(A)",
       "preis": 1329,
       "kategorie": "Rider training",
-      "tage": 6,
+      "tage": 7,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 324,
@@ -5802,14 +7094,18 @@
       "start": "2026-10-02",
       "ende": "2026-10-02",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin goes Classic 02.10.",
+      "titel": "Anneau du Rhin goes Classic 2.10.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 235.75,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Motorräder mindestens 20 Jahre alt",
-      "status": "frei"
+      "info": "Motorräder ab 20 Jahren willkommen",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 325,
@@ -5818,14 +7114,18 @@
       "start": "2026-10-03",
       "ende": "2026-10-03",
       "veranstalter": "Speer Racing",
-      "titel": "Anneau du Rhin Sportfahrertraining 03.10.",
+      "titel": "Anneau du Rhin Sportfahrertraining 3.10.",
       "url": "https://www.speer-racing.de/",
       "db": "98-102 dB(A)",
       "preis": 256.25,
       "kategorie": "Sportfahrertraining",
       "tage": 1,
-      "info": "Anneau du Rhin - 3.0, Drei Sportfahrergruppen, 7 Turns pro Gruppe",
-      "status": "frei"
+      "info": "Drei Sportfahrergruppen, 7 Turns pro Gruppe",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 326,
@@ -5841,7 +7141,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 2,
       "info": "Most - die schnelle Strecke im tschechischen Kohlebergbaurevier.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 327,
@@ -5857,7 +7161,11 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "3 Tage auf der wunderschönen Grand Prix Strecke Valencia. Kombinierbar mit Motorland Aragon 29.09-01.10.2026",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 328,
@@ -5873,7 +7181,11 @@
       "kategorie": "Rennwochenende",
       "tage": 3,
       "info": "Misano World Circuit Marco Simoncelli",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 329,
@@ -5889,7 +7201,11 @@
       "kategorie": null,
       "tage": 3,
       "info": "Enjoy the Spanish sunshine during autumn!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 330,
@@ -5898,14 +7214,18 @@
       "start": "2026-10-13",
       "ende": "2026-10-15",
       "veranstalter": "Speer Racing",
-      "titel": "Barcelona 2 Sportfahrertraining",
+      "titel": "Barcelona 2",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 809.0,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Barcelona - Full Circuit, 3 Gruppen, Racing School Europe mit dabei",
-      "status": "wenig"
+      "info": "3 Gruppen, Racing School Europe mit dabei",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 331,
@@ -5921,7 +7241,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 332,
@@ -5930,14 +7254,18 @@
       "start": "2026-10-16",
       "ende": "2026-10-18",
       "veranstalter": "Speer Racing",
-      "titel": "Barcelona 3 Sportfahrertraining",
+      "titel": "Barcelona 3",
       "url": "https://www.speer-racing.de/",
       "db": "105 dB(A)",
       "preis": 929.0,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Barcelona - Full Circuit, 4 Gruppen, PowerClub Lauf",
-      "status": "wenig"
+      "info": "4 Gruppen, PowerClub Lauf",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 333,
@@ -5953,7 +7281,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 334,
@@ -5968,8 +7300,12 @@
       "preis": 630.0,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Barcelona - Full Circuit, 4 Gruppen",
-      "status": "wenig"
+      "info": "4 Gruppen",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 335,
@@ -5978,14 +7314,18 @@
       "start": "2026-10-21",
       "ende": "2026-10-23",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Alcarras",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "Kein Limit",
       "preis": null,
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 336,
@@ -6001,7 +7341,11 @@
       "kategorie": null,
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 337,
@@ -6016,8 +7360,12 @@
       "preis": 741.84,
       "kategorie": "Sportfahrertraining",
       "tage": 3,
-      "info": "Portimao - Full Circuit, 4 Gruppen mit Abschlussrennen, Racing School Europe mit dabei",
-      "status": "frei"
+      "info": "4 Gruppen mit Abschlussrennen, Racing School Europe mit dabei",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 338,
@@ -6030,10 +7378,14 @@
       "url": "https://www.actionbike.de/de/veranstaltungen/termine",
       "db": "Kein Limit",
       "preis": 580,
-      "kategorie": "Rennwochenende/freies Fahren",
+      "kategorie": "Rennwochenende",
       "tage": 4,
-      "info": "Krönender Abschluss der actionbike Saison",
-      "status": "wenig"
+      "info": "Vier Tage Sonne, Fahrspaß & Racing-Feeling - krönender Abschluss der Saison",
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 339,
@@ -6049,7 +7401,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 3,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 340,
@@ -6064,8 +7420,12 @@
       "preis": 523.8,
       "kategorie": "Sportfahrertraining",
       "tage": 2,
-      "info": "Portimao - Full Circuit, 4 Gruppen mit Abschlussrennen, Racing School Europe mit dabei",
-      "status": "frei"
+      "info": "4 Gruppen mit Abschlussrennen, Racing School Europe mit dabei",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Sportfahrertraining"
     },
     {
       "id": 341,
@@ -6081,7 +7441,11 @@
       "kategorie": "Rennwochenende",
       "tage": 3,
       "info": "Saisonabschluss an der kroatischen Küste",
-      "status": "wenig"
+      "status": "wenig",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rennwochenende"
     },
     {
       "id": 342,
@@ -6096,8 +7460,12 @@
       "preis": null,
       "kategorie": "Vrij Rijden",
       "tage": 3,
-      "info": "10+ plekken beschikbaar",
-      "status": null
+      "info": "10+ plekken voor vrij rijden",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Vrij Rijden"
     },
     {
       "id": 343,
@@ -6110,10 +7478,14 @@
       "url": "https://ppotrackdays.com/",
       "db": "Kein Limit",
       "preis": null,
-      "kategorie": "VIP",
+      "kategorie": "VIP EVENT",
       "tage": 3,
       "info": null,
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "VIP EVENT"
     },
     {
       "id": 344,
@@ -6128,8 +7500,12 @@
       "preis": 969,
       "kategorie": "Rider training",
       "tage": 3,
-      "info": "MotoGP and World SBK Strecke Motorland Aragon (VIP event)",
-      "status": "frei"
+      "info": "MotoGP and World SBK Strecke Motorland Aragon",
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 345,
@@ -6145,7 +7521,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 3,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 346,
@@ -6161,7 +7541,11 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "Jerez de la Frontera - immer eine Reise wert. Komme mit zur MotoGP Rennstrecke Circuito de Jerez Angel Nieto.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 347,
@@ -6177,7 +7561,11 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "3 Tage auf der wunderschönen Grand Prix Strecke Valencia.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 348,
@@ -6193,7 +7581,11 @@
       "kategorie": null,
       "tage": 3,
       "info": "The latest addition and final destination for Bikers' Days in 2026!",
-      "status": null
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 349,
@@ -6202,14 +7594,18 @@
       "start": "2026-12-28",
       "ende": "2026-12-31",
       "veranstalter": "FR Timekeeping",
-      "titel": "Trackday Portimão",
+      "titel": "FR-Timekeeping Trackday",
       "url": "https://www.fr-timekeeping.de/bookable.php?nextyear=2026",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": null,
       "tage": 4,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": null
     },
     {
       "id": 350,
@@ -6218,14 +7614,18 @@
       "start": "2026-12-28",
       "ende": "2026-12-31",
       "veranstalter": "Rennevents.com",
-      "titel": "Trackday Portimao",
+      "titel": "Motorrad-Renntraining",
       "url": "https://www.rennevents.com/",
       "db": "105 dB(A)",
       "preis": null,
       "kategorie": "Trackday",
       "tage": 4,
       "info": null,
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Trackday"
     },
     {
       "id": 351,
@@ -6241,7 +7641,11 @@
       "kategorie": "Rider training",
       "tage": 3,
       "info": "Jerez de la Frontera - immer eine Reise wert. Komme mit zur MotoGP Rennstrecke Circuito de Jerez Angel Nieto.",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Rider training"
     },
     {
       "id": 352,
@@ -6257,7 +7661,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 353,
@@ -6273,7 +7681,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 354,
@@ -6288,8 +7700,12 @@
       "preis": null,
       "kategorie": "Vrij Rijden",
       "tage": 3,
-      "info": "10+ plekken beschikbaar",
-      "status": null
+      "info": "10+ plekken voor vrij rijden",
+      "status": null,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Vrij Rijden"
     },
     {
       "id": 355,
@@ -6305,7 +7721,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 356,
@@ -6321,7 +7741,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     },
     {
       "id": 357,
@@ -6337,7 +7761,11 @@
       "kategorie": "Racing and rider training with final race",
       "tage": 4,
       "info": "Das Bike Promotion Drehkreuz in den Wintermonaten",
-      "status": "frei"
+      "status": "frei",
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle",
+      "typ": "Racing and rider training with final race"
     }
   ]
 }
