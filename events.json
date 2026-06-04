@@ -1771,7 +1771,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1014&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 63,
       "tage": 2,
       "preis": 259,
@@ -2725,7 +2725,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=983&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 112,
       "tage": 3,
       "preis": 259,
@@ -3410,7 +3410,7 @@
       "db": "98 dB",
       "gruppen": "4 Gruppen à 15min",
       "level": "Alle",
-      "url": "https://www.syburger.de/termin/spreewaldring-09-10-05-2026/",
+      "url": "https://www.tourenfahrer.de/trackdays/anmeldung-2026/2027",
       "id": 142,
       "tage": 1,
       "preis": 289,
@@ -3630,7 +3630,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=984&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 153,
       "tage": 2,
       "preis": 259,
@@ -5531,7 +5531,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=985&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 254,
       "tage": 2,
       "preis": 259,
@@ -6349,8 +6349,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "MAXX ADRENALIN",
@@ -6539,7 +6540,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1009&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 301,
       "tage": 2,
       "preis": 259,
@@ -6784,7 +6785,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1010&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 315,
       "tage": 2,
       "preis": 259,
@@ -7428,36 +7429,6 @@
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
-    },
-    {
-      "veranstalter": "YART Racing School Germany",
-      "strecke": "Sachsenring",
-      "land": "Deutschland",
-      "start": "2026-06-15",
-      "ende": "2026-06-16",
-      "typ": "Rennstreckentraining",
-      "db": "k.A.",
-      "gruppen": "k.A.",
-      "level": "Alle",
-      "url": "https://www.yart-racingschool-germany.de/termine/",
-      "id": 351,
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke"
-      ],
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
-      "url_history": [
-        {
-          "old": "https://www.yart-racingschool.de/event/sachsenring-15-16-06/",
-          "new": "https://www.yart-racingschool-germany.de/termine/",
-          "at": "2026-04-27T20:50:38Z",
-          "via": "excel_sync"
-        }
-      ]
     },
     {
       "veranstalter": "CR Moto",
@@ -8419,8 +8390,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -8861,7 +8833,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1024&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 419,
       "tage": 2,
       "preis": 259,
@@ -9892,36 +9864,6 @@
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
-    },
-    {
-      "veranstalter": "YART Racing School Germany",
-      "strecke": "Spreewaldring",
-      "land": "Deutschland",
-      "start": "2026-07-11",
-      "ende": "2026-07-12",
-      "typ": "Rennstreckentraining",
-      "db": "k.A.",
-      "gruppen": "k.A.",
-      "level": "Alle",
-      "url": "https://www.yart-racingschool-germany.de/termine/",
-      "id": 470,
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke"
-      ],
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
-      "url_history": [
-        {
-          "old": "https://www.yart-racingschool.de/event/spreewaldring-11-12-07/",
-          "new": "https://www.yart-racingschool-germany.de/termine/",
-          "at": "2026-04-27T20:50:38Z",
-          "via": "excel_sync"
-        }
-      ]
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -11302,7 +11244,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=990&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 542,
       "tage": 3,
       "preis": 259,
@@ -11399,8 +11341,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "STC Spreewaldring Training Center GmbH",
@@ -11926,8 +11869,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: vergangen/nicht mehr verfuegbar (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "get faster with caremotion",
@@ -12868,8 +12812,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "Inter Track",
@@ -12925,7 +12870,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=998&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 615,
       "tage": 3,
       "preis": 259,
@@ -14254,36 +14199,6 @@
       "archiviert": false
     },
     {
-      "veranstalter": "YART Racing School Germany",
-      "strecke": "Lausitzring",
-      "land": "Deutschland",
-      "start": "2026-08-15",
-      "ende": "2026-08-16",
-      "typ": "Rennstreckentraining",
-      "db": "k.A.",
-      "gruppen": "k.A.",
-      "level": "Alle",
-      "url": "https://www.yart-racingschool-germany.de/termine/",
-      "id": 678,
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke"
-      ],
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
-      "url_history": [
-        {
-          "old": "https://www.yart-racingschool.de/event/lausitzring-15-16-08/",
-          "new": "https://www.yart-racingschool-germany.de/termine/",
-          "at": "2026-04-27T20:50:38Z",
-          "via": "excel_sync"
-        }
-      ]
-    },
-    {
       "veranstalter": "PROMAX Schweiz GMBH",
       "strecke": "Mirecourt",
       "land": "Frankreich",
@@ -15033,7 +14948,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=995&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 714,
       "tage": 2,
       "preis": 259,
@@ -15088,36 +15003,6 @@
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
-    },
-    {
-      "veranstalter": "YART Racing School Germany",
-      "strecke": "Spreewaldring",
-      "land": "Deutschland",
-      "start": "2026-08-22",
-      "ende": "2026-08-23",
-      "typ": "Rennstreckentraining",
-      "db": "k.A.",
-      "gruppen": "k.A.",
-      "level": "Alle",
-      "url": "https://www.yart-racingschool-germany.de/termine/",
-      "id": 717,
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke"
-      ],
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
-      "url_history": [
-        {
-          "old": "https://www.yart-racingschool.de/event/spreewaldring-22-23-08/",
-          "new": "https://www.yart-racingschool-germany.de/termine/",
-          "at": "2026-04-27T20:50:38Z",
-          "via": "excel_sync"
-        }
-      ]
     },
     {
       "veranstalter": "motorspeed",
@@ -15316,7 +15201,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.switch-event.de/strecken/padborg-park-dk/405/padborg-park-iii-kurventraining-11./12.09.2026?c=38",
+      "url": "https://www.tz-motorsport.ch/cremona-circuit",
       "id": 728,
       "tage": 2,
       "preis": 320,
@@ -15391,8 +15276,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "MotoMonster",
@@ -15448,7 +15334,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1001&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 734,
       "tage": 3,
       "preis": 259,
@@ -16277,7 +16163,7 @@
       "db": "98 dB",
       "gruppen": "4 Gruppen à 15min",
       "level": "Alle",
-      "url": "https://www.syburger.de/termin/meppen-05-06-09-2026/",
+      "url": "https://www.tourenfahrer.de/trackdays/anmeldung-2026/2027",
       "id": 772,
       "tage": 1,
       "preis": 289,
@@ -17235,7 +17121,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.sportfahrerwoche.de/event/sfw-13-19-09-2026/",
+      "url": "https://www.sportfahrerwoche.de/index.php/anmelden/2026/freies-fahren-2026",
       "id": 822,
       "tage": 2,
       "preis": 289,
@@ -18171,8 +18057,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
+      "archiv_grund": "Excel-Markierung: Domain btr-eder-racing.eu tot (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "Piste Libre",
@@ -18281,7 +18168,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1032&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 872,
       "tage": 3,
       "preis": 259,
@@ -18336,36 +18223,6 @@
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
-    },
-    {
-      "veranstalter": "YART Racing School Germany",
-      "strecke": "Most",
-      "land": "Tschechien",
-      "start": "2026-09-28",
-      "ende": "2026-09-29",
-      "typ": "Rennstreckentraining",
-      "db": "k.A.",
-      "gruppen": "k.A.",
-      "level": "Alle",
-      "url": "https://www.yart-racingschool-germany.de/termine/",
-      "id": 875,
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke"
-      ],
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
-      "url_history": [
-        {
-          "old": "https://www.yart-racingschool.de/event/most-28-29-09/",
-          "new": "https://www.yart-racingschool-germany.de/termine/",
-          "at": "2026-04-27T20:50:38Z",
-          "via": "excel_sync"
-        }
-      ]
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
@@ -18643,8 +18500,8 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://www.switch-event.de/strecken/heidbergring/400/heidbergring-i-kurventraining-26.04.2026?c=38",
@@ -18652,7 +18509,8 @@
           "at": "2026-04-27T20:50:38Z",
           "via": "excel_sync"
         }
-      ]
+      ],
+      "archiv_grund": "Excel-Markierung: vergangen/nicht mehr verfuegbar (Browser-Recherche 12.05.2026)"
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -18891,7 +18749,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=1020&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 901,
       "tage": 3,
       "preis": 259,
@@ -19019,7 +18877,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.eybis.com/cgi-bin/select_subevent.cgi?HeadEventID=982&Language=DE",
+      "url": "https://www.eybis.com/calendarDE.html",
       "id": 907,
       "tage": 3,
       "preis": 259,
@@ -19341,7 +19199,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.rossocorsa-trackdays.com/",
+      "url": "https://www.rossocorsaonline.com/prove/detail/388?lang=en",
       "id": 920,
       "tage": 1,
       "preis": 269,
@@ -21077,52 +20935,6 @@
       "veranstalter": "ART MOTOR",
       "strecke": "Oschersleben",
       "land": "Deutschland",
-      "start": "2026-07-18",
-      "ende": "2026-07-19",
-      "typ": "Classic Demo 5",
-      "db": "Kein Limit",
-      "gruppen": "Classic",
-      "level": "Alle",
-      "url": "https://www.art-motor.de/shop/sommerfestival-2026.html",
-      "tage": 2,
-      "preis": 349,
-      "leistungen": [
-        "Strecke",
-        "Classic Demo"
-      ],
-      "id": 994,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-09-26",
-      "ende": "2026-09-27",
-      "typ": "Classic Demo 6",
-      "db": "Kein Limit",
-      "gruppen": "Classic",
-      "level": "Alle",
-      "url": "https://www.art-motor.de/shop/biketoberfest-2026.html",
-      "tage": 2,
-      "preis": 349,
-      "leistungen": [
-        "Strecke",
-        "Classic Demo"
-      ],
-      "id": 995,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
       "start": "2026-05-02",
       "ende": "2026-05-03",
       "typ": "ProThunder AllStars Rennen",
@@ -21170,30 +20982,6 @@
     },
     {
       "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-07-18",
-      "ende": "2026-07-19",
-      "typ": "ProThunder AllStars Rennen",
-      "db": "Kein Limit",
-      "gruppen": "Racing",
-      "level": "Racing",
-      "url": "https://www.art-motor.de/shop/sommerfestival-2026.html",
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke",
-        "Rennen",
-        "ProThunder AllStars"
-      ],
-      "id": 998,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
       "strecke": "Assen",
       "land": "Niederlande",
       "start": "2026-08-07",
@@ -21212,30 +21000,6 @@
         "IDM"
       ],
       "id": 999,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-09-26",
-      "ende": "2026-09-27",
-      "typ": "ProThunder AllStars Rennen",
-      "db": "Kein Limit",
-      "gruppen": "Racing",
-      "level": "Racing",
-      "url": "https://www.art-motor.de/shop/biketoberfest-2026.html",
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke",
-        "Rennen",
-        "ProThunder AllStars"
-      ],
-      "id": 1000,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
@@ -21267,30 +21031,6 @@
     },
     {
       "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-07-18",
-      "ende": "2026-07-19",
-      "typ": "TT SuperclassiX Rennen",
-      "db": "Kein Limit",
-      "gruppen": "Racing",
-      "level": "Racing",
-      "url": "https://www.art-motor.de/shop/sommerfestival-2026.html",
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke",
-        "Rennen",
-        "TT SuperclassiX"
-      ],
-      "id": 1002,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
       "strecke": "Assen",
       "land": "Niederlande",
       "start": "2026-08-07",
@@ -21309,30 +21049,6 @@
         "IDM"
       ],
       "id": 1003,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-09-26",
-      "ende": "2026-09-27",
-      "typ": "TT SuperclassiX Rennen",
-      "db": "Kein Limit",
-      "gruppen": "Racing",
-      "level": "Racing",
-      "url": "https://www.art-motor.de/shop/biketoberfest-2026.html",
-      "tage": 2,
-      "preis": 449,
-      "leistungen": [
-        "Strecke",
-        "Rennen",
-        "TT SuperclassiX"
-      ],
-      "id": 1004,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
@@ -21453,30 +21169,6 @@
         "Classic"
       ],
       "id": 1009,
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
-      "veranstalter": "ART MOTOR",
-      "strecke": "Oschersleben",
-      "land": "Deutschland",
-      "start": "2026-09-26",
-      "ende": "2026-09-27",
-      "typ": "Classic/SuperclassiX Endurance",
-      "db": "Kein Limit",
-      "gruppen": "Endurance",
-      "level": "Racing",
-      "url": "https://www.art-motor.de/shop/biketoberfest-2026.html",
-      "tage": 2,
-      "preis": 399,
-      "leistungen": [
-        "Strecke",
-        "Endurance",
-        "Classic"
-      ],
-      "id": 1010,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
@@ -23413,23 +23105,6 @@
       "archiviert": false
     },
     {
-      "id": 1102,
-      "veranstalter": "Tz-Motorsport",
-      "strecke": "Anneau du Rhin",
-      "land": "Frankreich",
-      "start": "2026-09-14",
-      "ende": "2026-09-14",
-      "typ": "Rennstreckentraining",
-      "tage": 1,
-      "preis": "",
-      "url": "https://www.tz-motorsport.de/event/anneau-14-09-2026/",
-      "source": "url_slug_extraction_2026-04-21",
-      "verfuegbarkeit": "unbekannt",
-      "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
-    },
-    {
       "id": 1103,
       "veranstalter": "GA Promotion",
       "strecke": "Misano",
@@ -23441,11 +23116,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
-      "needs_initial_scrape": true
+      "needs_initial_scrape": true,
+      "archiv_grund": "Excel-Markierung: vergangen/nicht mehr verfuegbar"
     },
     {
       "id": 1104,
@@ -23657,11 +23333,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
-      "needs_initial_scrape": true
+      "needs_initial_scrape": true,
+      "archiv_grund": "Excel-Markierung: vergangen/nicht mehr verfuegbar"
     },
     {
       "id": 1116,
@@ -23783,11 +23460,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false,
+      "letzte_pruefung": "2026-06-02T19:45:46+00:00",
+      "archiviert": true,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
-      "needs_initial_scrape": true
+      "needs_initial_scrape": true,
+      "archiv_grund": "Excel-Markierung: vergangen/nicht mehr verfuegbar"
     },
     {
       "id": 1123,
