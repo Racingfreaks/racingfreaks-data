@@ -22846,8 +22846,9 @@
       "source": "manual_excel_entry_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1087,
@@ -22864,7 +22865,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1088,
@@ -22880,8 +22884,9 @@
       "source": "manual_excel_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1089,
@@ -22898,7 +22903,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1090,
@@ -22915,7 +22923,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1091,
@@ -22932,7 +22943,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1092,
@@ -22948,8 +22962,9 @@
       "source": "manual_excel_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1093,
@@ -22966,7 +22981,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1094,
@@ -22983,7 +23001,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1095,
@@ -23000,7 +23021,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1096,
@@ -23016,8 +23040,9 @@
       "source": "url_slug_extraction_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1097,
@@ -23033,8 +23058,9 @@
       "source": "url_slug_extraction_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1098,
@@ -23050,8 +23076,9 @@
       "source": "url_slug_extraction_2026-04-21",
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": null,
-      "archiviert": false
+      "letzte_pruefung": "2026-06-15T09:41:22+00:00",
+      "archiviert": true,
+      "archiv_grund": "vergangen (manuell, unvollst. Felder)"
     },
     {
       "id": 1099,
@@ -23068,7 +23095,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1100,
@@ -23085,7 +23115,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1101,
@@ -23102,7 +23135,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": false,
+      "leistungen": [],
+      "gruppen": null,
+      "level": "Alle"
     },
     {
       "id": 1103,
