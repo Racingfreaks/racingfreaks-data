@@ -24717,6 +24717,98 @@
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "strecke": "Cartagena",
+      "land": "Spanien",
+      "start": "2027-03-08",
+      "ende": "2027-03-10",
+      "typ": "Rennstreckentraining",
+      "db": "100 dB",
+      "gruppen": "max. 20 Fahrer/Gruppe",
+      "level": "Alle",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "id": 1131,
+      "tage": 3,
+      "preis": null,
+      "leistungen": [
+        "Strecke",
+        "Transponder"
+      ],
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "strecke": "Almería",
+      "land": "Spanien",
+      "start": "2027-03-12",
+      "ende": "2027-03-14",
+      "typ": "Rennstreckentraining",
+      "db": "Kein Limit",
+      "gruppen": "max. 20 Fahrer/Gruppe",
+      "level": "Alle",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "id": 1132,
+      "tage": 3,
+      "preis": null,
+      "leistungen": [
+        "Strecke",
+        "Transponder"
+      ],
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "strecke": "Aragón",
+      "land": "Spanien",
+      "start": "2027-03-24",
+      "ende": "2027-03-26",
+      "typ": "Rennstreckentraining",
+      "db": "102 dB",
+      "gruppen": "3 Gruppen",
+      "level": "Alle",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "id": 1133,
+      "tage": 3,
+      "preis": null,
+      "leistungen": [
+        "Strecke",
+        "Transponder"
+      ],
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "strecke": "Valencia",
+      "land": "Spanien",
+      "start": "2027-03-29",
+      "ende": "2027-03-31",
+      "typ": "Rennstreckentraining",
+      "db": "105 dB",
+      "gruppen": "3 Gruppen",
+      "level": "Alle",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "id": 1134,
+      "tage": 3,
+      "preis": null,
+      "leistungen": [
+        "Strecke",
+        "Transponder"
+      ],
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
     }
   ],
   "migrated_at": "2026-04-26T05:45:28",
