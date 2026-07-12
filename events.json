@@ -9995,8 +9995,8 @@
     },
     {
       "veranstalter": "LRC Motorsport",
-      "strecke": "Meppen",
-      "land": "Deutschland",
+      "strecke": "Mettet",
+      "land": "Belgien",
       "start": "2026-07-13",
       "ende": "2026-07-13",
       "typ": "Rennstreckentraining",
@@ -10205,8 +10205,8 @@
     },
     {
       "veranstalter": "LRC Motorsport",
-      "strecke": "Meppen",
-      "land": "Deutschland",
+      "strecke": "Mettet",
+      "land": "Belgien",
       "start": "2026-07-14",
       "ende": "2026-07-14",
       "typ": "Rennstreckentraining",
@@ -10568,21 +10568,21 @@
       "db": "98 dB",
       "gruppen": "3 Gruppen",
       "level": "Alle",
-      "url": "https://www.art-motor.de/shop/most-2026.html",
+      "url": "https://www.art-motor.de/shop/sommerfestival-2026.html",
       "id": 500,
       "tage": 3,
-      "preis": 289,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Festival",
         "Classic Demo"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:35:37+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:22:06+00:00",
-      "content_hash": "f31541ec641415d72dec13ee57475dfda294d80d442d83e16b4365e37f42b730"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -12429,10 +12429,10 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
-      "freie_plaetze": 2,
-      "letzte_pruefung": "2026-07-12T06:40:57+00:00",
-      "archiviert": false,
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://racecracks.com/event/ecuyers-2025-08-02/",
@@ -12441,8 +12441,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-09T18:30:22+00:00",
-      "content_hash": "43328808d0d3d8d65af964b4d315b8539058bc8bc0526744600c11edf72f7d64"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -12503,10 +12503,10 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.raceandfun.de/",
+      "url": "https://race-and-fun.regiondo.de/pitbike-training-kartbahn-oschersleben",
       "id": 587,
       "tage": 1,
-      "preis": 349,
+      "preis": 199,
       "leistungen": [
         "Strecke"
       ],
@@ -13593,10 +13593,10 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.raceandfun.de/produkt/kurventraining-kartbahn-oschersleben/",
+      "url": "https://race-and-fun.regiondo.de/kurven-training-kartbahn-oschersleben",
       "id": 633,
       "tage": 2,
-      "preis": 349,
+      "preis": 299,
       "leistungen": [
         "Strecke"
       ],
@@ -15019,19 +15019,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.gullyracing.it/prodotto?id=174",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 696,
       "tage": 2,
-      "preis": 669,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:48:00+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:38:48+00:00",
-      "content_hash": "6d83db2289282fec09cd3a224513930b391ad70c7731ef3f9637c2cd405ca663"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Mike Wohner Rennsport",
@@ -15194,21 +15194,21 @@
       "db": "101 dB",
       "gruppen": "3 Gruppen",
       "level": "Alle",
-      "url": "https://www.gullyracing.it/prodotto?id=174",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 705,
       "tage": 3,
-      "preis": 669,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Endurance",
         "Sprintrennen"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:48:21+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:39:17+00:00",
-      "content_hash": "6d83db2289282fec09cd3a224513930b391ad70c7731ef3f9637c2cd405ca663"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MotoMonster",
@@ -16340,7 +16340,7 @@
       "url": "https://crtholland.nl/en/events/213/",
       "id": 756,
       "tage": 1,
-      "preis": 0,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -17212,7 +17212,7 @@
       "url": "https://www.paddys-races-days.ch/details-registrierung/circuit-mugello",
       "id": 796,
       "tage": 3,
-      "preis": 30,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -18328,19 +18328,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://moto-racingschool.com/produkt/spreewaldring-schnuppertraining-29-31-mai-2026/",
+      "url": "https://moto-racingschool.com/produkt/most-21-22-september-2026/",
       "id": 847,
       "tage": 2,
-      "preis": 199,
+      "preis": 499,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:56:29+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:49:26+00:00",
-      "content_hash": "a5814d49a586dfc34e8aba2fb598c1a9628b9b651304e8b19512d2376dda60d9"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -18978,8 +18978,8 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:57:38+00:00",
-      "archiviert": false,
+      "letzte_pruefung": null,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://www.raceandfun.de/",
@@ -18988,8 +18988,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-12T06:57:38+00:00",
-      "content_hash": "d2277d49160f16fcd36b9db535791313ac9705b8e58726d76e9d1bdef79df48c"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -19080,7 +19080,7 @@
       "url": "https://crtholland.nl/en/events/216/",
       "id": 881,
       "tage": 1,
-      "preis": 0,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -19905,19 +19905,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://panther-racing.com/oschersleben-1/",
+      "url": "https://www.paddys-races-days.ch/details-registrierung/circuit-cremona",
       "id": 916,
       "tage": 3,
-      "preis": 549,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:00:48+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:53:57+00:00",
-      "content_hash": "a005fa7bd0bc1df9ba32f3ab12a4609408658492332f924a0f5cc8a110f1bf40"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "GH-MOTO Racedays",
@@ -20079,19 +20079,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://moto-racingschool.com/produkt/assen-2-3-juni-2026/",
+      "url": "https://moto-racingschool.com/produkt/alcarras-21-23-oktober-2026/",
       "id": 923,
       "tage": 3,
-      "preis": 539,
+      "preis": 699,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:01:17+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:54:27+00:00",
-      "content_hash": "b9b55d2088457b2137f990bc6e33e4f05aac3c305ece5fb89c701378a2cf0f2b"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -20345,16 +20345,16 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.motorsportschool.be/product/vrij-rijden-open-uitl-zolder-donderdag-23-april/",
+      "url": "https://moto-racingschool.com/produkt/cartagena-schnuppertraining-29-30-oktober-2026/",
       "id": 935,
       "tage": 2,
-      "preis": 210,
+      "preis": 499,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:01:48+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -20364,8 +20364,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-12T07:01:48+00:00",
-      "content_hash": "ffb6300d5472997e454735707f8e4666f39ecade36a0c63cf9aed49a5be2f25d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -21158,16 +21158,16 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.motorsportschool.be/product/vrij-rijden-open-uitl-zolder-donderdag-7-mei/",
+      "url": "https://moto-racingschool.com/produkt/portimao-28-31-dezember-2026/",
       "id": 966,
       "tage": 4,
-      "preis": 210,
+      "preis": 849,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:04:38+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -21177,8 +21177,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-12T07:04:38+00:00",
-      "content_hash": "6e4c0466cd56a9fa2d92f78d7370e65a762497c54c26b12e9daab013e464e28f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -21379,9 +21379,9 @@
       "db": "Kein Limit",
       "gruppen": "4 Gruppen (Lower/Mid, Middle/Adv, Advanced, Advanced2)",
       "level": "Alle",
-      "url": "https://moto-racingschool.com/produkt/portimao-28-31-dezember-2026/",
+      "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/jerez.aspx",
       "tage": 3,
-      "preis": 849,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig",
@@ -21390,10 +21390,10 @@
       "id": 974,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:04:56+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:58:52+00:00",
-      "content_hash": "eb542dc1f9f6f3af392fca68f363a1c8ca96f597ef2025e65f29d44ac06b4fde"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21456,9 +21456,9 @@
       "db": "Kein Limit",
       "gruppen": "4 Gruppen (Lower/Middle, Middle/Adv, Advanced, Advanced/Acu)",
       "level": "Alle",
-      "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/misano.aspx",
+      "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/mugello.aspx",
       "tage": 3,
-      "preis": 1209,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig",
@@ -21467,10 +21467,10 @@
       "id": 977,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:05:00+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:59:05+00:00",
-      "content_hash": "d5422f459abd0c2118763f1c0cba3f7086b94f393a5ccb66828fea259af23eb1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -22407,19 +22407,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://wsb-sport.com/?p=event&e=13",
+      "url": "https://mrr.bike/trip/autodrom-most-202607b",
       "tage": 2,
-      "preis": 100,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
       "id": 1024,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:05:17+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T19:00:00+00:00",
-      "content_hash": "bc70105ce6ea1ca28f90cbc3058a10a3fce32ad3a58169d07265cb50cbb28da1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -22479,19 +22479,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://wsb-sport.com/?p=event&e=5",
+      "url": "https://mrr.bike/trip/brno-202609",
       "tage": 2,
-      "preis": 100,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
       "id": 1027,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:05:39+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T19:00:27+00:00",
-      "content_hash": "d09624674949979e9f933a05d093bf072e2f528962bdfec64cb65f0b965f2c71"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -23549,19 +23549,19 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.tz-motorsport.ch/unsere-veranstaltungen",
+      "url": "https://www.bike-promotion.com/de/events/overview#2252",
       "tage": 3,
-      "preis": 209,
+      "preis": 969,
       "leistungen": [
         "Strecke"
       ],
       "id": 1073,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:07:17+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T19:02:23+00:00",
-      "content_hash": "c6ee4a0eaba6be04963e5bdb6d342b22ee13a664cf552af9fc1dc52376502d52"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bike Promotion",
@@ -23910,7 +23910,7 @@
       "ende": "2026-08-04",
       "typ": "Rennstreckentraining",
       "tage": 2,
-      "preis": 40,
+      "preis": 549,
       "url": "https://www.tom-dick.de/trackdays/most-cz-03-04-08-2026/",
       "source": "manual_excel_2026-04-21",
       "verfuegbarkeit": "frei",
