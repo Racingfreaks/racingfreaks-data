@@ -9986,12 +9986,12 @@
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:34:26+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:34:26+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "LRC Motorsport",
@@ -10272,16 +10272,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 489,
       "tage": 2,
-      "preis": 315,
+      "preis": 625,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:35:05+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:35:05+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CR Moto",
@@ -10871,10 +10871,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:36:14+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:36:14+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bikers Days",
@@ -11259,16 +11259,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 534,
       "tage": 3,
-      "preis": 202,
+      "preis": 707,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:37:24+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:37:24+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bikers Days",
@@ -11384,12 +11384,12 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:37:40+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:37:40+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -11881,12 +11881,12 @@
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:39:36+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:39:36+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bikers Days",
@@ -12221,16 +12221,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 576,
       "tage": 3,
-      "preis": 113,
+      "preis": 845,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:40:20+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:40:20+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -12463,10 +12463,10 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:41:01+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:41:01+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "TIMMOT",
@@ -12844,10 +12844,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:42:16+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:42:16+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "FLM Race Track Days",
@@ -13152,24 +13152,24 @@
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-08-07",
-      "ende": "2026-08-09",
+      "ende": "2026-08-08",
       "typ": "Rennstreckentraining",
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
       "url": "https://www.speer-racing.de/",
       "id": 614,
-      "tage": 3,
-      "preis": 113,
+      "tage": 2,
+      "preis": 572,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:43:10+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:43:10+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "EYBIS",
@@ -13464,24 +13464,24 @@
       "strecke": "Hockenheimring",
       "land": "Deutschland",
       "start": "2026-08-08",
-      "ende": "2026-08-09",
+      "ende": "2026-08-08",
       "typ": "Sicherheitstraining",
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
       "url": "https://www.speer-racing.de/",
       "id": 628,
-      "tage": 2,
-      "preis": 113,
+      "tage": 1,
+      "preis": 288,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:44:22+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:44:22+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Piste Libre",
@@ -13681,16 +13681,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 637,
       "tage": 1,
-      "preis": 113,
+      "preis": 155,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:44:49+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:44:49+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PS-Renntraining",
@@ -13768,12 +13768,12 @@
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:45:02+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:45:02+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Piste Libre",
@@ -14883,10 +14883,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:47:45+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:47:45+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MotoMonster",
@@ -15639,27 +15639,27 @@
       "veranstalter": "Speer Racing",
       "strecke": "Sachsenring",
       "land": "Deutschland",
-      "start": "2026-08-24",
-      "ende": "2026-08-26",
+      "start": "2026-09-21",
+      "ende": "2026-09-22",
       "typ": "Sportfahrertraining",
       "db": "95 dB",
       "gruppen": "3 Gruppen",
       "level": "Alle",
       "url": "https://www.speer-racing.de/",
       "id": 725,
-      "tage": 3,
+      "tage": 2,
       "preis": 480,
       "leistungen": [
         "Strecke",
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:49:59+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:49:59+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Schräglage Motorsport Ringtraining",
@@ -16224,12 +16224,12 @@
         "Transponder",
         "Camping"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:51:17+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:51:17+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Dafit Filla Racing Agency",
@@ -16864,10 +16864,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:53:22+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:53:22+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bike Promotion",
@@ -17274,10 +17274,10 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:54:07+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:54:07+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "SWITCHevent",
@@ -17657,10 +17657,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:54:56+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:54:56+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -17796,16 +17796,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 823,
       "tage": 2,
-      "preis": 235,
+      "preis": 452,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:55:19+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:55:19+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "FR Timekeeping",
@@ -18363,10 +18363,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:56:35+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:56:35+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MAXX ADRENALIN",
@@ -18828,10 +18828,10 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:57:20+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:57:20+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -18879,16 +18879,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 871,
       "tage": 1,
-      "preis": 271,
+      "preis": 272,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:57:26+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:57:26+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "EYBIS",
@@ -19062,10 +19062,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:57:57+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:57:57+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CRT",
@@ -19104,16 +19104,16 @@
       "url": "https://www.speer-racing.de/",
       "id": 882,
       "tage": 2,
-      "preis": 235,
+      "preis": 472,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:58:02+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:58:02+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CRT",
@@ -19358,12 +19358,12 @@
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:59:26+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:59:26+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Mike Wohner Rennsport",
@@ -19842,10 +19842,10 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:00:39+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:00:39+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Gully Racing",
@@ -19890,10 +19890,10 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:00:46+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:00:46+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Paddys-Races-Days",
@@ -19990,10 +19990,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:01:01+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:01:01+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rosso Corsa",
@@ -20274,10 +20274,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:01:39+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:01:39+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -20380,7 +20380,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 936,
       "tage": 3,
-      "preis": 113,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20388,10 +20388,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:01:53+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:01:53+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -20459,18 +20459,18 @@
       "url": "https://www.speer-racing.de/",
       "id": 939,
       "tage": 3,
-      "preis": 113,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:02:12+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:02:12+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -20675,7 +20675,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 947,
       "tage": 3,
-      "preis": 110,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20683,10 +20683,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:02:45+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:02:45+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -20777,7 +20777,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 951,
       "tage": 3,
-      "preis": 113,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20785,10 +20785,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:03:10+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:03:10+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -20853,7 +20853,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 954,
       "tage": 3,
-      "preis": 110,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20861,10 +20861,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:03:30+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:03:30+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
