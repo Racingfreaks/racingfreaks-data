@@ -9886,7 +9886,8 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": true,
+      "archiv_grund": "Domain team-biker.com nicht erreichbar; Event am 12.07.2026 beendet"
     },
     {
       "veranstalter": "MotoMonster",
@@ -11430,11 +11431,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 542,
       "tage": 3,
-      "preis": 259,
+      "preis": 149,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
@@ -13184,11 +13185,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 615,
       "tage": 3,
-      "preis": 259,
+      "preis": 169,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
@@ -15425,11 +15426,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 714,
       "tage": 2,
-      "preis": 259,
+      "preis": 219,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
@@ -15841,11 +15842,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 734,
       "tage": 3,
-      "preis": 259,
+      "preis": 169,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
@@ -18903,11 +18904,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 872,
       "tage": 3,
-      "preis": 259,
+      "preis": 599,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
@@ -19527,11 +19528,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 901,
       "tage": 3,
-      "preis": 259,
+      "preis": 979,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false,
@@ -19663,11 +19664,11 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 907,
       "tage": 3,
-      "preis": 259,
+      "preis": 649,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false,
@@ -24691,6 +24692,28 @@
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
+    },
+    {
+      "veranstalter": "EYBIS",
+      "strecke": "Portimão",
+      "land": "Portugal",
+      "start": "2026-09-23",
+      "ende": "2026-09-24",
+      "typ": "Rennstreckentraining",
+      "db": "k.A.",
+      "gruppen": "k.A.",
+      "level": "Alle",
+      "url": "https://www.eybis.com/calendarDE.html",
+      "id": 1130,
+      "tage": 2,
+      "preis": 399,
+      "leistungen": [
+        "Strecke"
+      ],
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false
