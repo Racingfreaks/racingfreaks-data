@@ -24672,6 +24672,28 @@
       "needs_initial_scrape": true,
       "letzte_volle_pruefung": "2026-07-09T19:07:11+00:00",
       "content_hash": "b4a6808e725f66795e9ca4a79732677d1df84d9be05e3aec081dda6278d58267"
+    },
+    {
+      "veranstalter": "Speer Racing",
+      "strecke": "Magny-Cours",
+      "land": "Frankreich",
+      "start": "2026-08-21",
+      "ende": "2026-08-23",
+      "typ": "Rennstreckentraining",
+      "db": "Kein Limit",
+      "gruppen": "3 Gruppen",
+      "level": "Alle",
+      "url": "https://www.speer-racing.de/",
+      "id": 1129,
+      "tage": 3,
+      "preis": 599,
+      "leistungen": [
+        "Strecke"
+      ],
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "letzte_pruefung": null,
+      "archiviert": false
     }
   ],
   "migrated_at": "2026-04-26T05:45:28",
