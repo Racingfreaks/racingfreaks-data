@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-04-21T18:02:31",
+  "generated_at": "2026-07-13T11:01:51+00:00",
   "source": "racingfreaks.de initial import",
   "stats": {
     "total": 1010,
@@ -10035,9 +10035,9 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:34:33+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -10047,8 +10047,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-09T18:20:16+00:00",
-      "content_hash": "fbd44c5a11f5f87829098a5e54f9b2b200ff25682874d2067c403bc3ddc922f1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -10063,14 +10063,14 @@
       "url": "https://www.promoracing.it/en/calendar/bike.639/motorcycle-trackday#13",
       "id": 478,
       "tage": 1,
-      "preis": 349,
+      "preis": 269,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:34:36+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -10080,8 +10080,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-12T06:34:36+00:00",
-      "content_hash": "50c083a9b0aa5fb849a985e92eeef7b71da1b3c2d1ad420e70b143e2576d76b8"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -10096,16 +10096,16 @@
       "url": "https://triple-mmm.de/event/most-iii-07-26",
       "id": 479,
       "tage": 2,
-      "preis": 449,
+      "preis": 529,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:34:45+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:20:31+00:00",
-      "content_hash": "3c6c03e058ed90ba1cec53b6cbcb149bfa51f80255cdfeaf4192f111e1b6185e"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bike Promotion",
