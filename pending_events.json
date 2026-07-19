@@ -1,6 +1,6 @@
 {
-  "discovered_at": "2026-07-19T07:20:08+00:00",
-  "count": 785,
+  "discovered_at": "2026-07-19T18:40:32+00:00",
+  "count": 735,
   "events": [
     {
       "veranstalter": "CR Moto",
@@ -41,7 +41,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/misano-world-circuit",
-      "vorschlag_strecke": "Misano",
+      "vorschlag_strecke": "Misano World Circuit",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -77,7 +77,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/autodrom-most",
-      "vorschlag_strecke": "Most",
+      "vorschlag_strecke": "Autodrom Most",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -86,7 +86,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/balaton-park-circuit",
-      "vorschlag_strecke": "Balaton Park",
+      "vorschlag_strecke": "Balaton Park Circuit",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -293,19 +293,19 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en",
-      "vorschlag_strecke": "Pannonia Ring",
-      "vorschlag_anfang": "2026-09-05",
-      "vorschlag_ende": "2026-09-06",
-      "vorschlag_preis": 209,
+      "vorschlag_strecke": "A1 Motor Park",
+      "vorschlag_anfang": "2026-06-13",
+      "vorschlag_ende": "2026-06-14",
+      "vorschlag_preis": 355,
       "quelle_uebersicht": "https://crmoto.eu/en"
     },
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en",
-      "vorschlag_strecke": "A1 Motor Park",
-      "vorschlag_anfang": "2026-06-13",
-      "vorschlag_ende": "2026-06-14",
-      "vorschlag_preis": 355,
+      "vorschlag_strecke": "Slovakia Ring",
+      "vorschlag_anfang": "2026-07-11",
+      "vorschlag_ende": "2026-07-12",
+      "vorschlag_preis": 305,
       "quelle_uebersicht": "https://crmoto.eu/en"
     },
     {
@@ -1220,7 +1220,7 @@
     {
       "veranstalter": "Hafeneger Renntrainings",
       "url": "https://hafeneger-renntrainings.de/spanien-events-2026/",
-      "vorschlag_strecke": "Cartagena & Almeria",
+      "vorschlag_strecke": "Cartagena / Almeria",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1238,46 +1238,10 @@
     {
       "veranstalter": "Hafeneger Renntrainings",
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim IDM-Variante",
-      "vorschlag_anfang": "2026-08-03",
-      "vorschlag_ende": "2026-08-04",
-      "vorschlag_preis": 549,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim IDM-Variante",
-      "vorschlag_anfang": "2026-08-03",
-      "vorschlag_ende": "2026-08-03",
-      "vorschlag_preis": 289,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim IDM-Variante",
-      "vorschlag_anfang": "2026-08-04",
-      "vorschlag_ende": "2026-08-04",
-      "vorschlag_preis": 289,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Almería",
+      "vorschlag_strecke": "Almeria",
       "vorschlag_anfang": "2027-03-08",
       "vorschlag_ende": "2027-03-10",
-      "vorschlag_preis": 669,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Cartagena",
-      "vorschlag_anfang": "2027-03-12",
-      "vorschlag_ende": "2027-03-14",
-      "vorschlag_preis": 669,
+      "vorschlag_preis": 649,
       "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
     },
     {
@@ -1785,42 +1749,6 @@
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
     {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Monteblanco",
-      "vorschlag_anfang": "2027-01-18",
-      "vorschlag_ende": "2027-01-20",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": "2027-01-22",
-      "vorschlag_ende": "2027-01-24",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2027-03-01",
-      "vorschlag_ende": "2027-03-03",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Portimao",
-      "vorschlag_anfang": "2027-03-12",
-      "vorschlag_ende": "2027-03-14",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
       "veranstalter": "motorspeed",
       "url": "https://motorspeed.de/motorspeed-termine",
       "vorschlag_strecke": null,
@@ -1940,171 +1868,9 @@
     {
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": "2026-07-24",
-      "vorschlag_ende": "2026-07-26",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
       "vorschlag_strecke": "Dijon",
       "vorschlag_anfang": "2026-08-03",
       "vorschlag_ende": "2026-08-04",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Tazio Nuvolari",
-      "vorschlag_anfang": "2026-09-04",
-      "vorschlag_ende": "2026-09-06",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Aragon",
-      "vorschlag_anfang": "2026-09-29",
-      "vorschlag_ende": "2026-10-01",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2026-10-03",
-      "vorschlag_ende": "2026-10-05",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2026-10-23",
-      "vorschlag_ende": "2026-10-25",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Cartagena",
-      "vorschlag_anfang": "2026-10-31",
-      "vorschlag_ende": "2026-11-02",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Aragon VIP",
-      "vorschlag_anfang": "2026-11-12",
-      "vorschlag_ende": "2026-11-14",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2026-11-17",
-      "vorschlag_ende": "2026-11-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": "2026-11-21",
-      "vorschlag_ende": "2026-11-23",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Andalucia",
-      "vorschlag_anfang": "2026-11-28",
-      "vorschlag_ende": "2026-11-30",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2026-12-04",
-      "vorschlag_ende": "2026-12-06",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2026-12-19",
-      "vorschlag_ende": "2026-12-23",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": "2026-12-27",
-      "vorschlag_ende": "2026-12-31",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": "2027-01-09",
-      "vorschlag_ende": "2027-01-11",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2027-01-16",
-      "vorschlag_ende": "2027-01-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2027-02-16",
-      "vorschlag_ende": "2027-02-18",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2027-03-19",
-      "vorschlag_ende": "2027-03-21",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
-    },
-    {
-      "veranstalter": "fast-travel.ch",
-      "url": "https://www.fast-travel.ch/coaching",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2027-03-22",
-      "vorschlag_ende": "2027-03-24",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.fast-travel.ch/coaching"
     },
@@ -2129,7 +1895,7 @@
     {
       "veranstalter": "PPO TRACK DAYS",
       "url": "https://ppotrackdays.com/moto_event/vip-event-circuit-de-ledenon-04-05-06-septembre-2026/",
-      "vorschlag_strecke": "Circuit de Ledenon",
+      "vorschlag_strecke": "Circuit de Lédenon",
       "vorschlag_anfang": "2026-09-04",
       "vorschlag_ende": "2026-09-06",
       "vorschlag_preis": null,
@@ -2152,123 +1918,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://ppotrackdays.com/"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/circuit-meppen",
-      "vorschlag_strecke": "Circuit Meppen",
-      "vorschlag_anfang": "2026-07-18",
-      "vorschlag_ende": "2026-07-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/sachsenring-23-24-juli-2026-motorrad-renntraining",
-      "vorschlag_strecke": "Sachsenring GP",
-      "vorschlag_anfang": "2026-07-23",
-      "vorschlag_ende": "2026-07-24",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/hockenheimring-gp",
-      "vorschlag_strecke": "Hockenheimring GP",
-      "vorschlag_anfang": "2026-07-25",
-      "vorschlag_ende": "2026-07-26",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-iii-iiii",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2026-07-30",
-      "vorschlag_ende": "2026-07-31",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-iii",
-      "vorschlag_strecke": "Anneau du Rhin III",
-      "vorschlag_anfang": "2026-07-30",
-      "vorschlag_ende": "2026-07-30",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-iiii",
-      "vorschlag_strecke": "Anneau du Rhin IIII",
-      "vorschlag_anfang": "2026-07-31",
-      "vorschlag_ende": "2026-07-31",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/spreewaldring-ii",
-      "vorschlag_strecke": "Spreewaldring II",
-      "vorschlag_anfang": "2026-09-12",
-      "vorschlag_ende": "2026-09-13",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/mettet",
-      "vorschlag_strecke": "Mettet",
-      "vorschlag_anfang": "2026-09-22",
-      "vorschlag_ende": "2026-09-23",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/season-pass-2026",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/circuit-de-mirecourt",
-      "vorschlag_strecke": "Circuit de Mirecourt",
-      "vorschlag_anfang": "2026-04-04",
-      "vorschlag_ende": "2026-04-06",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-i",
-      "vorschlag_strecke": "Anneau du Rhin I",
-      "vorschlag_anfang": "2026-04-23",
-      "vorschlag_ende": "2026-04-23",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/spreewaldring-i",
-      "vorschlag_strecke": "Spreewaldring I",
-      "vorschlag_anfang": "2026-05-02",
-      "vorschlag_ende": "2026-05-03",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
-    },
-    {
-      "veranstalter": "Heppler Racedays",
-      "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-ii",
-      "vorschlag_strecke": "Anneau du Rhin II",
-      "vorschlag_anfang": "2026-05-25",
-      "vorschlag_ende": "2026-05-25",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
     {
       "veranstalter": "Motorsportschool Zolder",
@@ -2400,15 +2049,6 @@
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/kurventraining-oberbergischer-kartring/",
       "vorschlag_strecke": "Oberbergischer Kartring",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.mototeam.eu/shop/"
-    },
-    {
-      "veranstalter": "MotoTeam",
-      "url": "https://www.mototeam.eu/produkt/kurventraining-vogelsbergring/",
-      "vorschlag_strecke": "Vogelsbergring",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2877,7 +2517,7 @@
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/mircecourt-moto-juli/",
       "vorschlag_strecke": "Mircecourt",
-      "vorschlag_anfang": "2026-07-01",
+      "vorschlag_anfang": "2025-07-01",
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.getfaster.ch/veranstaltungen/"
@@ -2912,7 +2552,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/bruenn-brno/",
-      "vorschlag_strecke": "Brünn (Brno)",
+      "vorschlag_strecke": "Brünn",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3083,7 +2723,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/bruenn-brno/",
-      "vorschlag_strecke": "Brünn (Brno)",
+      "vorschlag_strecke": "Brünn",
       "vorschlag_anfang": "2026-08-14",
       "vorschlag_ende": "2026-08-16",
       "vorschlag_preis": null,
@@ -3380,7 +3020,7 @@
     {
       "veranstalter": "Inter Track",
       "url": "https://www.inter-track.be/fr/ducati-trackday-1",
-      "vorschlag_strecke": "Aarschot",
+      "vorschlag_strecke": "Aarscht",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3628,87 +3268,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "MAXX ADRENALIN",
-      "url": "https://booking.maxx-adrenalin.de/de/events/overview",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/collections/trackday-tickets-2026",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/trackday-am-red-bull-ring-10-08-2026?variant=55910211748171",
-      "vorschlag_strecke": "Red Bull Ring",
-      "vorschlag_anfang": "2026-08-10",
-      "vorschlag_ende": "2026-08-10",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/trackday-am-bilster-berg-12-09-2026?variant=55910205522251",
-      "vorschlag_strecke": "Bilster Berg",
-      "vorschlag_anfang": "2026-09-12",
-      "vorschlag_ende": "2026-09-12",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/extra-event?variant=55917913604427",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/speed-event-bilster-berg-14-05-26",
-      "vorschlag_strecke": "Bilster Berg",
-      "vorschlag_anfang": "2026-05-14",
-      "vorschlag_ende": "2026-05-14",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/trackday-am-bilster-berg-19-07-2026",
-      "vorschlag_strecke": "Bilster Berg",
-      "vorschlag_anfang": "2026-07-19",
-      "vorschlag_ende": "2026-07-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/trackday-am-red-bull-ring-10-08-2026",
-      "vorschlag_strecke": "Red Bull Ring",
-      "vorschlag_anfang": "2026-08-10",
-      "vorschlag_ende": "2026-08-10",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
-    },
-    {
-      "veranstalter": "Speed Factory",
-      "url": "https://speedfactory.one/products/trackday-am-bilster-berg-12-09-2026",
-      "vorschlag_strecke": "Bilster Berg",
-      "vorschlag_anfang": "2026-09-12",
-      "vorschlag_ende": "2026-09-12",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://speedfactory.one/collections/trackday-tickets-2026"
     },
     {
       "veranstalter": "Team Dannhoff",
@@ -4074,8 +3633,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/zuend-in-den-mai/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2024-05-01",
-      "vorschlag_ende": "2024-05-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -4092,8 +3651,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/sommerfestival/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2024-06-01",
-      "vorschlag_ende": "2024-08-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -4102,7 +3661,7 @@
       "url": "https://artmotor.de/events/biketoberfest/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": "2024-10-01",
-      "vorschlag_ende": "2024-10-31",
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -4643,15 +4202,6 @@
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
-    },
-    {
-      "veranstalter": "Rennevents.com",
-      "url": "https://www.rennevents.com/motorsportarena-oschersleben-20-07-bis-21-07-2026.html",
-      "vorschlag_strecke": "Motorsportarena Oschersleben",
-      "vorschlag_anfang": "2026-07-20",
-      "vorschlag_ende": "2026-07-21",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
@@ -5440,7 +4990,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=b282d5c2ec",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=940b76e4c7",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5458,7 +5008,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=b282d5c2ec",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=940b76e4c7",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5476,7 +5026,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=b282d5c2ec",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=940b76e4c7",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5494,7 +5044,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=b282d5c2ec",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=940b76e4c7",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5512,7 +5062,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=b282d5c2ec",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=940b76e4c7",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5530,16 +5080,16 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-braunschweig/",
-      "vorschlag_strecke": "Karthalle Braunschweig",
-      "vorschlag_anfang": "2026-04-03",
-      "vorschlag_ende": "2026-04-03",
+      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-bispingen/",
+      "vorschlag_strecke": "Karthalle Bispingen",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/honda-funbike-training-karthalle-hannover/",
+      "url": "https://www.race-and-fun.com/produkt/schraeglagen-training-maedels-unter-sich/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5548,7 +5098,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-hildesheim-outdoor/",
+      "url": "https://www.race-and-fun.com/produkt/schraeglagen-training-perfektion/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5557,7 +5107,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/capit-reifenwaermer-suprema-spina-vo-120-17-hi185-205-16-17-4/",
+      "url": "https://www.race-and-fun.com/produkt/radwippe-staedystand-fixed-10-19/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5575,7 +5125,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/arlows-windstopper-reifenwaermerueberzug-12-zoll-pitbike-100-120/",
+      "url": "https://www.race-and-fun.com/produkt/helite-turtle-airbagweste-neongelb/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5584,7 +5134,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/racefloor-normal/",
+      "url": "https://www.race-and-fun.com/produkt/ueberzug-fuer-helite-trigger/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -7053,7 +6603,7 @@
       "veranstalter": "Sportfahrerwoche",
       "url": "https://www.sportfahrerwoche.de/index.php/anmelden/2026/rennstrecke-mit-instruktor-2026",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
+      "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.sportfahrerwoche.de"
