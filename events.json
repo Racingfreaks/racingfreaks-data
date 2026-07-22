@@ -10890,17 +10890,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-dijon-prenois/437-bikers-days-dijon-prenois-20-21072026.html",
       "id": 515,
       "tage": 2,
-      "preis": 395,
+      "preis": 198,
       "leistungen": [
         "Strecke",
         "Burgundy"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:36:33+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:36:33+00:00",
-      "content_hash": "904ec88fb660aa3257285e449d7565d56907b1fe2cca3d97eba7129d5c8f2d12"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MotoMonster",
@@ -11036,16 +11036,16 @@
       "url": "https://moto-racingschool.com/produkt/oschersleben-20-21-juli-2026/",
       "id": 524,
       "tage": 2,
-      "preis": 469,
+      "preis": 235,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:48:01+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:48:01+00:00",
-      "content_hash": "aa77f29f4151b7054764cadc8598d0ebeaa998fdc62160e487c24c18084a807c"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CR Moto",
@@ -11137,7 +11137,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.motorsportschool.be/product/vrij-rijden-open-uitl-zolder-donderdag-7-mei/",
+      "url": "https://www.motorsportschool.be/",
       "id": 528,
       "tage": 1,
       "preis": 210,
@@ -11146,10 +11146,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:48:23+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:48:23+00:00",
-      "content_hash": "0ffd61a4afc2191c3748815860cebbe31ac328aeb2140445b020ab030c753afc"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "motorspeed",
@@ -11212,16 +11212,16 @@
       "url": "https://event.motorpresse.de/motorrad-perfektionstraining-nuerburgring-nordschleife-einsteiger-aufsteiger/",
       "id": 532,
       "tage": 2,
-      "preis": 740,
+      "preis": 370,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:48:41+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:48:41+00:00",
-      "content_hash": "a46dc6bfc4e908af15b017a1ab692d62cd3061d1b4806fede1d90396dfc54c53"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Michael Fiala Motor-Sports",
@@ -11284,17 +11284,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-le-mans/438-bikers-days-le-mans-23-24072026.html",
       "id": 535,
       "tage": 2,
-      "preis": 490,
+      "preis": 245,
       "leistungen": [
         "Strecke",
         "Le Mans"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:37:28+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:37:28+00:00",
-      "content_hash": "da853d7dcd811b25c1ac82d8c357b939d4c76c4e506e3b7f92516cc42da1d48a"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Mike Wohner Rennsport",
@@ -11333,16 +11333,16 @@
       "url": "https://www.heppler-racedays.de/products/sachsenring-23-24-juli-2026-motorrad-renntraining",
       "id": 538,
       "tage": 2,
-      "preis": 490,
+      "preis": 245,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:49:25+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:49:25+00:00",
-      "content_hash": "9a12dd9e3c253c7e46cd10ffaf621e1d1d9cc2251ef2c47a25b050b3f0bb3c02"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Motorsportschool Zolder",
@@ -11620,16 +11620,16 @@
       "url": "https://www.heppler-racedays.de/products/hockenheimring-gp",
       "id": 550,
       "tage": 2,
-      "preis": 585,
+      "preis": 293,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:38:51+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:38:51+00:00",
-      "content_hash": "ab29bbf533ec60dbd98e8ebc050ff9b62c676c22847991eed83b4bc114952303"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAD action team",
@@ -11821,14 +11821,14 @@
       "url": "https://www.promoracing.it/en/calendar/bike.641/motorcycle-trackday#27",
       "id": 559,
       "tage": 2,
-      "preis": 699,
+      "preis": 350,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:51:34+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -11838,8 +11838,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T17:51:34+00:00",
-      "content_hash": "85cc457ca19318a46a710cc4f581027f2760f73a06cc2735abacea3a7040a73a"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Motoriders",
@@ -11904,17 +11904,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-mugello/451-bikers-days-mugello-27-28-29072026.html",
       "id": 562,
       "tage": 3,
-      "preis": 890,
+      "preis": 297,
       "leistungen": [
         "Strecke",
         "Tuscan Sun"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:39:39+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:39:39+00:00",
-      "content_hash": "e745328c4d2bb49a3a4fd5940f8d949d238df5a1d03b3ad6882e65d01e344803"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "KÜS Motorsport München",
@@ -12049,16 +12049,16 @@
       "url": "https://www.heppler-racedays.de/products/anneau-du-rhin-iii",
       "id": 569,
       "tage": 2,
-      "preis": 215,
+      "preis": 108,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:39:55+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:39:55+00:00",
-      "content_hash": "94c8a5d956075f9cfd4311eb6676b31f631c3ff650a899f0a388ba014ce6b80b"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Black Forest Speed Club",
@@ -12150,10 +12150,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:40:06+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:40:06+00:00",
-      "content_hash": "681ec1ce8cc0ebe60e4ca9a10edec05f196c34a6e8888c3a6200320173a450b3"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Black Forest Speed Club",
@@ -12403,17 +12403,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-spa/447-bikers-days-spa-francorchamps-3107-01082026.html",
       "id": 583,
       "tage": 2,
-      "preis": 695,
+      "preis": 348,
       "leistungen": [
         "Strecke",
         "Ardennes"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:40:53+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:40:53+00:00",
-      "content_hash": "adc84656d46c66466bade6e72df36b830f05686234b60bdd599f68bc63997e76"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "RACECRACKS",
@@ -12506,7 +12506,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://race-and-fun.regiondo.de/pitbike-training-kartbahn-oschersleben",
+      "url": "https://race-and-fun.regiondo.de/",
       "id": 587,
       "tage": 1,
       "preis": 199,
@@ -12515,9 +12515,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:53:02+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:53:02+00:00"
+      "letzte_volle_pruefung": null
     },
     {
       "veranstalter": "Bikers Days",
@@ -12539,10 +12539,10 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:41:38+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:41:38+00:00",
-      "content_hash": "ad351fc4675eea58dd63965040b47a7324bc69410e262c7f03752ad2a821e093"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "ADAC Rennstreckentraining",
@@ -12557,17 +12557,17 @@
       "url": "https://www.doc-scholl.de/events/nordschleife.html",
       "id": 589,
       "tage": 2,
-      "preis": 589,
+      "preis": 295,
       "leistungen": [
         "Strecke",
         "ADAC-Rabatt"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:53:06+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:53:06+00:00",
-      "content_hash": "56c563bb7c07db12297f2c98f3821e7ddcb229285915eace6fc7b013822aba19"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bimota Club Deutschland",
@@ -12784,16 +12784,16 @@
       "url": "https://crmoto.eu/en/",
       "id": 598,
       "tage": 2,
-      "preis": 599,
+      "preis": 300,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:53:38+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:53:38+00:00",
-      "content_hash": "be8a59b47b10ae28b02aa36e63d31ca8b8edba03dd5bc4d7e4a34d6217c918fd"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PS Motorradtraining-Süd",
@@ -13523,7 +13523,7 @@
       "db": "Kein Limit",
       "gruppen": "Kleine Gruppen",
       "level": "Alle",
-      "url": "https://timmot.de/produkt/circuit-de-mirecourt-f-09-10-august-2025/",
+      "url": "https://timmot.de/",
       "id": 630,
       "tage": 2,
       "preis": 198,
@@ -13533,10 +13533,10 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:56:51+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:56:51+00:00",
-      "content_hash": "0b238ad524290a2a6387622bf7ebd5f2e71b678e8851b1b18b18943ec43edc3d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -14062,16 +14062,16 @@
       "url": "https://www.motomonster.de/location/tor-poznan/",
       "id": 656,
       "tage": 3,
-      "preis": 499,
+      "preis": 166,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T17:58:26+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T17:58:26+00:00",
-      "content_hash": "59a86549a84f77e1d5446176ae7b12d3df561e269fd00cdaa5290dd544cb887c"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAD action team",
@@ -14488,10 +14488,10 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:46:46+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:46:46+00:00",
-      "content_hash": "86325ef34ff151f346285a7b44606b305be545cc96bdbc27ccb864b9db1a6f74"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAD action team",
@@ -14720,10 +14720,10 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:47:18+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:47:18+00:00",
-      "content_hash": "4fb0b061ed1e12b0a16ca36315f151aec8f1ea5b8579327f43d9851b0c25a997"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Team Dannhoff",
@@ -14792,10 +14792,10 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:47:24+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:47:24+00:00",
-      "content_hash": "4fb0b061ed1e12b0a16ca36315f151aec8f1ea5b8579327f43d9851b0c25a997"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -14908,16 +14908,16 @@
       "url": "https://www.motomonster.de/location/oschersleben/",
       "id": 690,
       "tage": 2,
-      "preis": 449,
+      "preis": 225,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:00:39+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:00:39+00:00",
-      "content_hash": "fd5b2d704775c707e7dbcc040e5977c93cf7d7527031676f4f4b3d00f3ce440d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "motorspass – motos eventos",
@@ -14956,17 +14956,17 @@
       "url": "https://www.bike-promotion.com/de/events/overview",
       "id": 693,
       "tage": 3,
-      "preis": 419,
+      "preis": 140,
       "leistungen": [
         "Strecke",
         "Catering"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:00:49+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:00:49+00:00",
-      "content_hash": "c598e14c14c5aa00942f5c5256061c287e24797d6ca278b31b86d140ae932c01"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Michael Fiala Motor-Sports",
@@ -15230,16 +15230,16 @@
       "url": "https://www.motomonster.de/location/most/",
       "id": 706,
       "tage": 3,
-      "preis": 549,
+      "preis": 183,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:01:30+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:01:30+00:00",
-      "content_hash": "f63d412da68820ac40f8ad89e1174c54ef9c5872f58aaac0d36e1532270afb32"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -15254,14 +15254,14 @@
       "url": "https://www.promoracing.it/en/calendar/bike.643/motorcycle-trackdays#21",
       "id": 707,
       "tage": 3,
-      "preis": 899,
+      "preis": 300,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:01:34+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -15271,8 +15271,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:01:34+00:00",
-      "content_hash": "a95963ae16e51bb08a5fbc528d8956d9f86be06fd4476c980b5539ad0fb67002"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "fast-travel.ch",
@@ -15977,14 +15977,14 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-misano/443-bikers-days-misano-29-30-31082026.html",
       "id": 741,
       "tage": 3,
-      "preis": 810,
+      "preis": 270,
       "leistungen": [
         "Strecke",
         "VR46"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:50:30+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -15994,8 +15994,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-12T06:50:30+00:00",
-      "content_hash": "bf121a4692fc6b408f121ec6a0ea41e43a2e7c0bc008c6cc6acaa29fdc1d2756"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -16091,17 +16091,17 @@
       "url": "https://www.bike-promotion.com/de/events/overview",
       "id": 745,
       "tage": 1,
-      "preis": 799,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Catering"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:04:49+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:04:49+00:00",
-      "content_hash": "c598e14c14c5aa00942f5c5256061c287e24797d6ca278b31b86d140ae932c01"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "LRC Motorsport",
@@ -16419,7 +16419,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.motorsportschool.be/product/vrij-rijden-open-uitl-zolder-donderdag-11-juni/",
+      "url": "https://www.motorsportschool.be/",
       "id": 759,
       "tage": 1,
       "preis": 210,
@@ -16428,10 +16428,10 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:05:51+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:05:51+00:00",
-      "content_hash": "c15f3b6d8d64a3d6b2c7aaad5ac9dfa82bf365633d22312b919930e077c4b83a"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CRT",
@@ -16621,7 +16621,7 @@
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 767,
       "tage": 2,
-      "preis": 749,
+      "preis": 375,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -16629,10 +16629,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:06:18+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:06:18+00:00",
-      "content_hash": "feaa3bed642fe4a307fdf74430860a3185ad7bfc12bdee5f29ca43333e83bdff"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "STC Spreewaldring Training Center GmbH",
@@ -16795,16 +16795,16 @@
       "url": "https://www.doc-scholl.de/events/bilster-berg.html",
       "id": 774,
       "tage": 2,
-      "preis": 589,
+      "preis": 295,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:07:34+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:07:34+00:00",
-      "content_hash": "11aebaf774df77a9832797c39f8d7ab83cca52367a4616a1a075553cfaeb9d16"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "FLM Race Track Days",
@@ -16974,16 +16974,16 @@
       "url": "https://www.motomonster.de/location/tor-poznan/",
       "id": 785,
       "tage": 3,
-      "preis": 499,
+      "preis": 166,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:07:56+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:07:56+00:00",
-      "content_hash": "59a86549a84f77e1d5446176ae7b12d3df561e269fd00cdaa5290dd544cb887c"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PROMAX Schweiz GMBH",
@@ -17378,17 +17378,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-spa/448-bikers-days-spa-francorchamps-11-12092026.html",
       "id": 802,
       "tage": 2,
-      "preis": 770,
+      "preis": 385,
       "leistungen": [
         "Strecke",
         "Last Spa Day"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:54:23+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:54:23+00:00",
-      "content_hash": "08def96169a17e029bcf20a0735e5b4429700c48d15b52f6eb9bdd4db686cd4d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MotoMonster",
@@ -17482,7 +17482,7 @@
       "url": "https://www.bike-promotion.com/de/events/overview",
       "id": 806,
       "tage": 2,
-      "preis": 579,
+      "preis": 290,
       "leistungen": [
         "Strecke",
         "Catering",
@@ -17490,10 +17490,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:09:11+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:09:11+00:00",
-      "content_hash": "c598e14c14c5aa00942f5c5256061c287e24797d6ca278b31b86d140ae932c01"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -17532,16 +17532,16 @@
       "url": "https://www.heppler-racedays.de/products/spreewaldring-ii",
       "id": 808,
       "tage": 2,
-      "preis": 385,
+      "preis": 193,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:54:40+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:54:40+00:00",
-      "content_hash": "7033a0287e322250debe9ebd97013d14788afe3acac7d7b1374a5f0df6b5a8ba"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "TZ-Motorsport",
@@ -17686,17 +17686,17 @@
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/portimao.aspx",
       "id": 817,
       "tage": 5,
-      "preis": 1099,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:09:32+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:09:32+00:00",
-      "content_hash": "61c8ba94b19e2fe3dd9901969edfafc7b9c47f57df5602ab0991163ca6ca9d93"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "CR Moto",
@@ -17959,7 +17959,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 829,
       "tage": 3,
-      "preis": 790,
+      "preis": 263,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -17968,10 +17968,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:10:25+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:10:25+00:00",
-      "content_hash": "05445e8fc16a84d58f996fb5a3a4b598b0546ce7bd526118a29a4accc3e7196f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Promo Racing",
@@ -17986,14 +17986,14 @@
       "url": "https://www.promoracing.it/en/calendar/bike.647/motorcycle-trackdays#18",
       "id": 831,
       "tage": 3,
-      "preis": 899,
+      "preis": 300,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:10:30+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -18003,8 +18003,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:10:30+00:00",
-      "content_hash": "1c52bad430d5b03facd5930775f335648d7e2bd59f5bcecd3e6f760b02dfdee6"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "fast-travel.ch",
@@ -18147,17 +18147,17 @@
       "url": "https://triple-mmm.de/event/most-v-09-26",
       "id": 839,
       "tage": 2,
-      "preis": 449,
+      "preis": 225,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:10:58+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:10:58+00:00",
-      "content_hash": "31807816c493db13d4b484e6fe8501fe5e8ddd3b8c7c58c6fdd541d88d7ab9fb"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -18416,7 +18416,7 @@
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 851,
       "tage": 2,
-      "preis": 519,
+      "preis": 260,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -18424,10 +18424,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:11:42+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:11:42+00:00",
-      "content_hash": "feaa3bed642fe4a307fdf74430860a3185ad7bfc12bdee5f29ca43333e83bdff"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -18497,16 +18497,16 @@
       "url": "https://www.heppler-racedays.de/products/mettet",
       "id": 854,
       "tage": 2,
-      "preis": 385,
+      "preis": 193,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T06:56:48+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T06:56:48+00:00",
-      "content_hash": "abb992dcd6cbfce35bcaf1b570299af2a0296be2197b08a13ec2abbf68f8f434"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "RACECRACKS",
@@ -18914,15 +18914,15 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 872,
       "tage": 3,
-      "preis": 599,
+      "preis": 200,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:12:42+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:12:42+00:00"
+      "letzte_volle_pruefung": null
     },
     {
       "veranstalter": "CR Moto",
@@ -19540,13 +19540,13 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 901,
       "tage": 3,
-      "preis": 979,
+      "preis": 326,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:15:25+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -19556,7 +19556,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:15:25+00:00"
+      "letzte_volle_pruefung": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -19595,14 +19595,14 @@
       "url": "https://www.promoracing.it/en/calendar/bike.649/motorcycle-trackdays#09",
       "id": 903,
       "tage": 3,
-      "preis": 899,
+      "preis": 300,
       "leistungen": [
         "Strecke",
         "Transponder"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:15:39+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -19612,8 +19612,8 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:15:39+00:00",
-      "content_hash": "f794d186ba57d4c95f4aeb1bc4cf4ac75e77ac404217e47b5eeb2ddc264f9642"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "fast-travel.ch",
@@ -19652,17 +19652,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-days-valencia/439-bikers-days-valencia-10-11-12102026.html",
       "id": 906,
       "tage": 3,
-      "preis": 730,
+      "preis": 243,
       "leistungen": [
         "Strecke",
         "Valencia"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:00:15+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:00:15+00:00",
-      "content_hash": "fe295dea9c4d342cb2b2875bd1450297dc1cb2504abb67ae92f1f67033b9b88b"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "EYBIS",
@@ -19677,13 +19677,13 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 907,
       "tage": 3,
-      "preis": 649,
+      "preis": 216,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:15:55+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -19693,7 +19693,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:15:55+00:00"
+      "letzte_volle_pruefung": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -20363,13 +20363,13 @@
       "url": "https://moto-racingschool.com/produkt/cartagena-schnuppertraining-29-30-oktober-2026/",
       "id": 935,
       "tage": 2,
-      "preis": 499,
+      "preis": 250,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:17:34+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
       "url_history": [
         {
@@ -20379,7 +20379,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-07-19T18:17:34+00:00",
+      "letzte_volle_pruefung": null,
       "content_hash": null
     },
     {
@@ -20447,7 +20447,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 938,
       "tage": 3,
-      "preis": 749,
+      "preis": 250,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -20456,10 +20456,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:17:57+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:17:57+00:00",
-      "content_hash": "05445e8fc16a84d58f996fb5a3a4b598b0546ce7bd526118a29a4accc3e7196f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -20557,7 +20557,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 942,
       "tage": 3,
-      "preis": 749,
+      "preis": 250,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20565,10 +20565,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:18:14+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:18:14+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -20615,17 +20615,17 @@
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/jerez.aspx",
       "id": 944,
       "tage": 5,
-      "preis": 999,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:18:27+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:18:27+00:00",
-      "content_hash": "b5a8c0ae229a9a33585fc678a55a895230be042e8b0afd890b82b8187e1e3d24"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Gully Racing",
@@ -20740,7 +20740,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 949,
       "tage": 3,
-      "preis": 729,
+      "preis": 243,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20748,10 +20748,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:18:59+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:18:59+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -20818,16 +20818,16 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 952,
       "tage": 3,
-      "preis": 200,
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:03:19+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:57:00+00:00",
-      "content_hash": "05445e8fc16a84d58f996fb5a3a4b598b0546ce7bd526118a29a4accc3e7196f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -20842,7 +20842,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 953,
       "tage": 3,
-      "preis": 749,
+      "preis": 250,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20850,10 +20850,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:19:27+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:19:27+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Speer Racing",
@@ -20920,7 +20920,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 956,
       "tage": 3,
-      "preis": 729,
+      "preis": 243,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20928,10 +20928,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:19:44+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:19:44+00:00",
-      "content_hash": "9578be67332ee831889ecadb36bdd1936bdc2aba2d729d5fa6a938d67922a30d"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bikers Days",
@@ -20946,17 +20946,17 @@
       "url": "https://booking.dgsport.eu/fr/bikers-s-days-jerez/453-bikers-days-jerez-9-10-11122026.html",
       "id": 957,
       "tage": 3,
-      "preis": 700,
+      "preis": 233,
       "leistungen": [
         "Strecke",
         "Jerez Finale"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:03:45+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-12T07:03:45+00:00",
-      "content_hash": "28aa8da134eb4c5b4153db85148e05102c7e739a4a2020e06f0a22e5335b7dea"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Hafeneger Renntrainings",
@@ -20971,7 +20971,7 @@
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 958,
       "tage": 3,
-      "preis": 599,
+      "preis": 200,
       "leistungen": [
         "Strecke",
         "Transponder",
@@ -20979,10 +20979,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:19:51+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:19:51+00:00",
-      "content_hash": "feaa3bed642fe4a307fdf74430860a3185ad7bfc12bdee5f29ca43333e83bdff"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -20997,16 +20997,16 @@
       "url": "https://mrr.bike/trip/jerez-202612",
       "id": 959,
       "tage": 3,
-      "preis": 569,
+      "preis": 190,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:20:00+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:20:00+00:00",
-      "content_hash": "4bf680542d8d1f099a5e875c1d4ccaeeaca4d634976843e18678cf2af07a7120"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -21021,16 +21021,16 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 960,
       "tage": 4,
-      "preis": 649,
+      "preis": 162,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-12T07:04:08+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-09T18:57:46+00:00",
-      "content_hash": "05445e8fc16a84d58f996fb5a3a4b598b0546ce7bd526118a29a4accc3e7196f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Rehm race days",
@@ -21125,7 +21125,7 @@
       "url": "https://www.doc-scholl.de/events/calafat.html",
       "id": 964,
       "tage": 5,
-      "preis": 1499,
+      "preis": 300,
       "leistungen": [
         "Strecke",
         "Nordschleife",
@@ -21133,10 +21133,10 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:20:41+00:00",
-      "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:20:41+00:00",
-      "content_hash": "76f6020ad63c0d20843d9bac053ee188f64dcfaae39cff12aff0b42f13f498ec"
+      "letzte_pruefung": null,
+      "archiviert": true,
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "HPS- Racing",
@@ -21320,7 +21320,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/aragon.aspx",
       "tage": 3,
-      "preis": 799,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig",
@@ -21330,10 +21330,10 @@
       "id": 971,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:11+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:11+00:00",
-      "content_hash": "d5422f459abd0c2118763f1c0cba3f7086b94f393a5ccb66828fea259af23eb1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21371,7 +21371,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/catalunya.aspx",
       "tage": 3,
-      "preis": 949,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21379,10 +21379,10 @@
       "id": 973,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:15+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:15+00:00",
-      "content_hash": "a33c4bea5dcd8d1280c8bc02810db92900e5fd8301578112e317ec3505714923"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21422,7 +21422,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/jerez.aspx",
       "tage": 3,
-      "preis": 899,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21430,10 +21430,10 @@
       "id": 975,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:25+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:25+00:00",
-      "content_hash": "b5a8c0ae229a9a33585fc678a55a895230be042e8b0afd890b82b8187e1e3d24"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21447,7 +21447,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/le-mans.aspx",
       "tage": 2,
-      "preis": 449,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig",
@@ -21456,10 +21456,10 @@
       "id": 976,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:29+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:29+00:00",
-      "content_hash": "d5422f459abd0c2118763f1c0cba3f7086b94f393a5ccb66828fea259af23eb1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21568,7 +21568,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/portimao.aspx",
       "tage": 3,
-      "preis": 729,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig",
@@ -21577,10 +21577,10 @@
       "id": 981,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:35+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:35+00:00",
-      "content_hash": "61c8ba94b19e2fe3dd9901969edfafc7b9c47f57df5602ab0991163ca6ca9d93"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21594,7 +21594,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/portimao.aspx",
       "tage": 3,
-      "preis": 709,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21602,10 +21602,10 @@
       "id": 982,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:38+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:38+00:00",
-      "content_hash": "61c8ba94b19e2fe3dd9901969edfafc7b9c47f57df5602ab0991163ca6ca9d93"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21642,7 +21642,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/spa.aspx",
       "tage": 2,
-      "preis": 609,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21650,10 +21650,10 @@
       "id": 984,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:41+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:41+00:00",
-      "content_hash": "393ce4cfe98667df25d6bf39c227ccf8d5f0d48b3c9c726f153e7d0c0e2503ac"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21667,7 +21667,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/andalucia.aspx",
       "tage": 3,
-      "preis": 599,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21675,10 +21675,10 @@
       "id": 985,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:44+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:44+00:00",
-      "content_hash": "2911c1b7686b7d24f954ff9b4d4dd3c5278728a3efcaaba83566be95664820b6"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21692,7 +21692,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/andalucia.aspx",
       "tage": 4,
-      "preis": 699,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21700,10 +21700,10 @@
       "id": 986,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:47+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:47+00:00",
-      "content_hash": "2911c1b7686b7d24f954ff9b4d4dd3c5278728a3efcaaba83566be95664820b6"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21717,7 +21717,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/andalucia.aspx",
       "tage": 3,
-      "preis": 599,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21725,10 +21725,10 @@
       "id": 987,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:50+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:50+00:00",
-      "content_hash": "2911c1b7686b7d24f954ff9b4d4dd3c5278728a3efcaaba83566be95664820b6"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21742,7 +21742,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/andalucia.aspx",
       "tage": 3,
-      "preis": 599,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21750,10 +21750,10 @@
       "id": 988,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:53+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:53+00:00",
-      "content_hash": "2911c1b7686b7d24f954ff9b4d4dd3c5278728a3efcaaba83566be95664820b6"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21767,7 +21767,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/misano.aspx",
       "tage": 3,
-      "preis": 1049,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21775,10 +21775,10 @@
       "id": 989,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:56+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:56+00:00",
-      "content_hash": "d5422f459abd0c2118763f1c0cba3f7086b94f393a5ccb66828fea259af23eb1"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -21792,7 +21792,7 @@
       "level": "Alle",
       "url": "https://eurotracks.nolimitstrackdays.com/euro-tracks/dijon-prenois.aspx",
       "tage": 2,
-      "preis": 349,
+      "preis": null,
       "leistungen": [
         "Strecke",
         "Mehrtagig"
@@ -21800,10 +21800,10 @@
       "id": 990,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:21:59+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:21:59+00:00",
-      "content_hash": "6b0d3ddc2f0c9c32eee8066ab9b9fe5f64fa55331d54fe71b7a5c9e795944b86"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "ART MOTOR",
@@ -22520,17 +22520,17 @@
       "level": "Alle",
       "url": "https://mrr.bike/trip/jerez-202609",
       "tage": 3,
-      "preis": 599,
+      "preis": 200,
       "leistungen": [
         "Strecke"
       ],
       "id": 1028,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:22:44+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:22:44+00:00",
-      "content_hash": "a3d4c47084441111b0c58755b15beff6f21295cb09395e6214c1c584228c661f"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "MOTORRAID",
@@ -23350,17 +23350,17 @@
       "level": "Alle",
       "url": "https://www.bike-promotion.com/de/events/overview",
       "tage": 2,
-      "preis": 529,
+      "preis": 265,
       "leistungen": [
         "Strecke"
       ],
       "id": 1064,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-07-19T18:23:35+00:00",
+      "letzte_pruefung": null,
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-07-19T18:23:35+00:00",
-      "content_hash": "c598e14c14c5aa00942f5c5256061c287e24797d6ca278b31b86d140ae932c01"
+      "letzte_volle_pruefung": null,
+      "content_hash": null
     },
     {
       "veranstalter": "Bike Promotion",
@@ -23730,7 +23730,7 @@
       "level": "Alle",
       "url": "https://www.1000ps-trackdays.at/Tickets/Termin",
       "tage": 2,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23752,7 +23752,7 @@
       "level": "Alle",
       "url": "https://www.1000ps-trackdays.at/Tickets/Termin",
       "tage": 2,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23774,7 +23774,7 @@
       "level": "Alle",
       "url": "https://www.1000ps-trackdays.at/Tickets/Termin",
       "tage": 2,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23798,7 +23798,7 @@
       "level": "Alle",
       "url": "https://www.1000ps-trackdays.at/Tickets/Termin",
       "tage": 2,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23822,7 +23822,7 @@
       "level": "Alle",
       "url": "https://www.1000ps-trackdays.at/Tickets/Termin",
       "tage": 2,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23846,7 +23846,7 @@
       "level": "Alle",
       "url": "https://power2slide.de/termine/",
       "tage": 4,
-      "preis": "k.A.",
+      "preis": null,
       "leistungen": [
         "Strecke"
       ],
@@ -23969,7 +23969,7 @@
       "ende": "2026-07-05",
       "typ": "Rennstreckentraining",
       "tage": 3,
-      "preis": "",
+      "preis": null,
       "url": "https://www.gasss.eu/event/pannonia-ring-03-07-05-07-2026/",
       "source": "manual_excel_2026-04-21",
       "verfuegbarkeit": "unbekannt",
@@ -24127,7 +24127,7 @@
       "ende": "2026-06-21",
       "typ": "Rennstreckentraining",
       "tage": 3,
-      "preis": "",
+      "preis": null,
       "url": "https://timmot.de/event/pannonia-ring-h-19-21-juni-2026/",
       "source": "url_slug_extraction_2026-04-21",
       "verfuegbarkeit": "unbekannt",
@@ -24147,7 +24147,7 @@
       "ende": "2026-07-05",
       "typ": "Rennstreckentraining",
       "tage": 3,
-      "preis": "",
+      "preis": null,
       "url": "https://timmot.de/event/bruenn-cz-03-05-juli-2026/",
       "source": "url_slug_extraction_2026-04-21",
       "verfuegbarkeit": "unbekannt",
