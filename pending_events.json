@@ -1,6 +1,6 @@
 {
-  "discovered_at": "2026-07-19T18:40:32+00:00",
-  "count": 735,
+  "discovered_at": "2026-07-26T07:44:17+00:00",
+  "count": 657,
   "events": [
     {
       "veranstalter": "CR Moto",
@@ -14,7 +14,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/brno-circuit",
-      "vorschlag_strecke": "Brno",
+      "vorschlag_strecke": "Brno Circuit",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -149,7 +149,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/grobnik-circuit",
-      "vorschlag_strecke": "Grobnik",
+      "vorschlag_strecke": "Grobnik Circuit",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -302,524 +302,20 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en",
+      "vorschlag_strecke": "Nemun Ring",
+      "vorschlag_anfang": "2026-06-21",
+      "vorschlag_ende": "2026-06-21",
+      "vorschlag_preis": 120,
+      "quelle_uebersicht": "https://crmoto.eu/en"
+    },
+    {
+      "veranstalter": "CR Moto",
+      "url": "https://crmoto.eu/en",
       "vorschlag_strecke": "Slovakia Ring",
       "vorschlag_anfang": "2026-07-11",
       "vorschlag_ende": "2026-07-12",
       "vorschlag_preis": 305,
       "quelle_uebersicht": "https://crmoto.eu/en"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/en/all-events/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/alle-termine/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/686/step/1?cHash=e182e22342c8215cefa594cc7b096004",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/685/step/1?cHash=708b1303b808fa23830603a4bf4741a1",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/684/step/1?cHash=b5cf1f3de3195f2a89f74f79e754e107",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/690/step/1?cHash=51f2f0688f0d60cfe107f74c4bfb5d6a",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/689/step/1?cHash=c0709b0dc4d1b4a5616b9eb34a0d89c6",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/687/step/1?cHash=03be31e36e568c7b046c47ab6a3afc97",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/688/step/1?cHash=9277086db81272d3eba5efd39f69a852",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/714/step/1?cHash=0d0dd74f7ba849802a201db41d6ec5c5",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/660/step/1?cHash=e458ec209920501c658198ef4c904feb",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/715/step/1?cHash=d128cbb5fed79cd14c0f78095f27b08d",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/659/step/1?cHash=3491ae10e0c144073932c879ad4dc9e0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/732/step/1?cHash=9a3df2b0373072e1de6fad029917ca57",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/710/step/1?cHash=44d5cb0fff9565187c196af143e0689f",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/709/step/1?cHash=dc37d94e9166880ff28c0c0dfa0ca81f",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/711/step/1?cHash=a3a4ebd2169dafeb1276b84fd4528ea3",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/743/step/1?cHash=8869f0152cce2b3d436da5b89ff52242",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/742/step/1?cHash=49db8a6052d4e362b7879eb3acadaae3",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/733/step/1?cHash=96cae97000eaeacf861b4e94be63d292",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/744/step/1?cHash=7cfbeeb207a1b31f6b8302a9ded4864b",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/734/step/1?cHash=f28b518a3a5e35aed669f43513323ddb",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/745/step/1?cHash=685d6b7ae033e5dc2c9db9ff820b113c",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/712/step/1?cHash=8c1e35686e8bbb2c100bfedac7f55a1b",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/713/step/1?cHash=76ba184bcc03c36572cb77bcd0597401",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/761/step/1?cHash=42696d38cd4ba855e8a78c7dec0c9028",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/720/step/1?cHash=b5b7a076647ea8f7a784d38ca5f1d233",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/678/step/1?cHash=c02d263edf7fba05429df60bea5be4a8",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/677/step/1?cHash=21bb4f24c71d23c2a1dc216a6fba1498",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/676/step/1?cHash=b85de2e2c3c89d00be01ac958886242e",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/767/step/1?cHash=98d9b56815a4f949938c78033f037b61",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/679/step/1?cHash=2b972aec84849c97f62bb7bccc1aba9d",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/769/step/1?cHash=ac7476ffbffa11916d3cbdc52b4986d7",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/768/step/1?cHash=68500a13f0d83834f7fed9da8e6251ac",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/773/step/1?cHash=2be492f095473846af9ce3b648c700ba",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/749/step/1?cHash=cff1add3dbbb9d9a08d2178a6668960f",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/727/step/1?cHash=1ef93873df3634f65fdfdbeb224bf7eb",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/728/step/1?cHash=5175cfbdc2b8410bc53a46f8f9ff0490",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/683/step/1?cHash=56a7a19d75b486193c555d7cecf97a48",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/680/step/1?cHash=9168feb5d119a95b247ecb971871cfaf",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/681/step/1?cHash=211a9a5e3b672ad87af333069af59547",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/682/step/1?cHash=1a569cb4cf3e3f150fed71b8eb83efd7",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/662/step/1?cHash=76fddeed7a24a7ed8b0234738d2440a0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/770/step/1?cHash=aaa2837ae8d5f3b8649573b0bf5b4c1d",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/663/step/1?cHash=ae0bc1626b1b25d0b170a894b85d5093",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/735/step/1?cHash=474366b22d7839c19859add1b8077a4d",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/702/step/1?cHash=27241c57132ecadd1d680e5566440b4a",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/703/step/1?cHash=7e6afca70af91f687db16783f502fcbe",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/783/step/1?cHash=67c1373045739d0b69f1c40c438e134e",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/781/step/1?cHash=1c93c665b54591def9122c5730766bd0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/782/step/1?cHash=12ef27b64c51659b1d86f8e46929e3e9",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/777/step/1?cHash=561296a445422ff139bedebe0a6101d9",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/778/step/1?cHash=37de15302d485da1464e221969345628",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/775/step/1?cHash=c6e80f659de24f04d5478f91eff9bbce",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/774/step/1?cHash=03b374212485a4b1fd8ac70fc449bc8d",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/776/step/1?cHash=00b6df1d40ba4a7b9c20465bbd7e87b5",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/779/step/1?cHash=ed5f2db6566b07769e2071bba770b23e",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
     },
     {
       "veranstalter": "Promo Racing",
@@ -854,15 +350,6 @@
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.promoracing.it/en/calendar/bike"
-    },
-    {
-      "veranstalter": "Promo Racing",
-      "url": "https://www.promoracing.it/en/calendar/bike.640/motorcycle-trackdays",
-      "vorschlag_strecke": "Mugello Circuit",
-      "vorschlag_anfang": "2024-07-17",
-      "vorschlag_ende": "2024-07-17",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.promoracing.it/en/calendar/bike"
     },
@@ -1084,25 +571,7 @@
     },
     {
       "veranstalter": "Bike Promotion",
-      "url": "https://www.bike-promotion.com/en/events/overview/index/date/11/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
-    },
-    {
-      "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/75/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
-    },
-    {
-      "veranstalter": "Bike Promotion",
-      "url": "https://www.bike-promotion.com/en/events/overview/index/date/13/0/0/0",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1156,25 +625,7 @@
     },
     {
       "veranstalter": "Bike Promotion",
-      "url": "https://www.bike-promotion.com/en/events/overview/index/date/25/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
-    },
-    {
-      "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/27/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
-    },
-    {
-      "veranstalter": "Bike Promotion",
-      "url": "https://www.bike-promotion.com/en/events/overview/index/date/76/0/0/0",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1201,15 +652,6 @@
     },
     {
       "veranstalter": "Bike Promotion",
-      "url": "https://www.bike-promotion.com/en/events/overview/index/date/34/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
-    },
-    {
-      "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/37/0/0/0",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -1220,8 +662,8 @@
     {
       "veranstalter": "Hafeneger Renntrainings",
       "url": "https://hafeneger-renntrainings.de/spanien-events-2026/",
-      "vorschlag_strecke": "Cartagena / Almeria",
-      "vorschlag_anfang": null,
+      "vorschlag_strecke": "Almeria, Cartagena",
+      "vorschlag_anfang": "2026-01-01",
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
@@ -1238,10 +680,55 @@
     {
       "veranstalter": "Hafeneger Renntrainings",
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2027-03-08",
-      "vorschlag_ende": "2027-03-10",
-      "vorschlag_preis": 649,
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-07-24",
+      "vorschlag_ende": "2026-07-26",
+      "vorschlag_preis": 749,
+      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-07-24",
+      "vorschlag_ende": "2026-07-25",
+      "vorschlag_preis": 549,
+      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-07-25",
+      "vorschlag_ende": "2026-07-26",
+      "vorschlag_preis": 549,
+      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-09-04",
+      "vorschlag_ende": "2026-09-06",
+      "vorschlag_preis": 749,
+      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-09-04",
+      "vorschlag_ende": "2026-09-05",
+      "vorschlag_preis": 549,
+      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
+    },
+    {
+      "veranstalter": "Hafeneger Renntrainings",
+      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "vorschlag_strecke": "Brünn",
+      "vorschlag_anfang": "2026-09-05",
+      "vorschlag_ende": "2026-09-06",
+      "vorschlag_preis": 549,
       "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
     },
     {
@@ -1252,114 +739,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.motomonster.de"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/dijon-prenois/",
-      "vorschlag_strecke": "Dijon-Prenois",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/le-mans/",
-      "vorschlag_strecke": "Le Mans",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/mugello-2025/",
-      "vorschlag_strecke": "Mugello",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-31-07-01-08-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-07-31",
-      "vorschlag_ende": "2026-08-01",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-02-08-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-08-02",
-      "vorschlag_ende": "2026-08-02",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-14-08-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-08-14",
-      "vorschlag_ende": "2026-08-14",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-15-08-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-08-15",
-      "vorschlag_ende": "2026-08-15",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-16-08-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-08-16",
-      "vorschlag_ende": "2026-08-16",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/misano/",
-      "vorschlag_strecke": "Misano",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/spa-11-12-09-2026/",
-      "vorschlag_strecke": "Spa",
-      "vorschlag_anfang": "2026-09-11",
-      "vorschlag_ende": "2026-09-12",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/valencia-2/",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
-    },
-    {
-      "veranstalter": "Bikers Days",
-      "url": "https://bikersdays.com/en/events/jerez/",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://bikersdays.com/en/calendrier/"
     },
     {
       "veranstalter": "Rehm race days",
@@ -1543,7 +922,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/02/76_Mugello_II_WAIVER_DE_EN_IT_MINORS.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/76_Mugello_II_WAIVER_DE_EN_IT_MINORS.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1552,16 +931,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/02/76_Timetable_Mugello_31.07.-02.08.2026.pdf",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/78_Misano_MEDICAL_CERTIFICATE.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/76_Timetable_Mugello_31.07.-02.08.2026.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1579,7 +949,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/03/79_MedicalCertificate__EN_DE_IT_.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/78_Misano_MEDICAL_CERTIFICATE.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1588,7 +958,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/03/79_Timetable_Misano_08.-10.08.2026.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/78_WAIVER_Misano.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1597,7 +967,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/05/80_MedicalCertificate__EN_DE_IT_.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/79_Timetable_Misano_08.-10.08.2026.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1606,7 +976,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/05/80_Timetable_Misano_YOUNGSTERS_11.-13.08.2026.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/79_MedicalCertificate__EN_DE_IT_.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1615,7 +985,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/03/81_MedicalCertificate__EN_DE_IT_.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/79_WAIVER_Misano.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1624,7 +994,7 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/03/81_Timetable_Misano_14.-16.08.2026.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/80_Timetable_Misano_11.-13.08.2026.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1633,7 +1003,52 @@
     },
     {
       "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/06/83_Timetable_RedBull_21.-23.08.2026.pdf",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/80_WAIVER_Misano.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/80_MedicalCertificate__EN_DE_IT_.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/81_Timetable_Misano_14.-16.08.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/81_WAIVER_Misano.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/81_MedicalCertificate__EN_DE_IT_.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/83_Timetable_RedBull_21.-23.08.2026_5G.pdf",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -1777,6 +1192,15 @@
     },
     {
       "veranstalter": "CRT",
+      "url": "https://crtholland.nl/de/events/212/timetable",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
+    },
+    {
+      "veranstalter": "CRT",
       "url": "https://crtholland.nl/de/events/212/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -1796,6 +1220,24 @@
     {
       "veranstalter": "CRT",
       "url": "https://crtholland.nl/de/events/242/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
+    },
+    {
+      "veranstalter": "CRT",
+      "url": "https://crtholland.nl/de/events/243/timetable",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
+    },
+    {
+      "veranstalter": "CRT",
+      "url": "https://crtholland.nl/de/events/243/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2154,6 +1596,15 @@
       "quelle_uebersicht": "https://www.rossocorsaonline.com/prove?lang=en"
     },
     {
+      "veranstalter": "Rosso Corsa",
+      "url": "https://www.rossocorsaonline.com/prove?lang=en",
+      "vorschlag_strecke": "Buoni Regalo",
+      "vorschlag_anfang": "2026-12-03",
+      "vorschlag_ende": "2026-12-31",
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rossocorsaonline.com/prove?lang=en"
+    },
+    {
       "veranstalter": "Black Forest Speed Club",
       "url": "https://black-forest-speed-club.de/hp2020/motorrad-trainings/",
       "vorschlag_strecke": null,
@@ -2228,7 +1679,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/circuito-de-cartagena/",
-      "vorschlag_strecke": "Circuito de Cartagena",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2237,7 +1688,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/hockenheimring/",
-      "vorschlag_strecke": "Hockenheimring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2246,7 +1697,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/lausitzring/",
-      "vorschlag_strecke": "Lausitzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2255,7 +1706,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/autodrom-most/",
-      "vorschlag_strecke": "Autodrom Most",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2264,7 +1715,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/motorsportarena-oschersleben/",
-      "vorschlag_strecke": "Motorsportarena Oschersleben",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2273,7 +1724,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/red-bull-ring/",
-      "vorschlag_strecke": "Red Bull Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2282,7 +1733,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/rijeka/",
-      "vorschlag_strecke": "Rijeka",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2291,7 +1742,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/sachsenring/",
-      "vorschlag_strecke": "Sachsenring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2300,7 +1751,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/spreewaldring/",
-      "vorschlag_strecke": "Spreewaldring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2552,7 +2003,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/bruenn-brno/",
-      "vorschlag_strecke": "Brünn",
+      "vorschlag_strecke": "Brünn (Brno)",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2723,7 +2174,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/bruenn-brno/",
-      "vorschlag_strecke": "Brünn",
+      "vorschlag_strecke": "Brünn (Brno)",
       "vorschlag_anfang": "2026-08-14",
       "vorschlag_ende": "2026-08-16",
       "vorschlag_preis": null,
@@ -3100,17 +2551,8 @@
     },
     {
       "veranstalter": "MAXX ADRENALIN",
-      "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/13/0/0/0",
-      "vorschlag_strecke": "Hockenheim GP-Kurs",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/73/0/0/0",
-      "vorschlag_strecke": "Le Mans Bugatti Circuit",
+      "vorschlag_strecke": "Le Mans",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3145,28 +2587,10 @@
     },
     {
       "veranstalter": "MAXX ADRENALIN",
-      "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/76/0/0/0",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "MAXX ADRENALIN",
-      "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/34/0/0/0",
-      "vorschlag_strecke": "Schleiz",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/102/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3174,8 +2598,8 @@
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/103/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3183,8 +2607,8 @@
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/85/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3192,8 +2616,8 @@
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/101/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3210,8 +2634,8 @@
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/75/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3228,8 +2652,8 @@
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/0/104/0/0",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-01-01",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
     },
@@ -3268,42 +2692,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://booking.maxx-adrenalin.de/events/overview"
-    },
-    {
-      "veranstalter": "Team Dannhoff",
-      "url": "https://www.team-dannhoff.com/rennstrecke-tt-circuit-assen/",
-      "vorschlag_strecke": "TT Circuit Assen",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.team-dannhoff.com/buchung/"
-    },
-    {
-      "veranstalter": "Team Dannhoff",
-      "url": "https://www.team-dannhoff.com/rennstrecke-dijon-prenois/",
-      "vorschlag_strecke": "Dijon-Prenois",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.team-dannhoff.com/buchung/"
-    },
-    {
-      "veranstalter": "Team Dannhoff",
-      "url": "https://www.team-dannhoff.com/wp-content/uploads/2023/12/Buchungstext-english_2023-12.pdf",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.team-dannhoff.com/buchung/"
-    },
-    {
-      "veranstalter": "Team Dannhoff",
-      "url": "https://www.team-dannhoff.com/wp-content/uploads/2026/06/Zeitplan-Dijon-2026_FreerideTraining-Team-Dannhoff.pdf",
-      "vorschlag_strecke": "Dijon",
-      "vorschlag_anfang": "2026-08-01",
-      "vorschlag_ende": "2026-08-31",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.team-dannhoff.com/buchung/"
     },
     {
       "veranstalter": "FLM Race Track Days",
@@ -3633,8 +3021,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/zuend-in-den-mai/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
+      "vorschlag_anfang": "2024-05-01",
+      "vorschlag_ende": "2024-05-31",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -3651,8 +3039,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/sommerfestival/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
+      "vorschlag_anfang": "2024-06-01",
+      "vorschlag_ende": "2024-08-31",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -3661,7 +3049,7 @@
       "url": "https://artmotor.de/events/biketoberfest/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": "2024-10-01",
-      "vorschlag_ende": null,
+      "vorschlag_ende": "2024-10-31",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -3910,15 +3298,6 @@
     },
     {
       "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
-      "url": "https://www.gasss.eu/en/event/brno-17-07-19-07-2026/",
-      "vorschlag_strecke": "Brno",
-      "vorschlag_anfang": "2026-07-17",
-      "vorschlag_ende": "2026-07-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.gasss.eu/en/events/"
-    },
-    {
-      "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
       "url": "https://www.gasss.eu/en/event/rijeka-24-07-26-07-2026/",
       "vorschlag_strecke": "Rijeka",
       "vorschlag_anfang": "2026-07-24",
@@ -4062,6 +3441,15 @@
       "quelle_uebersicht": "https://timmot.de/rennstrecken-termine/"
     },
     {
+      "veranstalter": "TIMMOT",
+      "url": "https://timmot.de/produkt/circuit-de-mirecourt-f-09-10-august-2025/",
+      "vorschlag_strecke": "Circuit de Mirecourt",
+      "vorschlag_anfang": "2026-08-08",
+      "vorschlag_ende": "2026-08-09",
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://timmot.de/rennstrecken-termine/"
+    },
+    {
       "veranstalter": "BTR-Eder Racing",
       "url": "https://www.btr-eder-racing.eu/event/summer-special/",
       "vorschlag_strecke": null,
@@ -4123,51 +3511,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/rennstrecken/termin",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/rennstrecken/termin/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/product/fr5-slovakiaring-31-07-02-08-fr-so",
-      "vorschlag_strecke": "Slovakiaring",
-      "vorschlag_anfang": "2024-07-31",
-      "vorschlag_ende": "2024-08-02",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/product/fr6-pannoniaring-28-30-08-fr-so",
-      "vorschlag_strecke": "Pannoniaring",
-      "vorschlag_anfang": "2024-08-28",
-      "vorschlag_ende": "2024-08-30",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/product/fr7-pannoniaring-18-20-09-fr-so",
-      "vorschlag_strecke": "Pannoniaring",
-      "vorschlag_anfang": "2024-09-18",
-      "vorschlag_ende": "2024-09-20",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
     },
     {
       "veranstalter": "Mike Wohner Rennsport",
@@ -4413,15 +3756,6 @@
       "quelle_uebersicht": "http://www.hardtwaldracing.de"
     },
     {
-      "veranstalter": "Hardtwald Racing Connection",
-      "url": "https://hardtwaldracing.de/event/motorcycle-driving-akademie/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.hardtwaldracing.de"
-    },
-    {
       "veranstalter": "Motoriders",
       "url": "https://motoriders.cz/minule-terminy",
       "vorschlag_strecke": null,
@@ -4450,7 +3784,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/190-55zr17-d212-f-gppro-ms1-soft",
+      "url": "https://www.paddys-races-days.ch/product-page/120-70-r17-kr106",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4459,7 +3793,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/120-70-r17-kr106",
+      "url": "https://www.paddys-races-days.ch/product-page/190-55zr17-d212-f-gppro-ms1-soft",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4477,7 +3811,16 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/suomy-visier-s1-xr",
+      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-back-6",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/suomy-track-1-pecco-winter-test",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4487,6 +3830,33 @@
     {
       "veranstalter": "Paddys-Races-Days",
       "url": "https://www.paddys-races-days.ch/product-page/gimoto-gp6-racing-handschuhe",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/suomy-pinlock-sr-gp",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/suomy-visier-s1-xr",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/pz-racing-start-basic",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4513,7 +3883,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-back-6",
+      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-front-1",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4522,7 +3892,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/pz-racing-start-basic",
+      "url": "https://www.paddys-races-days.ch/product-page/acerbis-palm-protector",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4531,43 +3901,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/suomy-track-1-pecco-winter-test",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/bridgestone-battlax-back-1",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/suomy-track-1-bastianini",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/pinlock-gehörschutz-1-paar",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/200-60r17-d213-f-gppro",
+      "url": "https://www.paddys-races-days.ch/product-page/sidi-stiefel-vertigo-2-schwarz",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4990,7 +4324,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=940b76e4c7",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=8e7da17058",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5008,7 +4342,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=940b76e4c7",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=8e7da17058",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5026,7 +4360,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=940b76e4c7",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=8e7da17058",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5044,7 +4378,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=940b76e4c7",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=8e7da17058",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5062,7 +4396,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=940b76e4c7",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=8e7da17058",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5080,8 +4414,8 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-bispingen/",
-      "vorschlag_strecke": "Karthalle Bispingen",
+      "url": "https://www.race-and-fun.com/produkt/pitbike-training-hildesheim-outdoor/",
+      "vorschlag_strecke": "Hildesheim",
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -5089,25 +4423,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/schraeglagen-training-maedels-unter-sich/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
-    },
-    {
-      "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/schraeglagen-training-perfektion/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
-    },
-    {
-      "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/radwippe-staedystand-fixed-10-19/",
+      "url": "https://www.race-and-fun.com/produkt/wheelie-training-perfektion-2-0-ktm-smc-r-690/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5125,7 +4441,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/helite-turtle-airbagweste-neongelb/",
+      "url": "https://www.race-and-fun.com/produkt/schraeglagen-training-intensiv/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5134,7 +4450,52 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/ueberzug-fuer-helite-trigger/",
+      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-bispingen/",
+      "vorschlag_strecke": "Bispingen",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/racefloor-normalxl/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/motorradstaender-radwippe-steadystand/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/verfuehrerschein/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/helite-co2-kapseln/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/racefloor-heavy/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5207,24 +4568,6 @@
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/produkt/gutschein/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://racetrck.de/events/"
-    },
-    {
-      "veranstalter": "Racetrck",
-      "url": "https://racetrck.de/events/schraeglagentraining-520-961-117-137-733-293-565-2-3-2-2-2-2-5/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://racetrck.de/events/"
-    },
-    {
-      "veranstalter": "Racetrck",
-      "url": "https://racetrck.de/events/schraeglagentraining-520-961-117-137-733-293-565-2-3-2-3-7/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -5467,19 +4810,10 @@
     },
     {
       "veranstalter": "RSG SH e.V.",
-      "url": "https://www.rsg.sh/Dokumente/RSG-TrackDay-Kurzausschreibung-260711.pdf",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-07-11",
-      "vorschlag_ende": "2026-07-11",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rsg.sh/TrackDays"
-    },
-    {
-      "veranstalter": "RSG SH e.V.",
       "url": "https://www.rsg.sh/Dokumente/RSG-TrackDay-Kurzausschreibung-260815.pdf",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2026-08-15",
-      "vorschlag_ende": "2026-08-15",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rsg.sh/TrackDays"
     },
@@ -5500,42 +4834,6 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.classic-endurance.de/termine/"
-    },
-    {
-      "veranstalter": "Syburger Trackdays",
-      "url": "https://www.tourenfahrer.de/motorradnews/events-szene",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.tourenfahrer.de/trackdays"
-    },
-    {
-      "veranstalter": "Syburger Trackdays",
-      "url": "https://www.tourenfahrer.de/motorradnews/events-szene/jobs",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.tourenfahrer.de/trackdays"
-    },
-    {
-      "veranstalter": "Syburger Trackdays",
-      "url": "https://www.tourenfahrer.de/motorradnews/events-szene/kennerspiel",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.tourenfahrer.de/trackdays"
-    },
-    {
-      "veranstalter": "Syburger Trackdays",
-      "url": "https://www.tourenfahrer.de/motorradnews/events-szene/motorrad-termine",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.tourenfahrer.de/trackdays"
     },
     {
       "veranstalter": "team-biker",
