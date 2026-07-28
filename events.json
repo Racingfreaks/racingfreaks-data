@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-26T07:27:57+00:00",
+  "generated_at": "2026-07-28T14:16:44Z",
   "source": "racingfreaks.de initial import",
   "stats": {
     "total": 1010,
@@ -12053,7 +12053,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false,
@@ -12073,7 +12073,7 @@
       "url": "https://black-forest-speed-club.de/hp2020/produkt/motorrad-renntraining-bilster-berg-30-7-2026/",
       "id": 570,
       "tage": 1,
-      "preis": 299,
+      "preis": 259,
       "leistungen": [
         "Strecke"
       ],
@@ -12148,7 +12148,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": null,
       "archiviert": false,
@@ -12168,7 +12168,7 @@
       "url": "https://black-forest-speed-club.de/hp2020/produkt/motorrad-renntraining-bilster-berg-31-7-2026/",
       "id": 574,
       "tage": 1,
-      "preis": 299,
+      "preis": 279,
       "leistungen": [
         "Strecke"
       ],
@@ -12299,7 +12299,7 @@
       "url": "https://www.fr-timekeeping.de/booking.php?eid=94",
       "id": 579,
       "tage": 3,
-      "preis": 170,
+      "preis": 190,
       "leistungen": [
         "Strecke"
       ],
@@ -12464,7 +12464,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-19T17:52:53+00:00",
       "archiviert": false,
@@ -12741,7 +12741,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T06:43:36+00:00",
       "archiviert": false,
@@ -12915,7 +12915,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 603,
       "tage": 3,
-      "preis": 297,
+      "preis": 350,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -13213,7 +13213,7 @@
       "url": "https://www.speedfactory.ch/kurse/circuit-magny-cours-f",
       "id": 616,
       "tage": 3,
-      "preis": 350,
+      "preis": 230,
       "leistungen": [
         "Strecke"
       ],
@@ -13481,7 +13481,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 628,
       "tage": 1,
-      "preis": 288,
+      "preis": 345,
       "leistungen": [
         "Strecke"
       ],
@@ -13554,7 +13554,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 631,
       "tage": 3,
-      "preis": 93,
+      "preis": 360,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -13692,7 +13692,7 @@
       "url": "https://www.speer-racing.de/",
       "id": 637,
       "tage": 1,
-      "preis": 154,
+      "preis": 345,
       "leistungen": [
         "Strecke"
       ],
@@ -13847,7 +13847,7 @@
       "url": "https://www.bike-promotion.com/de/events/overview",
       "id": 644,
       "tage": 2,
-      "preis": 250,
+      "preis": 265,
       "leistungen": [
         "Strecke"
       ],
@@ -13974,7 +13974,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T06:47:37+00:00",
       "archiviert": false,
@@ -14042,7 +14042,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 655,
       "tage": 2,
-      "preis": 100,
+      "preis": 133,
       "leistungen": [
         "Strecke"
       ],
@@ -14114,7 +14114,7 @@
       "url": "https://www.fr-timekeeping.de/booking.php?eid=92",
       "id": 658,
       "tage": 3,
-      "preis": 223,
+      "preis": 256,
       "leistungen": [
         "Strecke"
       ],
@@ -14354,7 +14354,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 667,
       "tage": 3,
-      "preis": 263,
+      "preis": 280,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -14461,7 +14461,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 671,
       "tage": 3,
-      "preis": 117,
+      "preis": 133,
       "leistungen": [
         "Strecke"
       ],
@@ -14661,7 +14661,7 @@
       "url": "https://www.speedfactory.ch/kurse/cirquit-de-mirecourt-f",
       "id": 680,
       "tage": 2,
-      "preis": 350,
+      "preis": 270,
       "leistungen": [
         "Strecke"
       ],
@@ -14866,7 +14866,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T06:51:53+00:00",
       "archiviert": false,
@@ -15486,7 +15486,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 716,
       "tage": 2,
-      "preis": 350,
+      "preis": 175,
       "leistungen": [
         "Strecke"
       ],
@@ -15928,11 +15928,11 @@
       "url": "https://www.gullyracing.it/prodotto?id=201",
       "id": 738,
       "tage": 2,
-      "preis": 228,
+      "preis": 250,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T06:57:23+00:00",
       "archiviert": false,
@@ -16477,7 +16477,7 @@
       "url": "https://www.gullyracing.it/prodotto?id=177",
       "id": 761,
       "tage": 3,
-      "preis": 287,
+      "preis": 307,
       "leistungen": [
         "Strecke"
       ],
@@ -16580,7 +16580,7 @@
       "url": "https://www.bike-promotion.com/de/events/overview",
       "id": 765,
       "tage": 3,
-      "preis": 80,
+      "preis": 130,
       "leistungen": [
         "Strecke",
         "Catering"
@@ -16827,7 +16827,7 @@
       "url": "https://www.abenteuermotorrad.de/index.php/de/flm-day/flm-racetrack-days/termine",
       "id": 775,
       "tage": 2,
-      "preis": 225,
+      "preis": 398,
       "leistungen": [
         "Strecke"
       ],
@@ -16958,7 +16958,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 784,
       "tage": 2,
-      "preis": 230,
+      "preis": 275,
       "leistungen": [
         "Strecke"
       ],
@@ -17176,7 +17176,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 794,
       "tage": 3,
-      "preis": 193,
+      "preis": 216,
       "leistungen": [
         "Strecke"
       ],
@@ -17719,7 +17719,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 818,
       "tage": 2,
-      "preis": 100,
+      "preis": 132,
       "leistungen": [
         "Strecke"
       ],
@@ -17767,7 +17767,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 821,
       "tage": 2,
-      "preis": 100,
+      "preis": 132,
       "leistungen": [
         "Strecke"
       ],
@@ -18075,7 +18075,7 @@
       "url": "https://crmoto.eu/en/",
       "id": 835,
       "tage": 3,
-      "preis": 116,
+      "preis": 133,
       "leistungen": [
         "Strecke"
       ],
@@ -18304,7 +18304,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T07:06:39+00:00",
       "archiviert": false,
@@ -18683,7 +18683,7 @@
       "url": "https://www.fr-timekeeping.de/booking.php?eid=93",
       "id": 862,
       "tage": 3,
-      "preis": 206,
+      "preis": 240,
       "leistungen": [
         "Strecke"
       ],
@@ -19173,7 +19173,7 @@
       "url": "https://www.gullyracing.it/prodotto?id=208",
       "id": 884,
       "tage": 2,
-      "preis": 198,
+      "preis": 208,
       "leistungen": [
         "Strecke"
       ],
@@ -19502,7 +19502,7 @@
       "url": "https://www.gasss.eu/event/cremona-09-10-11-10-2026/",
       "id": 899,
       "tage": 3,
-      "preis": 207,
+      "preis": 220,
       "leistungen": [
         "Strecke"
       ],
@@ -19554,7 +19554,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T07:10:15+00:00",
       "archiviert": false,
@@ -19692,7 +19692,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T07:10:45+00:00",
       "archiviert": false,
@@ -19831,7 +19831,7 @@
       "url": "https://www.speedfactory.ch/kurse/circuit-de-barcelona-catalunya-e",
       "id": 912,
       "tage": 3,
-      "preis": 350,
+      "preis": 297,
       "leistungen": [
         "Strecke"
       ],
@@ -19887,11 +19887,11 @@
       "url": "https://www.gullyracing.it/prodotto?id=176",
       "id": 914,
       "tage": 3,
-      "preis": 223,
+      "preis": 250,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-26T07:11:07+00:00",
       "archiviert": false,
@@ -20220,7 +20220,7 @@
       "url": "https://www.gasss.eu/event/mugello-2026/",
       "id": 929,
       "tage": 2,
-      "preis": 323,
+      "preis": 340,
       "leistungen": [
         "Strecke"
       ],
@@ -20351,7 +20351,7 @@
       "url": "https://www.gasss.eu/event/misano-27-10-29-10-2026/",
       "id": 934,
       "tage": 3,
-      "preis": 232,
+      "preis": 245,
       "leistungen": [
         "Strecke"
       ],
@@ -20652,7 +20652,7 @@
       "url": "https://www.gullyracing.it/prodotto?id=174",
       "id": 945,
       "tage": 3,
-      "preis": 223,
+      "preis": 246,
       "leistungen": [
         "Strecke"
       ],
@@ -21081,7 +21081,7 @@
       "url": "https://www.speedfactory.ch/kurse/circuit-ricardo-tormo-valencia-e",
       "id": 962,
       "tage": 6,
-      "preis": 350,
+      "preis": 313,
       "leistungen": [
         "Strecke"
       ],
@@ -21244,7 +21244,7 @@
       "url": "https://www.speedfactory.ch/kurse/circuito-de-cartagena-e",
       "id": 968,
       "tage": 4,
-      "preis": 350,
+      "preis": 210,
       "leistungen": [
         "Strecke"
       ],
@@ -24742,7 +24742,7 @@
       "url": "https://www.eybis.com/calendarDE.html",
       "id": 1130,
       "tage": 2,
-      "preis": 399,
+      "preis": 200,
       "leistungen": [
         "Strecke"
       ],
@@ -25231,7 +25231,7 @@
       "ende": "2026-09-06",
       "tage": 2,
       "land": "Ungarn",
-      "preis": 108,
+      "preis": 166,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "CR Moto",
@@ -25253,7 +25253,7 @@
       "ende": "2026-09-06",
       "tage": 2,
       "land": "Niederlande",
-      "preis": null,
+      "preis": 95,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "veranstalter": "Uwes Schievtraining",
