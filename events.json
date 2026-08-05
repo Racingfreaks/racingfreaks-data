@@ -1282,7 +1282,8 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": null,
-      "archiviert": false
+      "archiviert": true,
+      "archiv_grund": "Falscher Link: speedfactory.de ist ein Rallye-Team (Stand 2017), Event vergangen"
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -12587,7 +12588,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:35:16+00:00",
       "archiviert": false,
@@ -12963,7 +12964,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://crtholland.nl/en/events/203/",
+      "url": "https://www.dafitmotoracing.com/de/most5-6-8-26/",
       "id": 605,
       "tage": 2,
       "preis": 160,
@@ -12994,7 +12995,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": 11,
       "letzte_pruefung": "2026-08-02T06:36:50+00:00",
       "archiviert": false,
@@ -13098,7 +13099,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:37:13+00:00",
       "archiviert": false,
@@ -13162,14 +13163,14 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://www.speer-racing.de/",
+      "url": "https://www.speer-racing.de/alle-termine",
       "id": 614,
       "tage": 2,
       "preis": 303,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:37:21+00:00",
       "archiviert": false,
@@ -13335,9 +13336,10 @@
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:37:50+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-02T06:37:50+00:00",
-      "content_hash": "3be07bb68dd81820363665e480773e2c3137bd159e6d15cce49144526d5d610d"
+      "content_hash": "3be07bb68dd81820363665e480773e2c3137bd159e6d15cce49144526d5d610d",
+      "archiv_grund": "Vom Veranstalter nicht mehr gelistet (Buchungssystem geprueft 05.08.2026)"
     },
     {
       "veranstalter": "WSB-Sport GmbH",
@@ -15006,7 +15008,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://crtholland.nl/en/events/203/",
+      "url": "https://www.dafitmotoracing.com/de/brno19-20-8-26/",
       "id": 695,
       "tage": 2,
       "preis": 160,
@@ -16258,7 +16260,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://crtholland.nl/en/events/236/",
+      "url": "https://www.dafitmotoracing.com/de/slovakiaring1-2-9-26/",
       "id": 752,
       "tage": 2,
       "preis": 289,
@@ -17740,7 +17742,7 @@
       "db": "k.A.",
       "gruppen": "k.A.",
       "level": "Alle",
-      "url": "https://crtholland.nl/en/events/236/",
+      "url": "https://www.dafitmotoracing.com/de/brno16-17-9-26/",
       "id": 820,
       "tage": 2,
       "preis": 289,
