@@ -11265,7 +11265,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-19T17:48:48+00:00",
       "archiviert": false,
@@ -12229,7 +12229,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-19T17:52:18+00:00",
       "archiviert": false,
@@ -13170,7 +13170,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:37:21+00:00",
       "archiviert": false,
@@ -13487,7 +13487,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:39:00+00:00",
       "archiviert": false,
@@ -13698,7 +13698,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:39:44+00:00",
       "archiviert": false,
@@ -15671,7 +15671,7 @@
         "Transponder",
         "Theorie"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:47:08+00:00",
       "archiviert": false,
@@ -17293,7 +17293,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "warteliste",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:52:49+00:00",
       "archiviert": false,
@@ -17821,7 +17821,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:54:30+00:00",
       "archiviert": false,
@@ -18847,7 +18847,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:57:44+00:00",
       "archiviert": false,
@@ -18904,7 +18904,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:57:53+00:00",
       "archiviert": false,
@@ -19131,7 +19131,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T06:58:27+00:00",
       "archiviert": false,
@@ -24609,7 +24609,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-02T07:14:05+00:00",
       "archiviert": false,
@@ -25032,7 +25032,7 @@
       "tage": 1,
       "land": "Frankreich",
       "preis": 264,
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "veranstalter": "Speer Racing",
       "url": "https://www.speer-racing.de/index.php?section=termine",
@@ -25053,7 +25053,7 @@
       "tage": 3,
       "land": "Portugal",
       "preis": 247,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "veranstalter": "Speer Racing",
       "url": "https://www.speer-racing.de/index.php?section=termine",
