@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-30T10:19:47+00:00",
+  "generated_at": "2026-09-06T08:48:48+00:00",
   "source": "racingfreaks.de initial import",
   "stats": {
     "total": 1010,
@@ -16265,9 +16265,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:47:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:00+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:47:28+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:00+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -16340,9 +16340,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:38:14+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:38:14+00:00",
-      "content_hash": "64eae97a7a620bb828bfdec821fdef4ec7eac592cf87824543fd4846fba458de"
+      "content_hash": "64eae97a7a620bb828bfdec821fdef4ec7eac592cf87824543fd4846fba458de",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "motorspeed",
@@ -16412,9 +16413,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:38:18+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-16T04:41:01+00:00",
-      "content_hash": "84d4be356dae23ff2c72790a68356564a682ab62c90329c0e2577904f5f71541"
+      "content_hash": "84d4be356dae23ff2c72790a68356564a682ab62c90329c0e2577904f5f71541",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "FRÖSCHLRacing",
@@ -16436,9 +16438,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:38:21+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:38:21+00:00",
-      "content_hash": "abcb623f43787136c587788cb5268e2d49cd6162a931aa22cbca435d086fa98e"
+      "content_hash": "abcb623f43787136c587788cb5268e2d49cd6162a931aa22cbca435d086fa98e",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "EYBIS",
@@ -16460,9 +16463,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:38:28+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:38:28+00:00",
-      "content_hash": "b509cc54443f33e3cbc7270cc52ce2f581039871eb740f493acfe5fe9a23680b"
+      "content_hash": "b509cc54443f33e3cbc7270cc52ce2f581039871eb740f493acfe5fe9a23680b",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "motorspeed",
@@ -16484,9 +16488,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:33+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:47:33+00:00",
-      "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878"
+      "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "LRC Motorsport",
@@ -16508,9 +16513,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:35+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:47:35+00:00",
-      "content_hash": "ba09573942bd22ecf68ffa6f5fcbb4af80f1e389cd42ec829a2561808eab4ff4"
+      "content_hash": "ba09573942bd22ecf68ffa6f5fcbb4af80f1e389cd42ec829a2561808eab4ff4",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Gully Racing",
@@ -16532,9 +16538,10 @@
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:40+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:47:40+00:00",
-      "content_hash": "64fcead98f58a7d5d07b5d6b8bd277e268a6b1037b42c72012671c4d4e919b1c"
+      "content_hash": "64fcead98f58a7d5d07b5d6b8bd277e268a6b1037b42c72012671c4d4e919b1c",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Swiss Racing for Fun",
@@ -16556,7 +16563,7 @@
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:43+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://www.swiss-racing-for-fun.ch/event/dijon-2-29-30-08-2026/",
@@ -16566,7 +16573,8 @@
         }
       ],
       "letzte_volle_pruefung": "2026-08-23T04:38:42+00:00",
-      "content_hash": "4fba01022671521ad3a0601e85c4e665aee8e312dc5f761de0aa13588b8a45b3"
+      "content_hash": "4fba01022671521ad3a0601e85c4e665aee8e312dc5f761de0aa13588b8a45b3",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Bikers Days",
@@ -16589,7 +16597,7 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:47+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://booking.dgsport.eu/fr/bikers-days-assen/441-bikers-days-assen-3004-01052026.html",
@@ -16599,7 +16607,8 @@
         }
       ],
       "letzte_volle_pruefung": "2026-08-30T09:47:47+00:00",
-      "content_hash": "5e80283e78e1447ce4da14bf69ee760987afc3a4382d28b41a37e739f8b0e2dc"
+      "content_hash": "5e80283e78e1447ce4da14bf69ee760987afc3a4382d28b41a37e739f8b0e2dc",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Promo Racing",
@@ -16622,7 +16631,7 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:47:51+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://www.promoracing.it/",
@@ -16632,7 +16641,8 @@
         }
       ],
       "letzte_volle_pruefung": "2026-08-30T09:47:51+00:00",
-      "content_hash": "a7e574e78addd805646ab813355da2d6f28935b1fe3b562b9abd916237a81276"
+      "content_hash": "a7e574e78addd805646ab813355da2d6f28935b1fe3b562b9abd916237a81276",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -16654,9 +16664,10 @@
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:01+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:01+00:00",
-      "content_hash": "a0452445ed162804923a23cf1b2179298a1d27c45a8b59c9e9f081ae021f0b7f"
+      "content_hash": "a0452445ed162804923a23cf1b2179298a1d27c45a8b59c9e9f081ae021f0b7f",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "GH-MOTO Racedays",
@@ -16678,9 +16689,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:05+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:05+00:00",
-      "content_hash": "a356344a77251288e8a24dc0c1723f731c920be10e6a82afa59de351032751be"
+      "content_hash": "a356344a77251288e8a24dc0c1723f731c920be10e6a82afa59de351032751be",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Bike Promotion",
@@ -16703,9 +16715,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:10+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:10+00:00",
-      "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
+      "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "LRC Motorsport",
@@ -16727,9 +16740,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:12+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:12+00:00",
-      "content_hash": "3e7533f530a8a77b8dd25539e5c3623fa1c7c35e100de6e4913fd6e5e926fea3"
+      "content_hash": "3e7533f530a8a77b8dd25539e5c3623fa1c7c35e100de6e4913fd6e5e926fea3",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "PLÜSS MOTO SPORT",
@@ -16751,7 +16765,7 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:16+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://www.pluess-motosport.ch/event/ar01",
@@ -16761,7 +16775,8 @@
         }
       ],
       "letzte_volle_pruefung": "2026-08-30T09:48:16+00:00",
-      "content_hash": "4ef9b2847e9842dedf8c75d5773d37748279f6610df328aecf0f96a132727a21"
+      "content_hash": "4ef9b2847e9842dedf8c75d5773d37748279f6610df328aecf0f96a132727a21",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "PS-Renntraining",
@@ -16783,7 +16798,7 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": 0,
       "letzte_pruefung": "2026-08-30T09:48:23+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "url_history": [
         {
           "old": "https://ps-renntraining.de/termin/mettet-ii-am-31-august-01-september-2026/",
@@ -16793,7 +16808,8 @@
         }
       ],
       "letzte_volle_pruefung": "2026-08-30T09:48:23+00:00",
-      "content_hash": "70aeb7103aa53cceb647b42bb6675d2482e4290781b4d69f6eb748e041777d0f"
+      "content_hash": "70aeb7103aa53cceb647b42bb6675d2482e4290781b4d69f6eb748e041777d0f",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Berlin Triple M Rennstreckentraining",
@@ -16815,9 +16831,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:31+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:31+00:00",
-      "content_hash": "6182d15fbb6ce9a09d7ba86f2c21dc6189d6d2538e8d18cbb2b97fca1c96b325"
+      "content_hash": "6182d15fbb6ce9a09d7ba86f2c21dc6189d6d2538e8d18cbb2b97fca1c96b325",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -16865,9 +16882,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:34+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:40:57+00:00",
-      "content_hash": "0b687cedec57270dbaceb0fb8928377aa59b4cfb4206456005a71cdc88c96499"
+      "content_hash": "0b687cedec57270dbaceb0fb8928377aa59b4cfb4206456005a71cdc88c96499",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "motorspeed",
@@ -16889,9 +16907,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:38+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:38+00:00",
-      "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878"
+      "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "fast-travel.ch",
@@ -16913,9 +16932,10 @@
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:48:42+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:48:42+00:00",
-      "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
+      "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "get faster with caremotion",
@@ -16937,9 +16957,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-07-19T18:05:31+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-07-19T18:05:31+00:00",
-      "content_hash": "96d1e28fac94b24f86bd1f58ea1c64561fdb1348dde3c552da4d65d06405fcc2"
+      "content_hash": "96d1e28fac94b24f86bd1f58ea1c64561fdb1348dde3c552da4d65d06405fcc2",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "CRT",
@@ -16961,9 +16982,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": 24,
       "letzte_pruefung": "2026-08-30T09:49:17+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:49:17+00:00",
-      "content_hash": "71553f9959d87e0cef49279b4c0f7e0b77b678dcde53dc44e74cc81041cc3a37"
+      "content_hash": "71553f9959d87e0cef49279b4c0f7e0b77b678dcde53dc44e74cc81041cc3a37",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "MOTORRAD action team",
@@ -16985,9 +17007,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:49:26+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:41:46+00:00",
-      "content_hash": "57a0243eff3e1e67a969268d3759e90bf5ee62129dd04a031381aed4b6d1402a"
+      "content_hash": "57a0243eff3e1e67a969268d3759e90bf5ee62129dd04a031381aed4b6d1402a",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "FLM Race Track Days",
@@ -17009,9 +17032,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:49:29+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:49:29+00:00",
-      "content_hash": "f343bceb1bd09b1628a4b5cf0163bc5aaed18c2ea286883c31564744e92fa6e0"
+      "content_hash": "f343bceb1bd09b1628a4b5cf0163bc5aaed18c2ea286883c31564744e92fa6e0",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Motorsportschool Zolder",
@@ -17033,9 +17057,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:49:34+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:49:34+00:00",
-      "content_hash": "29a7769769c53e429b3c6916d37babfb2ddf8f312e46464173075233873bf722"
+      "content_hash": "29a7769769c53e429b3c6916d37babfb2ddf8f312e46464173075233873bf722",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "CRT",
@@ -17057,9 +17082,10 @@
       "verfuegbarkeit": "wenige",
       "freie_plaetze": 2,
       "letzte_pruefung": "2026-08-30T09:49:37+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:49:37+00:00",
-      "content_hash": "4fa7f1854cef8dcdad3b493c74b3f0b004bda0c88c7f1e93cb4cb9332f8c52ff"
+      "content_hash": "4fa7f1854cef8dcdad3b493c74b3f0b004bda0c88c7f1e93cb4cb9332f8c52ff",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Gully Racing",
@@ -17160,9 +17186,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T09:49:50+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T09:49:50+00:00",
-      "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
+      "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Bike Promotion",
@@ -17258,9 +17285,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:43:09+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-16T04:44:30+00:00",
-      "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd"
+      "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Rehm race days",
@@ -17308,9 +17336,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:04+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:04+00:00",
       "content_hash": "239b09f07793c578f587108dae50cef06a05d5b1a4cc954d97a221214092aedb"
     },
     {
@@ -17332,9 +17360,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:41+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:06+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:41+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:06+00:00",
       "content_hash": "7a8b76266e547db92989ddf445958942271e0c18f498fae193504834a39ae42d"
     },
     {
@@ -17358,9 +17386,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:46+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:10+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:46+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:10+00:00",
       "content_hash": "4a2d3fda8b3f38ee5994fb6c7c79af14f2892b9d115256fa92d982edfd7b83a6"
     },
     {
@@ -17382,9 +17410,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:51+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:15+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:15+00:00",
       "content_hash": "eb43fad8b7e92227aff8425d2be79b1b4ec00e75c88fb1e42fa6867b1f07d3f6"
     },
     {
@@ -17400,15 +17428,15 @@
       "url": "https://www.doc-scholl.de/events/bilster-berg.html",
       "id": 774,
       "tage": 2,
-      "preis": 295,
+      "preis": 305,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:54+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:19+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:54+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:19+00:00",
       "content_hash": "8cb0d0f0608b557d390a669e595dd342f8574b70b1a928395095145fc1e578e7"
     },
     {
@@ -17430,9 +17458,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:51:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:51:57+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:22+00:00",
       "content_hash": "f343bceb1bd09b1628a4b5cf0163bc5aaed18c2ea286883c31564744e92fa6e0"
     },
     {
@@ -17454,9 +17482,9 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:52:01+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:25+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:52:01+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:25+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -17504,9 +17532,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:52:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:30+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:52:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:30+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -17527,9 +17555,9 @@
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:52:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:33+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -17539,7 +17567,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:52:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:33+00:00",
       "content_hash": "0ff8e93d452f2378c7d121fd5bb63a6d40a96471ee4880638ab8ebf641ac29e0"
     },
     {
@@ -17561,9 +17589,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:52:12+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:36+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:52:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:36+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -17585,9 +17613,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T04:43:49+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:40+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-16T04:45:17+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:40+00:00",
       "content_hash": "59a86549a84f77e1d5446176ae7b12d3df561e269fd00cdaa5290dd544cb887c"
     },
     {
@@ -17609,9 +17637,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:53:46+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:44+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:53:46+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:44+00:00",
       "content_hash": "eb43fad8b7e92227aff8425d2be79b1b4ec00e75c88fb1e42fa6867b1f07d3f6"
     },
     {
@@ -17633,9 +17661,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:53:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:46+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:53:48+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:46+00:00",
       "content_hash": "f5fba97070b12315c2bbf0c2ba93d4a26f3accd4dfaa29a1356b6a8e50b3b7ae"
     },
     {
@@ -17657,9 +17685,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:53:51+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:49+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:53:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:49+00:00",
       "content_hash": "51463322119ae9431d401ebbdbb480fcd366988f6bcc85eb8ed19326827ae201"
     },
     {
@@ -17681,9 +17709,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:53:54+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:53:54+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:53+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -17705,9 +17733,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:53:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:25:56+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:53:57+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:25:56+00:00",
       "content_hash": "2098aa4dd0e1ee8efe35af5f039f1157c81bd64c0dd353ae9dff2f723731f8ac"
     },
     {
@@ -17727,11 +17755,11 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:01+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:00+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:01+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:00+00:00",
       "content_hash": "4d052cb4662366427ff9e16e1db84802654cb52f86cc3bd7c743e93d3c00ad4a"
     },
     {
@@ -17755,9 +17783,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:06+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:05+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:06+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:05+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -17779,9 +17807,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:09+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:08+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:09+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:08+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -17834,9 +17862,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:12+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:13+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:44:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:13+00:00",
       "content_hash": "9ebca9e98556daa28e6c85bc2d57c3711b188f28feb6ebe1ab685d3e868d4f78"
     },
     {
@@ -17858,7 +17886,7 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:14+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -17868,7 +17896,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:54:15+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:14+00:00",
       "content_hash": "aa6f34d7cc9f1ef01de1fe9c251cb089ef14e3d120c199d13891bf55aa39cc87"
     },
     {
@@ -17884,15 +17912,15 @@
       "url": "https://www.speer-racing.de/",
       "id": 798,
       "tage": 3,
-      "preis": 353,
+      "preis": 364,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:19+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:19+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:19+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:19+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -17914,9 +17942,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:22+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:22+00:00",
       "content_hash": "c2a72aaedfd5d112d186d3333fc1705db523940840f1f1aceda697275bcacea0"
     },
     {
@@ -17932,7 +17960,7 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 800,
       "tage": 3,
-      "preis": 177,
+      "preis": 200,
       "leistungen": [
         "Strecke",
         "Kaffee",
@@ -17941,9 +17969,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:32+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:30+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:32+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:30+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -17965,9 +17993,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:34+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:33+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:34+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:33+00:00",
       "content_hash": "bb1088e7ecfbd91f42e3d733f09a29f0cc6e9a9a876d0780c0fc76821fe3472e"
     },
     {
@@ -17990,9 +18018,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:37+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:37+00:00",
       "content_hash": "c0ec4035ea90cdc9f3c3ff8f3b3ae20e9dbad11a2dceea1da0756c0441d1c378"
     },
     {
@@ -18014,9 +18042,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T04:44:37+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:41+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-16T04:46:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:41+00:00",
       "content_hash": "09c644fdead8c1eb193e5f2a8fe5fa7d978af68f229de01eec052187e9c1abd8"
     },
     {
@@ -18038,9 +18066,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:42+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:43+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:42+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:43+00:00",
       "content_hash": "1b4ab5a2eda36d2b9d627c5921f2c749d9a273a900690465ebf8f336259b33ea"
     },
     {
@@ -18095,9 +18123,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:50+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:48+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:50+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -18113,15 +18141,15 @@
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
       "id": 807,
       "tage": 2,
-      "preis": 305,
+      "preis": 295,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:52+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:54:52+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:53+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -18143,9 +18171,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:54+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:56+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:44:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:56+00:00",
       "content_hash": "fe94a95c9145e2ce962ded486b4b31370ca1a8e4691dd66949b412810ad9b9c8"
     },
     {
@@ -18167,9 +18195,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:54:55+00:00",
+      "letzte_pruefung": "2026-09-06T08:26:58+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:44:54+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:26:58+00:00",
       "content_hash": "81d6158c10aef3772fa927a65745de0466fa1a680354a8669cd744f43248e69a"
     },
     {
@@ -18191,7 +18219,7 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:00+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:01+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -18201,7 +18229,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:55:00+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:01+00:00",
       "content_hash": "419c68be6b1601f0e4afbfcca2702cfef8085f1314849366e867de3ef2e2f625"
     },
     {
@@ -18223,9 +18251,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:03+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:04+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:03+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:04+00:00",
       "content_hash": "8ad5fc0393c8c0d45db959f6b89ebf1f907ecfb479f3adfbff3dbb53baa94850"
     },
     {
@@ -18247,9 +18275,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:07+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:08+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:07+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:08+00:00",
       "content_hash": "0f275c733806296a6e79ff629587cb3c08a12e88ad7354c4f70e13c583f62eaa"
     },
     {
@@ -18298,9 +18326,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:12+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:11+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:12+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -18322,9 +18350,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:15+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:15+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:15+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -18344,11 +18372,11 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:17+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:20+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:45:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:20+00:00",
       "content_hash": "2193cad46f106de696bce883883c1e67688041c0d64e9ea2c8f1389dd3c4ccea"
     },
     {
@@ -18370,9 +18398,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:20+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:23+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:23+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -18393,10 +18421,10 @@
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
-      "freie_plaetze": 56,
-      "letzte_pruefung": "2026-08-30T09:55:24+00:00",
+      "freie_plaetze": 52,
+      "letzte_pruefung": "2026-09-06T08:27:27+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:24+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:27+00:00",
       "content_hash": "e005ba87d9156984125832297f1cdd82c8d9ec67b8db248577e083d3f62d8a05"
     },
     {
@@ -18412,15 +18440,15 @@
       "url": "https://www.speer-racing.de/",
       "id": 823,
       "tage": 2,
-      "preis": 240,
+      "preis": 247,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:27+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:31+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:27+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:31+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -18442,9 +18470,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:34+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:34+00:00",
       "content_hash": "a724217c2e236e15781d53e72c7595daf0540c3fdf01df954b7bff567832a8e7"
     },
     {
@@ -18460,15 +18488,15 @@
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/sachsenring-3/",
       "id": 825,
       "tage": 2,
-      "preis": 250,
+      "preis": 265,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:38+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:38+00:00",
       "content_hash": "53b0b930ce11628b2c06855b0b3441504ff76ff7b891ffc7c3b4e3948640e34f"
     },
     {
@@ -18490,9 +18518,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:37+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:39+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:45:34+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:39+00:00",
       "content_hash": "8533d4e3f9327d0d64ba23f229c92f2430e324c53752b530d7bd602a7044953d"
     },
     {
@@ -18514,9 +18542,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:40+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:42+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:40+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:42+00:00",
       "content_hash": "bb24bc6cc8b0d80c374e8be90eae8738281125ef23108c0d5700e7f443da2d61"
     },
     {
@@ -18537,8 +18565,8 @@
         "Strecke"
       ],
       "verfuegbarkeit": "wenige",
-      "freie_plaetze": 11,
-      "letzte_pruefung": "2026-08-30T09:55:43+00:00",
+      "freie_plaetze": 2,
+      "letzte_pruefung": "2026-09-06T08:27:44+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -18548,7 +18576,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:55:43+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:44+00:00",
       "content_hash": "75686eafb018a5285066c92bbe7f8cb8e4166ff51fcde613e4a044e528c3f8a0"
     },
     {
@@ -18573,9 +18601,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:52+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:52+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:55:52+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:52+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -18598,7 +18626,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:55:55+00:00",
+      "letzte_pruefung": "2026-09-06T08:27:56+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -18608,7 +18636,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:55:55+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:27:56+00:00",
       "content_hash": "1c52bad430d5b03facd5930775f335648d7e2bd59f5bcecd3e6f760b02dfdee6"
     },
     {
@@ -18630,9 +18658,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:00+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:01+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:00+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:01+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -18654,9 +18682,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:02+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:04+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:45:58+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:04+00:00",
       "content_hash": "421e15fce7e07aa42128daa951bb19b77ad6b59d1aadae3ebbc6d4804659a2e3"
     },
     {
@@ -18678,9 +18706,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:07+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:07+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -18702,9 +18730,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:07+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:09+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:07+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:09+00:00",
       "content_hash": "55640bdd00678428ba52f394458d58dc888896be732c9ce490240677876db892"
     },
     {
@@ -18726,7 +18754,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:10+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:12+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -18736,7 +18764,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:56:10+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:12+00:00",
       "content_hash": "e84a8f69d9f6d49e2de982758176abe0e93477807b11a7288c2ed3cf4ac14827"
     },
     {
@@ -18759,9 +18787,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:19+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:21+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:19+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:21+00:00",
       "content_hash": "6f8c00812a0a060a570ce76a97f3dab88707779a19fe433a9ca8a9adbfa5af47"
     },
     {
@@ -18777,15 +18805,15 @@
       "url": "https://triple-mmm.de/event/osl-vii-09-26",
       "id": 840,
       "tage": 2,
-      "preis": 290,
+      "preis": 300,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:27+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:29+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:27+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:29+00:00",
       "content_hash": "79d202fa0544870cf60e55e3c0a0eddce2830e9d55e507ea5c0cc7bc78aab178"
     },
     {
@@ -18807,9 +18835,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:29+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:30+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:29+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:30+00:00",
       "content_hash": "1a979f983f998188813819744a7a87da774dd621b797ab697695f0b480ea3290"
     },
     {
@@ -18831,9 +18859,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:33+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:37+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:33+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:37+00:00",
       "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878"
     },
     {
@@ -18855,9 +18883,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:56:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:28:43+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:56:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:28:43+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -18903,9 +18931,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:14+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:19+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:14+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:19+00:00",
       "content_hash": "e52c2c356883148512c7aa58c0d464f9a6c576e29377413d5f9e5fd4b312dccc"
     },
     {
@@ -18929,9 +18957,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:18+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:18+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:22+00:00",
       "content_hash": "138cc14b7fc581bd0552afe77a5e75f25980bddd6040412014fa44a5a2c454c4"
     },
     {
@@ -18953,9 +18981,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:20+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:24+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:24+00:00",
       "content_hash": "4e402e14425f95d911da56540bcf5d45ddac715af944b567aca6bdeec5b34eaa"
     },
     {
@@ -19003,9 +19031,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:25+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:28+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:25+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:28+00:00",
       "content_hash": "44183c7cfb44aa14daad3a7821ffe34c8cec81a8fc9898adda53642cd36589c7"
     },
     {
@@ -19029,9 +19057,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:33+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:33+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -19084,9 +19112,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:39+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:39+00:00",
       "content_hash": "e473f553063d2d26d7023d83b13bc12da2feb4477a30e7fade4981a81dd39878"
     },
     {
@@ -19108,9 +19136,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:41+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:41+00:00",
       "content_hash": "dec748e310a1317b30963d141f65c8b650e12edbd52a2537bfda251fc7263590"
     },
     {
@@ -19132,7 +19160,7 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:46+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:46+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -19142,7 +19170,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:57:46+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:46+00:00",
       "content_hash": "62146fe961a28098b1edf1c47c91c1fc46c2ddfddf6c9da4056fc88106dd8df7"
     },
     {
@@ -19164,9 +19192,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:49+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:49+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:49+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:49+00:00",
       "content_hash": "0f275c733806296a6e79ff629587cb3c08a12e88ad7354c4f70e13c583f62eaa"
     },
     {
@@ -19190,9 +19218,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:53+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:52+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:53+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:52+00:00",
       "content_hash": "aca1df5907acc2cdf45f297b54ab97c6d22abfbbc136236f234126180e7817f8"
     },
     {
@@ -19214,9 +19242,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:55+00:00",
+      "letzte_pruefung": "2026-09-06T08:29:56+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:47:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:29:56+00:00",
       "content_hash": "903d454491449c8986d12a56e07fbc42c2ce2f8235f8d119fea4bf3a038583ea"
     },
     {
@@ -19238,9 +19266,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:57:59+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:00+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:57:59+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:00+00:00",
       "content_hash": "d0b0170f505b77e221cf53d0c2634e66251ced2ec3f54be9a6a7d227244a8a4b"
     },
     {
@@ -19262,9 +19290,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": 2,
-      "letzte_pruefung": "2026-08-30T09:58:02+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:04+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:02+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:04+00:00",
       "content_hash": "88a2d7e30efadd9acbb3e267529175ba42b3b70e2ec824489e6352a07da8424a"
     },
     {
@@ -19286,9 +19314,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:04+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:07+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:04+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:07+00:00",
       "content_hash": "0ef4fa0c74a45e427a07351d4821f366f1f0e9f74faa65646e43faf1d81445e2"
     },
     {
@@ -19310,7 +19338,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:07+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:09+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -19320,7 +19348,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:58:07+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:09+00:00",
       "content_hash": "0557b575a6a300a4ab0da8f0f4dd2ad448cb0d78283442171210152c4ef5b8ae"
     },
     {
@@ -19373,9 +19401,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:10+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:12+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:10+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:12+00:00",
       "content_hash": "bfad5c7047ce0f1a2734e58be325759311064929e9ed0b074ddb9bb0b25b69e3"
     },
     {
@@ -19420,9 +19448,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:12+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:14+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:14+00:00",
       "content_hash": "29380ec75636fcc0bc89cef39bebfececb3e834ce42639aab5b86b1ea48d328b"
     },
     {
@@ -19444,9 +19472,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:16+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:19+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:19+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -19469,7 +19497,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:20+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:23+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -19479,7 +19507,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T09:58:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:23+00:00",
       "content_hash": "340e6d01452b056f4203554e1c5606cacd495c343401a67315194f0b69bc56c9"
     },
     {
@@ -19501,9 +19529,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:23+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:27+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:23+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:27+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -19525,9 +19553,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:30+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:34+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:30+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:34+00:00",
       "content_hash": "705328404a1e0a0664e062ce6bdf2a3dd51c6f0eb301803908225439e3af397a"
     },
     {
@@ -19549,9 +19577,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:39+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:39+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -19630,9 +19658,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:42+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:42+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -19654,9 +19682,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:51+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:48+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:51+00:00",
       "content_hash": "3cc0a0037d20b34e25bed68f67de4d916b3679e16d828348777d9a4412cf86f2"
     },
     {
@@ -19704,9 +19732,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:51+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:54+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:54+00:00",
       "content_hash": "08ef8ab4ccdf14bd9cf4cffd2a51bd7efabc2c47d39a1aa2d91afc75a61f1a70"
     },
     {
@@ -19722,15 +19750,15 @@
       "url": "https://www.speer-racing.de/",
       "id": 882,
       "tage": 2,
-      "preis": 243,
+      "preis": 251,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:58:55+00:00",
+      "letzte_pruefung": "2026-09-06T08:30:58+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:55+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:30:58+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -19751,10 +19779,10 @@
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
-      "freie_plaetze": 7,
-      "letzte_pruefung": "2026-08-30T09:58:58+00:00",
+      "freie_plaetze": 9,
+      "letzte_pruefung": "2026-09-06T08:31:01+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:58:58+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:01+00:00",
       "content_hash": "0befba150b8b1baa22d28bc67b3796e451c6771a415f037e73522e9672d1f46b"
     },
     {
@@ -19770,15 +19798,15 @@
       "url": "https://www.gullyracing.it/prodotto?id=208",
       "id": 884,
       "tage": 2,
-      "preis": 95,
+      "preis": 215,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:00+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:04+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:48:37+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:04+00:00",
       "content_hash": "01c8817aab88c66edf40db00a3b58530707c10b30359610aaa303ed5beaa5dd2"
     },
     {
@@ -19803,9 +19831,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:10+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:13+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:59:10+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:13+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -19827,9 +19855,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:13+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:16+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:59:13+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:16+00:00",
       "content_hash": "a356344a77251288e8a24dc0c1723f731c920be10e6a82afa59de351032751be"
     },
     {
@@ -19851,9 +19879,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:25+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:59:22+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:25+00:00",
       "content_hash": "5bf0e59df0413596ca64769c1a2cb335a21c43aebc3526de6eb78019934f4bc5"
     },
     {
@@ -19906,9 +19934,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:30+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:32+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:49:04+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:32+00:00",
       "content_hash": "233a01144749af722d5956c9b494a5db9d3870594ad8e5880d58a01c8ac31e13"
     },
     {
@@ -19930,9 +19958,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T09:59:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:31:37+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T09:59:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:31:37+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -19954,9 +19982,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T04:49:55+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:25+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-16T04:52:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:25+00:00",
       "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd"
     },
     {
@@ -20002,11 +20030,11 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:07+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:28+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:07+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:28+00:00",
       "content_hash": "51463322119ae9431d401ebbdbb480fcd366988f6bcc85eb8ed19326827ae201"
     },
     {
@@ -20031,9 +20059,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:17+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:38+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:17+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:38+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -20055,9 +20083,9 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:21+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:41+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:41+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -20081,9 +20109,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:46+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:46+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -20105,9 +20133,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:29+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:50+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:29+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:50+00:00",
       "content_hash": "4d4006d1c914d6f359fa2644e20e13090a2b7eca2d040c698ddca60c4a57e6a6"
     },
     {
@@ -20129,9 +20157,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:32+00:00",
+      "letzte_pruefung": "2026-09-06T08:32:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:32+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:32:53+00:00",
       "content_hash": "94b9a563d88c40dd079683f540cdbfafb7380ea4de3413a63ba482fc3c65af5c"
     },
     {
@@ -20153,7 +20181,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:39+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:00+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20163,7 +20191,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:01:39+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:00+00:00",
       "content_hash": "93968cc82c5ee56032c43a9ec4361f760cfc0de1ac8c6eddcfa7d94771c6c83d"
     },
     {
@@ -20185,9 +20213,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:50+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:08+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:50+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:08+00:00",
       "content_hash": "4865d9af8d5cbc106ef3cf3b23e679f8f3b48ab191843aa821836ba3b6dc6348"
     },
     {
@@ -20210,7 +20238,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:54+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:12+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20220,7 +20248,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:01:54+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:12+00:00",
       "content_hash": "f794d186ba57d4c95f4aeb1bc4cf4ac75e77ac404217e47b5eeb2ddc264f9642"
     },
     {
@@ -20242,9 +20270,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:01:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:15+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:01:57+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:15+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -20267,9 +20295,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:01+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:19+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:01+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:19+00:00",
       "content_hash": "fe9e9aaf5892e52033649b4024aed7265bc330f7891564b19f330b7668453afc"
     },
     {
@@ -20291,7 +20319,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:26+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20301,7 +20329,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:02:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:26+00:00",
       "content_hash": "4ebfc908a04249797a20c399238f1a90019a88b7deea6f5207256b270ec8b82a"
     },
     {
@@ -20322,10 +20350,10 @@
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
-      "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:19+00:00",
+      "freie_plaetze": 8,
+      "letzte_pruefung": "2026-09-06T08:33:36+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:19+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:36+00:00",
       "content_hash": "63b48caead0165c871d9a7733406bc0ea7e4e16c920d7d292e335ebfb3cd2a6d"
     },
     {
@@ -20347,9 +20375,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": 20,
-      "letzte_pruefung": "2026-08-30T10:02:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:41+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:51:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:41+00:00",
       "content_hash": "3e6d0e86b18490ed11e63b4c0333dc36d0a787f12a78fce41dc02b4500e8055b"
     },
     {
@@ -20435,7 +20463,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:45+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20445,7 +20473,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:02:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:45+00:00",
       "content_hash": "4649adb7703e1c0bbaedde8ae3bf8f8fafedc8f54544e2e5376b8b597fda59d8"
     },
     {
@@ -20467,9 +20495,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:53+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -20491,9 +20519,9 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:33:57+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:33:57+00:00",
       "content_hash": "b63379467824f138867d6ce48dc18da10a2931d1d3ac1513700a23828d70f6d6"
     },
     {
@@ -20515,9 +20543,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:40+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:02+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:40+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:02+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -20539,9 +20567,9 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:45+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:17+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:45+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:17+00:00",
       "content_hash": "563c134f95c12140cbde1447d720bf08f9a5fa1f561f17fe0272ab597ea4c398"
     },
     {
@@ -20563,9 +20591,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:20+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:48+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:20+00:00",
       "content_hash": "a356344a77251288e8a24dc0c1723f731c920be10e6a82afa59de351032751be"
     },
     {
@@ -20589,9 +20617,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:53+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:25+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:53+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:25+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -20633,15 +20661,15 @@
       "url": "https://www.rossocorsaonline.com/prove?lang=en",
       "id": 920,
       "tage": 1,
-      "preis": 229,
+      "preis": 239,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:56+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:28+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:56+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:28+00:00",
       "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860"
     },
     {
@@ -20663,9 +20691,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:02:59+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:30+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:02:59+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:30+00:00",
       "content_hash": "13f337c4c92083ea614231738a155053f5cdd2af1ef5a913dfd372e2d3141e26"
     },
     {
@@ -20689,9 +20717,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:04+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:35+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:04+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:35+00:00",
       "content_hash": "4babc5714865af76ce9734ceed2547201c1857db13022822f87c86bd3c1309c4"
     },
     {
@@ -20713,9 +20741,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:06+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:37+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:06+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:37+00:00",
       "content_hash": "1d28230e1a32d1a73c5b2f83fac9b6ab8ed1f33cd5a65e3eab797252d52c6589"
     },
     {
@@ -20768,7 +20796,7 @@
       ],
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:09+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:39+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20778,7 +20806,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:03:09+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:39+00:00",
       "content_hash": "abc10c4f7abe90be164dfb4c5cddbd1d7c235e1bf4c5cfdc314e3669f163f6fb"
     },
     {
@@ -20800,9 +20828,9 @@
       ],
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:42+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:51:49+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:42+00:00",
       "content_hash": "791fd9f752206615083e689a34ce4e397fa3b6ede92b0e0004c55f1a809cbb60"
     },
     {
@@ -20824,9 +20852,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:14+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:46+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:14+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:46+00:00",
       "content_hash": "073fca9521803be89c9ee42988a660c098b0d6c647b62e98d7fb728e6ed79a7d"
     },
     {
@@ -20849,9 +20877,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:20+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:51+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:51+00:00",
       "content_hash": "adf627b68f9001fddf69f7d0318d1843b09e4a69e1b71b8b7fcbe5f507d89036"
     },
     {
@@ -20873,9 +20901,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:22+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:53+00:00",
       "content_hash": "ba0d836da0403206620de1598c336c745faa9543b2b2cc3a24ccfeda4b48631e"
     },
     {
@@ -20923,7 +20951,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:34:57+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20933,7 +20961,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:03:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:34:57+00:00",
       "content_hash": "a2e16817302f7545bc7c4b82ba790dd745991feb8b2bc2a2f135e00a706dd3bc"
     },
     {
@@ -20955,9 +20983,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:30+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:00+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:30+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:00+00:00",
       "content_hash": "422e948d820a81f9de3a079231b4d6855d1f549d0cdd5380d202920e61d9f30b"
     },
     {
@@ -20979,7 +21007,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:01+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -20989,7 +21017,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:03:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:01+00:00",
       "content_hash": "6204b4261e3e3980cdff5d629b14582e3e8d06fde83066e3d8bdd2d8165e1285"
     },
     {
@@ -21013,9 +21041,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:36+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:07+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:36+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:07+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21039,9 +21067,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:41+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:12+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:41+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:12+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21057,18 +21085,18 @@
       "url": "https://www.rehmracedays.com/kalender/",
       "id": 938,
       "tage": 3,
-      "preis": 250,
+      "preis": 263,
       "leistungen": [
         "Strecke",
         "Kaffee",
         "Bier",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:51+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:22+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21092,9 +21120,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:03:56+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:28+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:03:56+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:28+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21149,9 +21177,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:01+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:33+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:01+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:33+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21175,9 +21203,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:06+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:38+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:06+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:38+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21193,13 +21221,13 @@
       "url": "https://mrr.bike/trip/cartagena-202611-vip",
       "id": 943,
       "tage": 3,
-      "preis": 166,
+      "preis": 196,
       "leistungen": [
         "Strecke"
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:16+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:48+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21209,7 +21237,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:04:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:48+00:00",
       "content_hash": "3965e0a685cd23ed06fcf4d6e107857f936c23687f6e47d9feec9f1c6ed6e931"
     },
     {
@@ -21232,9 +21260,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:21+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:53+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -21256,9 +21284,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:25+00:00",
+      "letzte_pruefung": "2026-09-06T08:35:56+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:25+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:35:56+00:00",
       "content_hash": "8e851a14b0c2907562feee762b07b79a2a266db2647fbeedb5b591e8d83daafe"
     },
     {
@@ -21282,9 +21310,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:30+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:01+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:30+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:01+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21308,9 +21336,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:07+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:07+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21332,9 +21360,9 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:46+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:17+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:46+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:17+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21358,9 +21386,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:51+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:51+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:22+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21384,9 +21412,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:04:56+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:27+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:04:56+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:27+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21410,9 +21438,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:01+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:33+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:01+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:33+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21434,9 +21462,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:42+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:11+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:42+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21460,9 +21488,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:16+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:48+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:48+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21486,9 +21514,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:21+00:00",
+      "letzte_pruefung": "2026-09-06T08:36:55+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:36:55+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21512,9 +21540,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:00+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:00+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21538,9 +21566,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:05+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:05+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -21563,9 +21591,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:35+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:09+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:09+00:00",
       "content_hash": "28aa8da134eb4c5b4153db85148e05102c7e739a4a2020e06f0a22e5335b7dea"
     },
     {
@@ -21589,9 +21617,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:40+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:14+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:40+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:14+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -21613,9 +21641,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:50+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:24+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:50+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:24+00:00",
       "content_hash": "2ca2d62f4f57c436d95e1fdeae0a53f6a322edb72d6d2d72370e2994b611a609"
     },
     {
@@ -21637,9 +21665,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:05:59+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:34+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:05:59+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:34+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21661,9 +21689,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:43+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:43+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21685,7 +21713,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:12+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:47+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21695,7 +21723,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:06:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:47+00:00",
       "content_hash": "9266f4fdd84910c54be246ab8cead8f9a60b2ac4db86795bc212453690879587"
     },
     {
@@ -21717,9 +21745,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:21+00:00",
+      "letzte_pruefung": "2026-09-06T08:37:55+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:37:55+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21768,9 +21796,9 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:01+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:01+00:00",
       "content_hash": "0874031933fa7b8d3f5eac359a1121705a438e64239510ead57d7c0cf34048bf"
     },
     {
@@ -21792,7 +21820,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:02+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21802,7 +21830,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:06:28+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:02+00:00",
       "content_hash": "a6ed679b5f0d1c62444c529ed16241c3f0f52c82aa615e20831195be6cdf0b1e"
     },
     {
@@ -21822,11 +21850,11 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:12+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:12+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -21848,7 +21876,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:42+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:16+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21858,7 +21886,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:06:42+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:16+00:00",
       "content_hash": "7255bf2085e6b731dbd103330dbb6f6bbdb4470c67f7b6dd4072a4bc74600703"
     },
     {
@@ -21874,13 +21902,13 @@
       "url": "https://www.rennteam-eilers.de/shop/",
       "id": 969,
       "tage": 5,
-      "preis": 135,
+      "preis": 125,
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:45+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:19+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21890,7 +21918,7 @@
           "via": "excel_sync"
         }
       ],
-      "letzte_volle_pruefung": "2026-08-30T10:06:45+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:19+00:00",
       "content_hash": "be3faf5e35698c96e2467c10420cfc7f255bd151a999037a5318e9fd10a2bd64"
     },
     {
@@ -21941,9 +21969,9 @@
       "id": 971,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:49+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:49+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:22+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22016,11 +22044,11 @@
         "AUSGEBUCHT"
       ],
       "id": 974,
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:52+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:25+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:52+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:25+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22041,11 +22069,11 @@
         "Mehrtagig"
       ],
       "id": 975,
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:54+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:29+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:54+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:29+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22195,9 +22223,9 @@
       "id": 981,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:06:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:31+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:06:57+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:31+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22220,9 +22248,9 @@
       "id": 982,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:00+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:34+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:00+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:34+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22295,9 +22323,9 @@
       "id": 985,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:03+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:36+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:03+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:36+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22320,9 +22348,9 @@
       "id": 986,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:39+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:39+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22345,9 +22373,9 @@
       "id": 987,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:42+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:42+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22370,9 +22398,9 @@
       "id": 988,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:44+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:11+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:44+00:00",
       "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
     },
     {
@@ -22396,9 +22424,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T10:07:15+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T10:07:15+00:00",
-      "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6"
+      "content_hash": "5326b9d3be32e1946623798e152f3bdef2909e1d3249d9915fd14db5176d4cc6",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -22472,9 +22501,9 @@
       "id": 992,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:18+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:47+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:18+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:47+00:00",
       "content_hash": "aca1df5907acc2cdf45f297b54ab97c6d22abfbbc136236f234126180e7817f8"
     },
     {
@@ -23125,9 +23154,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-23T04:55:49+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-23T04:55:49+00:00",
-      "content_hash": "53488c76c2a64e7c836e9cefb84ccc9deeb7e5c2306ece5e533581ce874f062b"
+      "content_hash": "53488c76c2a64e7c836e9cefb84ccc9deeb7e5c2306ece5e533581ce874f062b",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "MOTORRAID",
@@ -23148,9 +23178,9 @@
       "id": 1027,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:38:58+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-23T04:56:00+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:38:58+00:00",
       "content_hash": "2afb8503407e81682f0c907ddd1cf18e187fcf6abc9ccae475fed7f6bffd1f6e"
     },
     {
@@ -23172,9 +23202,9 @@
       "id": 1028,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:38+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:07+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:38+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:07+00:00",
       "content_hash": "2ca2d62f4f57c436d95e1fdeae0a53f6a322edb72d6d2d72370e2994b611a609"
     },
     {
@@ -23196,9 +23226,9 @@
       "id": 1029,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:49+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:17+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:49+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:17+00:00",
       "content_hash": "2ca2d62f4f57c436d95e1fdeae0a53f6a322edb72d6d2d72370e2994b611a609"
     },
     {
@@ -23213,16 +23243,16 @@
       "level": "Alle",
       "url": "https://mrr.bike/trip/cartagena-202701-vip--open-track",
       "tage": 6,
-      "preis": 153,
+      "preis": 163,
       "leistungen": [
         "Strecke"
       ],
       "id": 1030,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:07:58+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:26+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:07:58+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:26+00:00",
       "content_hash": "aa4b1bf96c1dfd6a6ccc8be366382c15709b6a2ea33ba0f8ebee1b78b87c4dda"
     },
     {
@@ -23502,9 +23532,10 @@
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T10:08:02+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T10:08:02+00:00",
-      "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860"
+      "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Rosso Corsa",
@@ -23518,16 +23549,16 @@
       "level": "Alle",
       "url": "https://www.rossocorsaonline.com/prove?lang=en",
       "tage": 1,
-      "preis": 319,
+      "preis": 329,
       "leistungen": [
         "Strecke"
       ],
       "id": 1043,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:30+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:30+00:00",
       "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860"
     },
     {
@@ -23542,16 +23573,16 @@
       "level": "Alle",
       "url": "https://www.rossocorsaonline.com/prove?lang=en",
       "tage": 1,
-      "preis": 259,
+      "preis": 269,
       "leistungen": [
         "Strecke"
       ],
       "id": 1044,
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "warteliste",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:33+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:33+00:00",
       "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860"
     },
     {
@@ -23566,16 +23597,16 @@
       "level": "Alle",
       "url": "https://www.rossocorsaonline.com/prove?lang=en",
       "tage": 1,
-      "preis": 309,
+      "preis": 319,
       "leistungen": [
         "Strecke"
       ],
       "id": 1045,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:35+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:11+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:35+00:00",
       "content_hash": "50f6c37e8fad6145842604391a8f25c111012233a34539e21ea5eebd8ff5f860"
     },
     {
@@ -23798,9 +23829,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-08-30T10:08:14+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-08-30T10:08:14+00:00",
-      "content_hash": "1e31efb2e7a0df7e3abdea257f2e8f4e401fb24846e52efbfcf556eb9542115a"
+      "content_hash": "1e31efb2e7a0df7e3abdea257f2e8f4e401fb24846e52efbfcf556eb9542115a",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "TRACKDAYS.be",
@@ -23821,9 +23853,9 @@
       "id": 1055,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:17+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:38+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:17+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:38+00:00",
       "content_hash": "60faba47051b2931673c232b3e9433f92256bd2b548a7ef9f4fa548368316075"
     },
     {
@@ -24154,9 +24186,9 @@
       "id": 1069,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:43+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:22+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:43+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24178,9 +24210,9 @@
       "id": 1070,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:27+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:48+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:27+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:48+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24202,9 +24234,9 @@
       "id": 1071,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:32+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:53+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:32+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:53+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24226,9 +24258,9 @@
       "id": 1072,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:37+00:00",
+      "letzte_pruefung": "2026-09-06T08:39:58+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:37+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:39:58+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24250,9 +24282,9 @@
       "id": 1073,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:42+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:03+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:42+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:03+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24274,9 +24306,9 @@
       "id": 1074,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:47+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:08+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:47+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:08+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24291,16 +24323,16 @@
       "level": "Alle",
       "url": "https://www.bike-promotion.com/de/events/overview",
       "tage": 3,
-      "preis": 143,
+      "preis": 153,
       "leistungen": [
         "Strecke"
       ],
       "id": 1075,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:52+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:13+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:52+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:13+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24322,9 +24354,9 @@
       "id": 1076,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:08:56+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:18+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:08:56+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:18+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24346,9 +24378,9 @@
       "id": 1077,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:02+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:24+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:09:02+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:24+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -24512,9 +24544,9 @@
       "id": 1084,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:06+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:28+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:09:06+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:28+00:00",
       "content_hash": "b678b6ddb24103cf44935fbdf8b11ede03442773a6c014e6576e4bca78222178"
     },
     {
@@ -24536,9 +24568,9 @@
       "id": 1085,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:34+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:09:15+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:34+00:00",
       "content_hash": "6c4c2f0a09e4be07f2368aea3b49ddaafff86cd6f7e5292a003190fd88f06c39"
     },
     {
@@ -24785,12 +24817,12 @@
       "preis": 435,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:17+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:37+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:17+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:37+00:00",
       "content_hash": "c93f3d07ddc82e1c703b81a29a82b3c39e6e45d7c825c243294f8c2a6f8d9daf"
     },
     {
@@ -24805,12 +24837,12 @@
       "preis": 170,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:21+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:41+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:41+00:00",
       "content_hash": "5e1f214aed90e00220e89beffdb9460a723ddf5308da3dc2370d05c3251438ff"
     },
     {
@@ -24825,12 +24857,12 @@
       "preis": 660,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:24+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:43+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:24+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:43+00:00",
       "content_hash": "6834641988293d126a58c24ab61af688e938dff0ff2213d5099373b832317bb8"
     },
     {
@@ -24845,12 +24877,12 @@
       "preis": 199,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:47+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:28+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:47+00:00",
       "content_hash": "f9cd144896ae203c5e81002bf1e9d02f72994adc27c4faa9ef4c27cfc9026377"
     },
     {
@@ -24865,12 +24897,12 @@
       "preis": 200,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:40:50+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:40:50+00:00",
       "content_hash": "c3d06f82cd6b01e296825e9ba21e6f8a04f0195dab6504a7860cb97354a225af"
     },
     {
@@ -24904,12 +24936,12 @@
       "preis": 120,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:41+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:00+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:41+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:00+00:00",
       "content_hash": "97749b790258639c7b596f9d87298fa4318f20baca9bab1a983d7e961b9be657"
     },
     {
@@ -24924,12 +24956,12 @@
       "preis": null,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:47+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:06+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:47+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:06+00:00",
       "content_hash": "e04f8ef89447e7bb34902a9250d7385d321ad7a1a09949d43a917e5bbca1163c"
     },
     {
@@ -24961,14 +24993,14 @@
       "url": "https://race-and-fun.regiondo.de/rennstrecken-training-sachsenring",
       "typ": null,
       "preis": 149,
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:52+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:09+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:52+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:09+00:00",
       "content_hash": "dc3923c0bb9e3b10a7311258f8435f2bd6fda5839ea2a53dd10dbdd1a94c3dbd"
     },
     {
@@ -24981,14 +25013,14 @@
       "url": "https://race-and-fun.regiondo.de/rennstrecken-training-lausitzring",
       "typ": null,
       "preis": null,
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:09:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:13+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:09:57+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:13+00:00",
       "content_hash": "dc3923c0bb9e3b10a7311258f8435f2bd6fda5839ea2a53dd10dbdd1a94c3dbd"
     },
     {
@@ -25022,12 +25054,12 @@
       "preis": 89,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:04+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:16+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:10:04+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:16+00:00",
       "content_hash": "d28e00ad73834d1b2c38ddb0fa21e54e8936bed6608cf3ad4e50583c6a90001d"
     },
     {
@@ -25042,12 +25074,12 @@
       "preis": 89,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:09+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:19+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-23T04:58:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:19+00:00",
       "content_hash": "49aa1d54e7fc4fa5de3056e1dd03bd0e2dfdeb79aba3844b598050bbb59a688b"
     },
     {
@@ -25060,14 +25092,14 @@
       "url": "https://www.racecracks.nl/evenement/andalucia",
       "typ": null,
       "preis": 959,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:22+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:10:15+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:22+00:00",
       "content_hash": "76e24aed842c8aac1a4c7514c491f56e1eded2f475020f516abf25b6f060fc2e"
     },
     {
@@ -25101,12 +25133,12 @@
       "preis": 269,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:19+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:26+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:10:19+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:26+00:00",
       "content_hash": "192e0daa6eb69e3357c88d42ded6b427e0beaa5dd3aa45248f353de69ced6546"
     },
     {
@@ -25121,12 +25153,12 @@
       "preis": 90,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:24+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:30+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:10:24+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:30+00:00",
       "content_hash": "6470af6dbcbb8bf9caeb986b50525dcb8d89df22261986ae6a09452282697cc2"
     },
     {
@@ -25160,12 +25192,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:10:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:41:34+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:10:28+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:41:34+00:00",
       "content_hash": "b1cc43c903aea431777a78aaaf111b5fcf13d9a71dd27aeb0b366b5fe793c9da"
     },
     {
@@ -25180,12 +25212,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T04:59:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:42:21+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-16T05:02:36+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:42:21+00:00",
       "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd"
     },
     {
@@ -25200,12 +25232,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T04:59:59+00:00",
+      "letzte_pruefung": "2026-09-06T08:43:09+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-16T05:03:24+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:43:09+00:00",
       "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd"
     },
     {
@@ -25220,12 +25252,12 @@
       "preis": null,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-23T05:00:47+00:00",
+      "letzte_pruefung": "2026-09-06T08:43:57+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-16T05:04:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:43:57+00:00",
       "content_hash": "0e9ff4c5a3cba8a5c259922280ec0b9c29a9f1eefb36e67c478dfbbf364fcdbd"
     },
     {
@@ -25240,12 +25272,12 @@
       "preis": 230,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:14:58+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:03+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:14:58+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:03+00:00",
       "content_hash": "4a2d3fda8b3f38ee5994fb6c7c79af14f2892b9d115256fa92d982edfd7b83a6"
     },
     {
@@ -25258,14 +25290,14 @@
       "url": "https://uwesschievtraining.de/buchung/506/",
       "typ": null,
       "preis": 155,
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:02+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:07+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-08-30T10:15:02+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:07+00:00",
       "content_hash": "4a9bd9f4b3265c8b0662ebe0fe0bb449173a474b4a9aa2fe4a93064aa4b2ac94"
     },
     {
@@ -25312,9 +25344,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:09+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:14+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:15:09+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:14+00:00",
       "content_hash": "410e93bf5d46a01a25156da6d16fae64ebcb5f3c101119bb1ea7fb6649d51a09"
     },
     {
@@ -25335,11 +25367,11 @@
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:13+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:17+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:15:13+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:17+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -25362,9 +25394,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:18+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:22+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:15:18+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:22+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -25387,9 +25419,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:23+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:27+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:15:23+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:27+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -25412,9 +25444,9 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-08-30T10:15:27+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:32+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-08-30T10:15:27+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:32+00:00",
       "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
     },
     {
@@ -25458,8 +25490,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:15:31+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:15:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:35+00:00",
       "content_hash": "ed5b5f327236407d1fff996f3ebf0488341495640b414847025e49351d9bb26e"
     },
     {
@@ -25480,8 +25512,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:15:34+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:15:34+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:39+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:39+00:00",
       "content_hash": "569a96581f91433cff47a5aab43a0c573211c00eb2b306a1261b57da77486679"
     },
     {
@@ -25502,8 +25534,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:15:39+00:00",
-      "letzte_volle_pruefung": "2026-08-23T05:01:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:45+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:45+00:00",
       "content_hash": "8968afaba1ef9c022c1ad918f9e50f05e707b01376d3149bb2d019fad95b174c"
     },
     {
@@ -25524,8 +25556,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:15:48+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:15:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:44:55+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:44:55+00:00",
       "content_hash": "657206d2cf454105020d0fd7e5dcb6cf82e7b3037cbb514aefca24b7c650dc27"
     },
     {
@@ -25546,8 +25578,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:15:57+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:15:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:04+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:04+00:00",
       "content_hash": "657206d2cf454105020d0fd7e5dcb6cf82e7b3037cbb514aefca24b7c650dc27"
     },
     {
@@ -25568,8 +25600,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:05+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:12+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:12+00:00",
       "content_hash": "657206d2cf454105020d0fd7e5dcb6cf82e7b3037cbb514aefca24b7c650dc27"
     },
     {
@@ -25579,8 +25611,8 @@
       "ende": "2027-01-20",
       "tage": 3,
       "land": "Spanien",
-      "preis": null,
-      "verfuegbarkeit": "unbekannt",
+      "preis": 210,
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/kalender/",
@@ -25590,8 +25622,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:15+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:21+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:21+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25601,8 +25633,8 @@
       "ende": "2027-01-24",
       "tage": 3,
       "land": "Spanien",
-      "preis": null,
-      "verfuegbarkeit": "unbekannt",
+      "preis": 263,
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/kalender/",
@@ -25612,8 +25644,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:26+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:29+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:29+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25634,8 +25666,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:36+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:36+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:39+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:39+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25656,8 +25688,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:47+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:47+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:48+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:48+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25678,8 +25710,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:16:57+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:16:57+00:00",
+      "letzte_pruefung": "2026-09-06T08:45:58+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:45:58+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25700,8 +25732,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:08+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:09+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:09+00:00",
       "content_hash": "ff2c664d392e9fa2c942a1d7fb91db7d812eaedf5f6fb63032093375a69e0afc"
     },
     {
@@ -25711,7 +25743,7 @@
       "ende": "2026-09-19",
       "tage": 1,
       "land": "Frankreich",
-      "preis": 272,
+      "preis": 280,
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "veranstalter": "Speer Racing",
@@ -25722,8 +25754,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:11+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:11+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:13+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:13+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -25744,8 +25776,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:15+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:15+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:17+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:17+00:00",
       "content_hash": "7d253bb15a13a6d46d0011f4f075cf0971158aac3d3280cf64bcdd7c34e2520d"
     },
     {
@@ -25812,8 +25844,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:19+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:19+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:23+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:23+00:00",
       "content_hash": "3eece779e6d0c0b53626619823be0df25dde0cc3a7c1af142960dffb3bfd2459"
     },
     {
@@ -25834,8 +25866,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:22+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:27+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:27+00:00",
       "content_hash": "2518b0acf37b50990c97d13bf2139958ca115818bc573d46908b4d9f3dd77059"
     },
     {
@@ -25856,8 +25888,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:26+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:30+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:30+00:00",
       "content_hash": "f816209726d2a943f43f0a95a5545f1636c7523732d1651e4e34b65ab4fe927e"
     },
     {
@@ -25901,8 +25933,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:30+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:30+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:35+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:35+00:00",
       "content_hash": "4a2d3fda8b3f38ee5994fb6c7c79af14f2892b9d115256fa92d982edfd7b83a6"
     },
     {
@@ -25944,8 +25976,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:41+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:41+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:45+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:45+00:00",
       "content_hash": "450d84195527fc5faf9ec4a572f670bd3fd749d4333c2686e7d45474d0910edd"
     },
     {
@@ -25966,8 +25998,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:53+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:53+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:53+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:53+00:00",
       "content_hash": "450d84195527fc5faf9ec4a572f670bd3fd749d4333c2686e7d45474d0910edd"
     },
     {
@@ -26022,7 +26054,7 @@
       "tage": 3,
       "land": "Spanien",
       "preis": null,
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
@@ -26032,8 +26064,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:17:59+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:17:59+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:56+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:56+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26054,8 +26086,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:02+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:02+00:00",
+      "letzte_pruefung": "2026-09-06T08:46:59+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:46:59+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26076,8 +26108,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:05+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:05+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:02+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:02+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26088,7 +26120,7 @@
       "tage": 3,
       "land": "Spanien",
       "preis": null,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
@@ -26098,8 +26130,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:07+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:07+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:05+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26120,8 +26152,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:10+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:10+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:08+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:08+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26132,7 +26164,7 @@
       "tage": 3,
       "land": "Spanien",
       "preis": null,
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
@@ -26142,8 +26174,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:13+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:13+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:11+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:11+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26164,8 +26196,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:16+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:16+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:13+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:13+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26186,8 +26218,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:19+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:19+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:16+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:16+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26208,8 +26240,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:22+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:22+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:20+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26230,8 +26262,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:26+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:26+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:22+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:22+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26252,8 +26284,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:28+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:28+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:26+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:26+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26274,8 +26306,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:31+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:31+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:29+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:29+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26286,7 +26318,7 @@
       "tage": 4,
       "land": "Spanien",
       "preis": null,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
@@ -26296,8 +26328,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:34+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:34+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:31+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:31+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26318,8 +26350,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:37+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:37+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:34+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:34+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26330,7 +26362,7 @@
       "tage": 3,
       "land": "Spanien",
       "preis": null,
-      "verfuegbarkeit": "wenige",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "veranstalter": "fast-travel.ch",
       "url": "https://www.fast-travel.ch/coaching",
@@ -26340,8 +26372,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:40+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:40+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:37+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:37+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26362,8 +26394,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:43+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:43+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:40+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:40+00:00",
       "content_hash": "f79b2f1e4b8a4940708cd16c120f94d40eeb0c7ce1404de476954da39166fb56"
     },
     {
@@ -26384,8 +26416,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:48+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:48+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:45+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:45+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26406,8 +26438,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:53+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:53+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:50+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:50+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26428,8 +26460,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:18:58+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:18:58+00:00",
+      "letzte_pruefung": "2026-09-06T08:47:55+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:47:55+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26450,8 +26482,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:03+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:03+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:00+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:00+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26472,8 +26504,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:08+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:08+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:05+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:05+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26494,8 +26526,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:13+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:13+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:10+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:10+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26516,8 +26548,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:18+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:18+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:15+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:15+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26538,8 +26570,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:23+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:23+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:20+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:20+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26560,8 +26592,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:27+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:27+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:25+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:25+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26582,8 +26614,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:32+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:32+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:30+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:30+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26604,8 +26636,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:37+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:37+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:34+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:34+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26626,8 +26658,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:42+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:42+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:43+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:43+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     },
     {
@@ -26648,8 +26680,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-08-30T10:19:46+00:00",
-      "letzte_volle_pruefung": "2026-08-30T10:19:46+00:00",
+      "letzte_pruefung": "2026-09-06T08:48:47+00:00",
+      "letzte_volle_pruefung": "2026-09-06T08:48:47+00:00",
       "content_hash": "c18fc17c994f6e8440f47fb74ebb33b90f83e3a4a3204f7f50862d9990e3ce09"
     }
   ],
