@@ -19193,7 +19193,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "ausgebucht",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:29:49+00:00",
       "archiviert": false,
@@ -19291,8 +19291,8 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
-      "freie_plaetze": 2,
+      "verfuegbarkeit": "wenige",
+      "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:30:04+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-09-06T08:30:04+00:00",
