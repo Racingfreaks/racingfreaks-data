@@ -18516,7 +18516,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:27:39+00:00",
       "archiviert": false,
@@ -18624,7 +18624,7 @@
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:27:56+00:00",
       "archiviert": false,
@@ -19497,7 +19497,7 @@
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:30:23+00:00",
       "archiviert": false,
@@ -19685,9 +19685,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:30:51+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:30:51+00:00",
-      "content_hash": "3cc0a0037d20b34e25bed68f67de4d916b3679e16d828348777d9a4412cf86f2"
+      "content_hash": "3cc0a0037d20b34e25bed68f67de4d916b3679e16d828348777d9a4412cf86f2",
+      "archiv_grund": "Nicht mehr im CRT-Kalender; Event-URL zeigt Mai-Termin (15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -20238,7 +20239,7 @@
         "Strecke",
         "Transponder"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:33:12+00:00",
       "archiviert": false,
@@ -20815,7 +20816,7 @@
       "veranstalter": "actionbike",
       "strecke": "Rijeka",
       "land": "Kroatien",
-      "start": "2026-10-22",
+      "start": "2026-10-23",
       "ende": "2026-10-25",
       "typ": "Rennstreckentraining",
       "db": "k.A.",
@@ -20823,7 +20824,7 @@
       "level": "Alle",
       "url": "https://www.actionbike.de/de/veranstaltungen/termine/termin-09-rijeka",
       "id": 927,
-      "tage": 4,
+      "tage": 3,
       "preis": 130,
       "leistungen": [
         "Strecke"
@@ -20951,7 +20952,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:34:57+00:00",
       "archiviert": false,
@@ -27316,6 +27317,25 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
+      "typ": "Rennstreckentraining",
+      "level": "Alle",
+      "gruppen": null,
+      "leistungen": [],
+      "db": null,
+      "archiviert": false
+    },
+    {
+      "id": 1233,
+      "veranstalter": "GH-MOTO Racedays",
+      "strecke": "Most",
+      "land": "Tschechien",
+      "start": "2026-09-25",
+      "ende": "2026-09-27",
+      "tage": 3,
+      "preis": null,
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "url": "https://www.gh-moto.com/events.html",
       "typ": "Rennstreckentraining",
       "level": "Alle",
       "gruppen": null,
