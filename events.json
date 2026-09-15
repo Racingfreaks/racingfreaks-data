@@ -19060,9 +19060,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:29:33+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:29:33+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "PPO TRACK DAYS",
@@ -19661,9 +19662,10 @@
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:30:42+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:30:42+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Dreier-Racing",
@@ -20113,9 +20115,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:32:46+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:32:46+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
@@ -20621,9 +20624,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:34:25+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:34:25+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21072,9 +21076,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:35:12+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:35:12+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Rehm race days",
@@ -21183,9 +21188,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:35:33+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:35:33+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21317,9 +21323,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:36:01+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:36:01+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21421,9 +21428,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:36:27+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:36:27+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21552,9 +21560,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:37:00+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:37:00+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21630,9 +21639,10 @@
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-06T08:37:14+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-09-06T08:37:14+00:00",
-      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b"
+      "content_hash": "f1276c574c3f0b238dfba15fde83dcb969592a21825c6ecc40ddd49cc230863b",
+      "archiv_grund": "Nicht im Hafeneger-Buchungssystem vorhanden (direkt per Buchungssystem-Filter verifiziert am 15.09.2026)"
     },
     {
       "veranstalter": "MOTORRAID",
