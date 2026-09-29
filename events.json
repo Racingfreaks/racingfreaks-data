@@ -20257,7 +20257,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-27T09:54:33+00:00",
       "archiviert": false,
@@ -20395,7 +20395,7 @@
       "leistungen": [
         "Strecke"
       ],
-      "verfuegbarkeit": "unbekannt",
+      "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-09-27T09:54:57+00:00",
       "archiviert": false,
@@ -25815,10 +25815,11 @@
       "gruppen": null,
       "leistungen": [],
       "db": null,
-      "archiviert": false,
+      "archiviert": true,
       "letzte_pruefung": "2026-09-27T10:04:35+00:00",
       "letzte_volle_pruefung": "2026-09-27T10:04:35+00:00",
-      "content_hash": "9702dc12639e70df6e0ff5cd9041d3f2c9682f3920115a1ceeb067ed99f4aea4"
+      "content_hash": "9702dc12639e70df6e0ff5cd9041d3f2c9682f3920115a1ceeb067ed99f4aea4",
+      "archiv_grund": "verschoben auf 03.-05.04.2027 (Nachfolger id 1245)"
     },
     {
       "id": 1147,
@@ -27617,7 +27618,7 @@
       "start": "2027-01-04",
       "ende": "2027-01-10",
       "tage": 7,
-      "preis": 1339,
+      "preis": 191,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "url": "https://www.bike-promotion.com/de/events/overview",
