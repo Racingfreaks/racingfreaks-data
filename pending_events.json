@@ -1,6 +1,6 @@
 {
-  "discovered_at": "2026-10-18T09:02:04+00:00",
-  "count": 651,
+  "discovered_at": "2026-10-25T09:20:16+00:00",
+  "count": 680,
   "events": [
     {
       "veranstalter": "CR Moto",
@@ -14,7 +14,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/brno-circuit",
-      "vorschlag_strecke": "Brno Circuit",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -23,7 +23,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/sachsenring",
-      "vorschlag_strecke": "Sachsenring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -32,7 +32,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/red-bull-ring",
-      "vorschlag_strecke": "Red Bull Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -41,7 +41,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/misano-world-circuit",
-      "vorschlag_strecke": "Misano World Circuit",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -50,7 +50,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/mugello",
-      "vorschlag_strecke": "Mugello",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -59,7 +59,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/jerez",
-      "vorschlag_strecke": "Jerez",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -68,7 +68,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/aragon",
-      "vorschlag_strecke": "Aragon",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -77,16 +77,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/autodrom-most",
-      "vorschlag_strecke": "Autodrom Most",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://crmoto.eu/en"
-    },
-    {
-      "veranstalter": "CR Moto",
-      "url": "https://crmoto.eu/en/event/balaton-park-circuit",
-      "vorschlag_strecke": "Balaton Park Circuit",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -95,7 +86,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/slovakia-ring",
-      "vorschlag_strecke": "Slovakia Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -104,7 +95,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/pannonia-ring",
-      "vorschlag_strecke": "Pannonia Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -113,7 +104,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/silesia-ring",
-      "vorschlag_strecke": "Silesia Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -122,16 +113,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/tor-poznan",
-      "vorschlag_strecke": "Tor Poznan",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://crmoto.eu/en"
-    },
-    {
-      "veranstalter": "CR Moto",
-      "url": "https://crmoto.eu/en/event/lausitzring",
-      "vorschlag_strecke": "Lausitzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -140,7 +122,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/oschersleben",
-      "vorschlag_strecke": "Oschersleben",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -149,7 +131,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/grobnik-circuit",
-      "vorschlag_strecke": "Grobnik Circuit",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -158,7 +140,7 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/hungaro-ring",
-      "vorschlag_strecke": "Hungaro Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -167,7 +149,25 @@
     {
       "veranstalter": "CR Moto",
       "url": "https://crmoto.eu/en/event/anneu-du-rhin",
-      "vorschlag_strecke": "Anneau du Rhin",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crmoto.eu/en"
+    },
+    {
+      "veranstalter": "CR Moto",
+      "url": "https://crmoto.eu/en/event/322",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crmoto.eu/en"
+    },
+    {
+      "veranstalter": "CR Moto",
+      "url": "https://crmoto.eu/en/event/325",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -176,33 +176,6 @@
     {
       "veranstalter": "Speer Racing",
       "url": "https://www.speer-racing.de/en/all-events/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/702/step/1?cHash=27241c57132ecadd1d680e5566440b4a",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/703/step/1?cHash=7e6afca70af91f687db16783f502fcbe",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/783/step/1?cHash=67c1373045739d0b69f1c40c438e134e",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -220,7 +193,25 @@
     },
     {
       "veranstalter": "Speer Racing",
+      "url": "https://www.speer-racing.de/booking/event/783/step/1?cHash=67c1373045739d0b69f1c40c438e134e",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
+    },
+    {
+      "veranstalter": "Speer Racing",
       "url": "https://www.speer-racing.de/booking/event/782/step/1?cHash=12ef27b64c51659b1d86f8e46929e3e9",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
+    },
+    {
+      "veranstalter": "Speer Racing",
+      "url": "https://www.speer-racing.de/booking/event/775/step/1?cHash=c6e80f659de24f04d5478f91eff9bbce",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -239,15 +230,6 @@
     {
       "veranstalter": "Speer Racing",
       "url": "https://www.speer-racing.de/booking/event/778/step/1?cHash=37de15302d485da1464e221969345628",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.speer-racing.de/alle-termine/"
-    },
-    {
-      "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/775/step/1?cHash=c6e80f659de24f04d5478f91eff9bbce",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -310,7 +292,7 @@
     },
     {
       "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/799/step/1?cHash=bdf2e7e698a9cb4537096c11f9b50490",
+      "url": "https://www.speer-racing.de/booking/event/800/step/1?cHash=bda72ab9ec27d876d91fdf2fdd132c26",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -328,7 +310,7 @@
     },
     {
       "veranstalter": "Speer Racing",
-      "url": "https://www.speer-racing.de/booking/event/800/step/1?cHash=bda72ab9ec27d876d91fdf2fdd132c26",
+      "url": "https://www.speer-racing.de/booking/event/799/step/1?cHash=bdf2e7e698a9cb4537096c11f9b50490",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -635,27 +617,27 @@
     {
       "veranstalter": "Promo Racing",
       "url": "https://www.promoracing.it/en/calendar/bike.651/motorcycle-trackday-special-price",
-      "vorschlag_strecke": "Misano World Circuit",
-      "vorschlag_anfang": "2024-10-26",
-      "vorschlag_ende": "2024-10-26",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.promoracing.it/en/calendar/bike"
     },
     {
       "veranstalter": "Promo Racing",
       "url": "https://www.promoracing.it/en/calendar/bike.690/motorcycle-trackday",
-      "vorschlag_strecke": "Autódromo Internacional do Algarve - Portimao",
-      "vorschlag_anfang": "2025-02-08",
-      "vorschlag_ende": "2025-02-08",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.promoracing.it/en/calendar/bike"
     },
     {
       "veranstalter": "Promo Racing",
       "url": "https://www.promoracing.it/en/calendar/bike.691/motorcycle-trackday-",
-      "vorschlag_strecke": "Circuito di Jerez",
-      "vorschlag_anfang": "2025-03-19",
-      "vorschlag_ende": "2025-03-19",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.promoracing.it/en/calendar/bike"
     },
@@ -725,7 +707,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/3/0/0/0",
-      "vorschlag_strecke": "Almeria",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -734,7 +716,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/52/0/0/0",
-      "vorschlag_strecke": "Andalucia",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -743,7 +725,16 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/23/0/0/0",
-      "vorschlag_strecke": "Aragon",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
+    },
+    {
+      "veranstalter": "Bike Promotion",
+      "url": "https://www.bike-promotion.com/en/events/overview/index/date/7/0/0/0",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -752,7 +743,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/8/0/0/0",
-      "vorschlag_strecke": "Cartagena",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -761,7 +752,16 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/6/0/0/0",
-      "vorschlag_strecke": "Circuit de Catalunya",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
+    },
+    {
+      "veranstalter": "Bike Promotion",
+      "url": "https://www.bike-promotion.com/en/events/overview/index/date/11/0/0/0",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -770,7 +770,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/79/0/0/0",
-      "vorschlag_strecke": "Hoiersdorf",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -779,7 +779,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/16/0/0/0",
-      "vorschlag_strecke": "Jerez",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -788,7 +788,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/74/0/0/0",
-      "vorschlag_strecke": "Barcelona / Aragon",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -797,7 +797,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/58/0/0/0",
-      "vorschlag_strecke": "Jerez / Portimao",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -806,7 +806,16 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/80/0/0/0",
-      "vorschlag_strecke": "Mojacar",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
+    },
+    {
+      "veranstalter": "Bike Promotion",
+      "url": "https://www.bike-promotion.com/en/events/overview/index/date/22/0/0/0",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -815,7 +824,16 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/30/0/0/0",
-      "vorschlag_strecke": "Portimao",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.bike-promotion.com/en/events/overview/"
+    },
+    {
+      "veranstalter": "Bike Promotion",
+      "url": "https://www.bike-promotion.com/en/events/overview/index/date/32/0/0/0",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -824,7 +842,7 @@
     {
       "veranstalter": "Bike Promotion",
       "url": "https://www.bike-promotion.com/en/events/overview/index/date/37/0/0/0",
-      "vorschlag_strecke": "Valencia",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -842,8 +860,8 @@
     {
       "veranstalter": "Hafeneger Renntrainings",
       "url": "https://hafeneger-renntrainings.de/spanien-events-2026/",
-      "vorschlag_strecke": "Almeria, Cartagena",
-      "vorschlag_anfang": "2026-01-01",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
@@ -854,96 +872,6 @@
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Daytona Kartbahn in Essen",
-      "vorschlag_anfang": "2027-01-09",
-      "vorschlag_ende": "2027-01-09",
-      "vorschlag_preis": 399,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2027-04-06",
-      "vorschlag_ende": "2027-04-08",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": "2027-04-30",
-      "vorschlag_ende": "2027-05-02",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim IDM-Variante",
-      "vorschlag_anfang": "2027-06-17",
-      "vorschlag_ende": "2027-06-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Slovakiaring",
-      "vorschlag_anfang": "2027-07-16",
-      "vorschlag_ende": "2027-07-18",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": "2027-07-23",
-      "vorschlag_ende": "2027-07-25",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim Rookie Schule",
-      "vorschlag_anfang": "2027-08-02",
-      "vorschlag_ende": "2027-08-03",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Hockenheim IDM-Variante",
-      "vorschlag_anfang": "2027-08-02",
-      "vorschlag_ende": "2027-08-03",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": "2027-09-17",
-      "vorschlag_ende": "2027-09-19",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
-    },
-    {
-      "veranstalter": "Hafeneger Renntrainings",
-      "url": "https://buchungssystem.hafeneger-renntrainings.de/termine/",
-      "vorschlag_strecke": "Rijeka",
-      "vorschlag_anfang": "2027-10-07",
-      "vorschlag_ende": "2027-10-10",
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://buchungssystem.hafeneger-renntrainings.de/termine/"
     },
@@ -959,7 +887,7 @@
     {
       "veranstalter": "Bikers Days",
       "url": "https://bikersdays.com/en/events/jerez/",
-      "vorschlag_strecke": "Jerez",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1013,18 +941,18 @@
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/08/84_Timetable_Tazio_Nuvolari_04.-06.09.2026.pdf",
-      "vorschlag_strecke": "Tazio Nuvolari",
-      "vorschlag_anfang": "2026-09-04",
-      "vorschlag_ende": "2026-09-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/69_Timetable_Rijeka_11.-13.09.2026.pdf",
-      "vorschlag_strecke": "Rijeka",
-      "vorschlag_anfang": "2026-09-11",
-      "vorschlag_ende": "2026-09-13",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
@@ -1040,27 +968,27 @@
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/85_Timetable_Most_18.-20.09.2026.pdf",
-      "vorschlag_strecke": "Most",
-      "vorschlag_anfang": "2026-09-18",
-      "vorschlag_ende": "2026-09-20",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/86_Timetable_Ledenon_02.-04.10.2026.pdf",
-      "vorschlag_strecke": "Ledenon",
-      "vorschlag_anfang": "2026-10-02",
-      "vorschlag_ende": "2026-10-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/87_Timetable_Valencia_07.-09.10.2026.pdf",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2026-10-07",
-      "vorschlag_ende": "2026-10-09",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
@@ -1076,9 +1004,27 @@
     {
       "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/71_Timetable_Aragon_04.-06.11.2026.pdf",
-      "vorschlag_strecke": "Aragon",
-      "vorschlag_anfang": "2026-11-04",
-      "vorschlag_ende": "2026-11-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/10/66_Timetable_Jerez_18.-20.11.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/07/88_Timetable_Barcelona_26.-27.11.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
@@ -1093,65 +1039,83 @@
     },
     {
       "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/89_Timetable_Cartagena_22.-25.12.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/90_Timetable_Cartagena_27.-31.12.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/91_Timetable_Valencia_27.-31.12.2026.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/92_Timetable_Cartagena_02.-05.01.2027.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/100_Timetable_Monteblanco_18.01.-20.0.2027.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/101_Timetable_Jerez_22.-24.01.2027.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/108_Timetable_Cartagena_25.-27.02.2027.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
+      "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/105_Timetable_Rijeka_26.-28.03.2027.pdf",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
+    },
+    {
+      "veranstalter": "Rehm race days",
       "url": "https://www.rehmracedays.com/wp-content/uploads/2026/09/109_Timetable_Portimao_03.-05.04.2027.pdf",
-      "vorschlag_strecke": "Portimao",
-      "vorschlag_anfang": "2027-04-03",
-      "vorschlag_ende": "2027-04-05",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Tazio Nuvolari",
-      "vorschlag_anfang": "2026-09-04",
-      "vorschlag_ende": "2026-09-06",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Rijeka II",
-      "vorschlag_anfang": "2026-09-11",
-      "vorschlag_ende": "2026-09-13",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Most",
-      "vorschlag_anfang": "2026-09-18",
-      "vorschlag_ende": "2026-09-20",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Ledenon",
-      "vorschlag_anfang": "2026-10-02",
-      "vorschlag_ende": "2026-10-04",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Valencia I",
-      "vorschlag_anfang": "2026-10-07",
-      "vorschlag_ende": "2026-10-09",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
-    },
-    {
-      "veranstalter": "Rehm race days",
-      "url": "https://www.rehmracedays.com/kalender/",
-      "vorschlag_strecke": "Portimao I",
-      "vorschlag_anfang": "2027-04-03",
-      "vorschlag_ende": "2027-04-05",
-      "vorschlag_preis": 890,
       "quelle_uebersicht": "https://www.rehmracedays.com/kalender/"
     },
     {
@@ -1273,6 +1237,15 @@
     },
     {
       "veranstalter": "CRT",
+      "url": "https://crtholland.nl/de/events/282/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
+    },
+    {
+      "veranstalter": "CRT",
       "url": "https://crtholland.nl/de/events/268/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -1362,19 +1335,28 @@
       "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
     },
     {
+      "veranstalter": "CRT",
+      "url": "https://crtholland.nl/de/events/283/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://crtholland.nl/de/kalender/"
+    },
+    {
       "veranstalter": "PPO TRACK DAYS",
       "url": "https://ppotrackdays.com/moto_event/circuit-de-motorland-aragon-12-13-14-novembre-2026/",
-      "vorschlag_strecke": "Motorland Aragon",
-      "vorschlag_anfang": "2026-11-12",
-      "vorschlag_ende": "2026-11-14",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://ppotrackdays.com/"
     },
     {
       "veranstalter": "PPO TRACK DAYS",
       "url": "https://ppotrackdays.com/moto_event/vip-event-circuit-de-barcelone-novembre-2026-2/",
-      "vorschlag_strecke": "Circuit de Barcelona",
-      "vorschlag_anfang": "2026-11-01",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://ppotrackdays.com/"
@@ -1382,9 +1364,9 @@
     {
       "veranstalter": "PPO TRACK DAYS",
       "url": "https://ppotrackdays.com/moto_event/valencia-ricardo-tormo-04-06-december-2026/",
-      "vorschlag_strecke": "Valencia Ricardo Tormo",
-      "vorschlag_anfang": "2026-12-04",
-      "vorschlag_ende": "2026-12-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://ppotrackdays.com/"
     },
@@ -1400,45 +1382,45 @@
     {
       "veranstalter": "Heppler Racedays",
       "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-i-2027",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2027-04-02",
-      "vorschlag_ende": "2027-04-02",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
     {
       "veranstalter": "Heppler Racedays",
       "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-ii-2027",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2027-05-17",
-      "vorschlag_ende": "2027-05-18",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
     {
       "veranstalter": "Heppler Racedays",
       "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-iii-2-9km",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2027-06-03",
-      "vorschlag_ende": "2027-06-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
     {
       "veranstalter": "Heppler Racedays",
       "url": "http://www.heppler-racedays.de/products/anneau-du-rhin-iiii-2027",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2027-07-29",
-      "vorschlag_ende": "2027-07-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
     {
       "veranstalter": "Heppler Racedays",
       "url": "http://www.heppler-racedays.de/products/rijeka-automotodrom-grobnik",
-      "vorschlag_strecke": "Rijeka Automotodrom Grobnik",
-      "vorschlag_anfang": "2027-08-06",
-      "vorschlag_ende": "2027-08-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "http://www.heppler-racedays.de"
     },
@@ -1552,6 +1534,33 @@
     },
     {
       "veranstalter": "MotoTeam",
+      "url": "https://www.mototeam.eu/produkt-kategorie/fahrzeugverkauf/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.mototeam.eu/shop/"
+    },
+    {
+      "veranstalter": "MotoTeam",
+      "url": "https://www.mototeam.eu/produkt/hero-xpulse-200-4v/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.mototeam.eu/shop/"
+    },
+    {
+      "veranstalter": "MotoTeam",
+      "url": "https://www.mototeam.eu/produkt/hero-xpulse-200-4v-pro/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.mototeam.eu/shop/"
+    },
+    {
+      "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/helite-airbag/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -1562,16 +1571,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/chambley-xxl-events/",
-      "vorschlag_strecke": "Chambley",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.mototeam.eu/shop/"
-    },
-    {
-      "veranstalter": "MotoTeam",
-      "url": "https://www.mototeam.eu/produkt/chambley-freifahrer-events/",
-      "vorschlag_strecke": "Chambley",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1589,7 +1589,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/schnupper-kurventraining-oberbergischer-kartring-bundle/",
-      "vorschlag_strecke": "Oberbergischer Kartring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1598,7 +1598,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/kurventraining-oberbergischer-kartring/",
-      "vorschlag_strecke": "Oberbergischer Kartring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1607,7 +1607,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/kurvenschule-saarland-level-grundkurs/",
-      "vorschlag_strecke": "Saarland",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1616,7 +1616,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/hanging-off-und-knieschleifer-saarland/",
-      "vorschlag_strecke": "Saarland",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1652,7 +1652,7 @@
     {
       "veranstalter": "MotoTeam",
       "url": "https://www.mototeam.eu/produkt/offroad-tour-in-lothringen/",
-      "vorschlag_strecke": "Lothringen",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1722,24 +1722,6 @@
       "quelle_uebersicht": "https://www.rossocorsaonline.com/prove?lang=en"
     },
     {
-      "veranstalter": "Rosso Corsa",
-      "url": "https://www.rossocorsaonline.com/prove?lang=en",
-      "vorschlag_strecke": "Valencia",
-      "vorschlag_anfang": "2027-02-05",
-      "vorschlag_ende": "2027-02-07",
-      "vorschlag_preis": 749,
-      "quelle_uebersicht": "https://www.rossocorsaonline.com/prove?lang=en"
-    },
-    {
-      "veranstalter": "Rosso Corsa",
-      "url": "https://www.rossocorsaonline.com/prove?lang=en",
-      "vorschlag_strecke": "Jerez",
-      "vorschlag_anfang": "2027-03-05",
-      "vorschlag_ende": "2027-03-07",
-      "vorschlag_preis": 1,
-      "quelle_uebersicht": "https://www.rossocorsaonline.com/prove?lang=en"
-    },
-    {
       "veranstalter": "Black Forest Speed Club",
       "url": "https://black-forest-speed-club.de/hp2020/motorrad-trainings/",
       "vorschlag_strecke": null,
@@ -1769,9 +1751,9 @@
     {
       "veranstalter": "Black Forest Speed Club",
       "url": "https://black-forest-speed-club.de/hp2020/produkt/indoor-motorrad-training-bad-mergentheim-27-2-2027-samstag/",
-      "vorschlag_strecke": "Bad Mergentheim",
-      "vorschlag_anfang": "2027-02-27",
-      "vorschlag_ende": "2027-02-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://black-forest-speed-club.de/eventkalender/"
     },
@@ -1814,7 +1796,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/circuito-de-cartagena/",
-      "vorschlag_strecke": "Circuito de Cartagena",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1823,7 +1805,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/hockenheimring/",
-      "vorschlag_strecke": "Hockenheimring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1832,7 +1814,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/lausitzring/",
-      "vorschlag_strecke": "Lausitzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1841,7 +1823,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/autodrom-most/",
-      "vorschlag_strecke": "Autodrom Most",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1850,7 +1832,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/motorsportarena-oschersleben/",
-      "vorschlag_strecke": "Motorsportarena Oschersleben",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1859,7 +1841,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/red-bull-ring/",
-      "vorschlag_strecke": "Red Bull Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1868,7 +1850,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/rijeka/",
-      "vorschlag_strecke": "Rijeka",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1877,7 +1859,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/sachsenring/",
-      "vorschlag_strecke": "Sachsenring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1886,7 +1868,7 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/rennstrecken/spreewaldring/",
-      "vorschlag_strecke": "Spreewaldring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1904,27 +1886,45 @@
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/produkt/grossglockner-sportwagen-tour-24-27-september-2026/",
-      "vorschlag_strecke": "Großglockner",
-      "vorschlag_anfang": "2026-09-24",
-      "vorschlag_ende": "2026-09-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://moto-racingschool.com/shop/"
+    },
+    {
+      "veranstalter": "MRS MotoRacingSchool",
+      "url": "https://moto-racingschool.com/produkt/cartagena-29-30-oktober-2026/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://moto-racingschool.com/shop/"
     },
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/produkt/monteblanco-02-04-januar-2027/",
-      "vorschlag_strecke": "Monteblanco",
-      "vorschlag_anfang": "2027-01-02",
-      "vorschlag_ende": "2027-01-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://moto-racingschool.com/shop/"
     },
     {
       "veranstalter": "MRS MotoRacingSchool",
       "url": "https://moto-racingschool.com/produkt/almeria-07-10-januar-2027/",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2027-01-07",
-      "vorschlag_ende": "2027-01-10",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://moto-racingschool.com/shop/"
+    },
+    {
+      "veranstalter": "MRS MotoRacingSchool",
+      "url": "https://moto-racingschool.com/produkt/alcarras-15-18-maerz-2027/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://moto-racingschool.com/shop/"
     },
@@ -1975,17 +1975,8 @@
     },
     {
       "veranstalter": "actionbike",
-      "url": "https://www.actionbike.de/de/veranstaltungen/termine/termin-10-rijeka",
-      "vorschlag_strecke": "Rijeka",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.actionbike.de/de/veranstaltungen/termine"
-    },
-    {
-      "veranstalter": "actionbike",
       "url": "https://www.actionbike.de/de/veranstaltungen/termine/termin-01-andalucia",
-      "vorschlag_strecke": "Andalucía",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -1993,8 +1984,8 @@
     },
     {
       "veranstalter": "actionbike",
-      "url": "https://www.actionbike.de/de/veranstaltungen/termine/termin-02-andalucia-inkl-motorradtransport",
-      "vorschlag_strecke": "Andalucía",
+      "url": "https://www.actionbike.de/de/veranstaltungen/termine/termin-02-andalucia-inkl-transport",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2039,7 +2030,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/anneau-du-rhin-2027/",
-      "vorschlag_strecke": "Anneau du Rhin",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2048,7 +2039,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/mircecourt-moto-rider-academy/",
-      "vorschlag_strecke": "Mircecourt",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2057,7 +2048,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/mircecourt-moto-advanced/",
-      "vorschlag_strecke": "Mircecourt",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2066,7 +2057,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/mircecourt-moto-pfingsten/",
-      "vorschlag_strecke": "Mircecourt",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2075,7 +2066,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/mircecourt-moto-vip/",
-      "vorschlag_strecke": "Mircecourt",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2084,7 +2075,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/dijon-2027/",
-      "vorschlag_strecke": "Dijon",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2093,7 +2084,7 @@
     {
       "veranstalter": "get faster with caremotion",
       "url": "https://www.getfaster.ch/veranstaltungen/termine/flattrack/",
-      "vorschlag_strecke": "Flattrack",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2102,7 +2093,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/alcarras/",
-      "vorschlag_strecke": "Alcarras",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2111,7 +2102,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/assen/",
-      "vorschlag_strecke": "Assen",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2120,7 +2111,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/bruenn-brno/",
-      "vorschlag_strecke": "Brünn",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2129,7 +2120,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/cartagena/",
-      "vorschlag_strecke": "Cartagena",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2138,7 +2129,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/gross-doelln/",
-      "vorschlag_strecke": "Groß Dölln",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2147,7 +2138,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/jerez/",
-      "vorschlag_strecke": "Jerez",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2156,7 +2147,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/lausitzring/",
-      "vorschlag_strecke": "Lausitzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2165,7 +2156,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/monteblanco/",
-      "vorschlag_strecke": "Monteblanco",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2174,7 +2165,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/most/",
-      "vorschlag_strecke": "Most",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2183,7 +2174,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/mugello/",
-      "vorschlag_strecke": "Mugello",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2192,7 +2183,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/oschersleben/",
-      "vorschlag_strecke": "Oschersleben",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2201,7 +2192,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/pannonia/",
-      "vorschlag_strecke": "Pannonia",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2210,7 +2201,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/portimao/",
-      "vorschlag_strecke": "Portimao",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2219,7 +2210,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/rijeka/",
-      "vorschlag_strecke": "Rijeka",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2228,7 +2219,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/sachsenring/",
-      "vorschlag_strecke": "Sachsenring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2237,7 +2228,7 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/termine/motorrad-rennstrecken-events/slovakia-ring/",
-      "vorschlag_strecke": "Slovakia Ring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2246,51 +2237,60 @@
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/alcarras-oktober-spanien-3-tage-saisonende/",
-      "vorschlag_strecke": "Alcarras",
-      "vorschlag_anfang": "2026-10-21",
-      "vorschlag_ende": "2026-10-23",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
+    },
+    {
+      "veranstalter": "HPS- Racing",
+      "url": "https://hps-racing.de/motorrad-rennstreckentraining/cartagena-oktober/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
     },
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/motorrad-rennstreckentraining-cartagena-29-30-10-2026-2-tage-do-bis-fr/",
-      "vorschlag_strecke": "Cartagena",
-      "vorschlag_anfang": "2026-10-29",
-      "vorschlag_ende": "2026-10-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
     },
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/portimao-1/",
-      "vorschlag_strecke": "Portimao",
-      "vorschlag_anfang": "2026-12-28",
-      "vorschlag_ende": "2026-12-31",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
     },
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/monteblanco/",
-      "vorschlag_strecke": "Monteblanco",
-      "vorschlag_anfang": "2027-01-02",
-      "vorschlag_ende": "2027-01-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
     },
     {
       "veranstalter": "HPS- Racing",
       "url": "https://hps-racing.de/motorrad-rennstreckentraining/motorrad-rennstreckentraining-almeria-07-10-01-2027/",
-      "vorschlag_strecke": "Almeria",
-      "vorschlag_anfang": "2027-01-07",
-      "vorschlag_ende": "2027-01-10",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://hps-racing.de/termine/motorrad-rennstrecken-events/"
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/167/3",
+      "url": "http://www.trackdays.be/en/booking/187/3",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2299,7 +2299,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/168/3",
+      "url": "http://www.trackdays.be/en/booking/188/3",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2308,7 +2308,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000062/3",
+      "url": "http://www.trackdays.be/en/booking/189/10",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2317,7 +2317,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/169/4",
+      "url": "http://www.trackdays.be/en/booking/190/10",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2326,7 +2326,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/170/4",
+      "url": "http://www.trackdays.be/en/booking/191/3",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2335,7 +2335,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000063/4",
+      "url": "http://www.trackdays.be/en/booking/192/3",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2344,7 +2344,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/171/10",
+      "url": "http://www.trackdays.be/en/booking/193/1",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2353,7 +2353,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/172/10",
+      "url": "http://www.trackdays.be/en/booking/194/1",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2362,7 +2362,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000064/10",
+      "url": "http://www.trackdays.be/en/booking/195/10",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2371,169 +2371,7 @@
     },
     {
       "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/173/3",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/174/3",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000065/3",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/175/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/176/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000066/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/177/6",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/178/6",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000067/6",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/179/1",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/180/1",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000068/1",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/181/10",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/182/10",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000069/10",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/183/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/184/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/185/2",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.trackdays.be/en"
-    },
-    {
-      "veranstalter": "TRACKDAYS.be",
-      "url": "http://www.trackdays.be/en/booking/1000070/2",
+      "url": "http://www.trackdays.be/en/booking/196/10",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2552,7 +2390,7 @@
     {
       "veranstalter": "Inter Track",
       "url": "https://www.inter-track.be/fr/ducati-trackday-1",
-      "vorschlag_strecke": "Aarscht",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2588,7 +2426,7 @@
     {
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/3/0/0/0",
-      "vorschlag_strecke": "Almeria",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2597,7 +2435,7 @@
     {
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/79/0/0/0",
-      "vorschlag_strecke": "Hoiersdorf",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2606,7 +2444,7 @@
     {
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/16/0/0/0",
-      "vorschlag_strecke": "Jerez",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2615,7 +2453,7 @@
     {
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/80/0/0/0",
-      "vorschlag_strecke": "Mojacar",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2624,7 +2462,7 @@
     {
       "veranstalter": "MAXX ADRENALIN",
       "url": "https://booking.maxx-adrenalin.de/de/events/overview/index/date/37/0/0/0",
-      "vorschlag_strecke": "Valencia",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2759,7 +2597,7 @@
     {
       "veranstalter": "Team Dannhoff",
       "url": "https://www.team-dannhoff.com/rennstrecke-tt-circuit-assen/",
-      "vorschlag_strecke": "TT Circuit Assen",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2768,7 +2606,7 @@
     {
       "veranstalter": "Team Dannhoff",
       "url": "https://www.team-dannhoff.com/rennstrecke-dijon-prenois/",
-      "vorschlag_strecke": "Dijon-Prenois",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2786,9 +2624,9 @@
     {
       "veranstalter": "Team Dannhoff",
       "url": "https://www.team-dannhoff.com/wp-content/uploads/2026/06/Zeitplan-Dijon-2026_FreerideTraining-Team-Dannhoff.pdf",
-      "vorschlag_strecke": "Dijon",
-      "vorschlag_anfang": "2026-08-01",
-      "vorschlag_ende": "2026-08-31",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.team-dannhoff.com/buchung/"
     },
@@ -2883,17 +2721,170 @@
       "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
     },
     {
-      "veranstalter": "PROMAX Schweiz GMBH",
-      "url": "https://www.promax-rennstrecke.com/anmeldung/gutschein-rennstreckentraining/",
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/?products-per-page=12",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.promax-rennstrecke.com/termine/"
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/?products-per-page=24",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/?products-per-page=all",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ar01/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/limitierte-teilnehmerzahl/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/bo-ar01/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/box/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/bu-ar01/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/bungalow/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ra-ar01/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/raceanalyse/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/dtb/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/bu-ar02/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ar03-box/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ar03-bungalow/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ra-ar03/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/produkt/ar04-box/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
+    },
+    {
+      "veranstalter": "PLÜSS MOTO SPORT",
+      "url": "https://pmotosport.com/product-category/pms/page/2/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://pmotosport.com/product-category/pms/"
     },
     {
       "veranstalter": "PROMAX Schweiz GMBH",
-      "url": "https://www.promax-rennstrecke.com/firmenevent-rennstrecke/",
+      "url": "https://www.promax-rennstrecke.com/anmeldung/gutschein-rennstreckentraining/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -2931,8 +2922,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/zuend-in-den-mai/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2024-05-01",
-      "vorschlag_ende": "2024-05-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -2949,8 +2940,8 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/sommerfestival/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2024-06-01",
-      "vorschlag_ende": "2024-08-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
@@ -2958,15 +2949,15 @@
       "veranstalter": "ART MOTOR",
       "url": "https://artmotor.de/events/biketoberfest/",
       "vorschlag_strecke": null,
-      "vorschlag_anfang": "2024-10-01",
-      "vorschlag_ende": "2024-10-31",
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://artmotor.de/termine/"
     },
     {
       "veranstalter": "LRC Motorsport",
       "url": "https://www.luxracingclub.com/trackdays/magny-cours",
-      "vorschlag_strecke": "Magny-Cours",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2975,7 +2966,7 @@
     {
       "veranstalter": "LRC Motorsport",
       "url": "https://www.luxracingclub.com/trackdays/chenevieres",
-      "vorschlag_strecke": "Chenevières",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2984,7 +2975,7 @@
     {
       "veranstalter": "LRC Motorsport",
       "url": "https://www.luxracingclub.com/trackdays/ecuyers",
-      "vorschlag_strecke": "Les Ecuyers",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -2993,7 +2984,7 @@
     {
       "veranstalter": "LRC Motorsport",
       "url": "https://www.luxracingclub.com/trackdays/la-ferte-gaucher",
-      "vorschlag_strecke": "La Ferté Gaucher",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3002,7 +2993,7 @@
     {
       "veranstalter": "LRC Motorsport",
       "url": "https://www.luxracingclub.com/trackdays/clastres",
-      "vorschlag_strecke": "Clastres",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3028,7 +3019,7 @@
     },
     {
       "veranstalter": "RACECRACKS",
-      "url": "https://www.racecracks.nl/product-category/banden",
+      "url": "https://www.racecracks.nl/product-category/michelin-banden-power-performance-slick2-cup2-gp2",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3055,7 +3046,124 @@
     },
     {
       "veranstalter": "RACECRACKS",
-      "url": "https://www.racecracks.nl/informatie/prive-training",
+      "url": "https://www.racecracks.nl/circuit-alcarras-motorvakantie-trackdays-vrij-rijden-instructie",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuitdag-andalucia-circuitdagen-motor-trackdays-op-andalucia",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuit-assen-junior-track-assen-rijvaardigheidstraining-motorrijden",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuitdag-assen-motor-assen-trackday-evenementen-assen",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuit-aragon-motor-trackdays-op-motorland",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuit-des-ecuyers-circuitdagen-trackdays-motor-training",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuit-mettet-circuitdag-motor-bochten-training-op-het-circuit",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuit-most-race-event-trackdays",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/circuitdag-zandvoort-racen-motor-circuit-training",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/informatie-racecracks-circuitdagen/ferry-van-rijn-organisator-circuitdagen-trackdays",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/informatie-racecracks-circuitdagen/punten-sparen-voor-je-volgende-racecracks-event",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/informatie-racecracks-circuitdagen/prive-training-bochtentraining-kneedown",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/informatie-racecracks-circuitdagen/circuitrijden-kneedown-bochten-training-motoren-toms-cursus",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.racecracks.nl/vrij-rijden-trackdays-race-experience-tt-circuit-assen-zandvoort"
+    },
+    {
+      "veranstalter": "RACECRACKS",
+      "url": "https://www.racecracks.nl/informatie-racecracks-circuitdagen/pitbox-huren-trackdays-tt-circuit-assen-en-zandvoort",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3074,6 +3182,15 @@
     {
       "veranstalter": "ADAC Rennstreckentraining",
       "url": "https://www.doc-scholl.de/events/eventuebersicht-2026.html",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.doc-scholl.de/events/eventuebersicht-2026.html"
+    },
+    {
+      "veranstalter": "ADAC Rennstreckentraining",
+      "url": "https://www.doc-scholl.de/events/harzring-1.html",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3173,20 +3290,20 @@
     {
       "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
       "url": "https://www.gasss.eu/en/event/mugello-2026/",
-      "vorschlag_strecke": "Mugello",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.gasss.eu/en/events/"
     },
     {
-      "veranstalter": "GH-MOTO Racedays",
-      "url": "https://www.gh-moto.com/events-122.html",
+      "veranstalter": "GASSS -THE MOTORSPORT COMPANY",
+      "url": "https://www.gasss.eu/en/event/misano-27-10-29-10-2026/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.gh-moto.com/events.html"
+      "quelle_uebersicht": "https://www.gasss.eu/en/events/"
     },
     {
       "veranstalter": "Racing School Europe – Powered by BMW Motorrad",
@@ -3225,96 +3342,6 @@
       "quelle_uebersicht": "https://timmot.de/rennstrecken-termine/"
     },
     {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/event/summer-special/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/event/b7-pannoniaring-2/",
-      "vorschlag_strecke": "Pannoniaring",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/event/b6-balaton-park/",
-      "vorschlag_strecke": "Balaton Park",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/event/b5-bruenn/",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/event/b4-slovakiaring/",
-      "vorschlag_strecke": "Slovakiaring",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/events/page/2/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "BTR-Eder Racing",
-      "url": "https://www.btr-eder-racing.eu/events/“/datenschutzerklaerung/“",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.btr-eder-racing.eu/events/"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/rennstrecken/termin",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/rennstrecken/termin/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
-      "veranstalter": "FRÖSCHLRacing",
-      "url": "https://froeschlracing.com/en/product/fr7-pannoniaring-18-20-09-fr-so",
-      "vorschlag_strecke": "Pannoniaring",
-      "vorschlag_anfang": "2024-09-18",
-      "vorschlag_ende": "2024-09-20",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://froeschlracing.com/en/rennstrecken/termin"
-    },
-    {
       "veranstalter": "Rennevents.com",
       "url": "https://www.rennevents.com/termine-preise-anmeldung.html",
       "vorschlag_strecke": null,
@@ -3344,54 +3371,54 @@
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/most-25-09-27-09-2026.html",
-      "vorschlag_strecke": "Most",
-      "vorschlag_anfang": "2026-09-25",
-      "vorschlag_ende": "2026-09-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/alcarras-21-10-23-10-2026-01.html",
-      "vorschlag_strecke": "Alcarras",
-      "vorschlag_anfang": "2026-10-21",
-      "vorschlag_ende": "2026-10-23",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/cartagena-25-10-27-10-2026.html",
-      "vorschlag_strecke": "Cartagena",
-      "vorschlag_anfang": "2026-10-25",
-      "vorschlag_ende": "2026-10-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/cartagena-29-10-30-10-2026.html",
-      "vorschlag_strecke": "Cartagena",
-      "vorschlag_anfang": "2026-10-29",
-      "vorschlag_ende": "2026-10-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/28_12_2026_portimao.html",
-      "vorschlag_strecke": "Portimao",
-      "vorschlag_anfang": "2026-12-28",
-      "vorschlag_ende": "2026-12-28",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
     {
       "veranstalter": "Rennevents.com",
       "url": "https://rennevents.com/monteblanco-02-01-bis-04-01-2027.html",
-      "vorschlag_strecke": "Monteblanco",
-      "vorschlag_anfang": "2027-01-02",
-      "vorschlag_ende": "2027-01-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
     },
@@ -3403,6 +3430,159 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.rennevents.com/termine-preise-anmeldung.html"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/heidbergring/400/heidbergring-26.04.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/402/padborg-park-08./09.05.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/heidbergring/401/heidbergring-14.06.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/gross-doelln/399/gross-doelln-20./21.06.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/403/padborg-park-24./25.07.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/termine/oschersleben-03.04.08.2026/404/oschersleben-03./04.08.2026-motorradtraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/gross-doelln/406/gross-doelln-ii-kurventraining-10./11.08.2026",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/405/padborg-park-11./12.09.2026-kurventraining",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/event-vorbereitung",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/405/padborg-park-iii-kurventraining-11./12.09.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/heidbergring/400/heidbergring-i-kurventraining-26.04.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/402/padborg-park-i-kurventraining-08./09.05.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/heidbergring/401/heidbergring-ii-kurventraining-14.06.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/gross-doelln/399/gross-doelln-i-kurventraining-20./21.06.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/padborg-park-dk/403/padborg-park-ii-kurventraining-24./25.07.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/oschersleben/404/oschersleben-03./04.08.2026-motorradtraining?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
+    },
+    {
+      "veranstalter": "SWITCHevent",
+      "url": "https://www.switch-event.de/strecken/gross-doelln/406/gross-doelln-ii-motorradtraining-10./11.08.2026?c=38",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.switch-event.de/termine/"
     },
     {
       "veranstalter": "TZ-Motorsport",
@@ -3478,7 +3658,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-front-1",
+      "url": "https://www.paddys-races-days.ch/product-page/190-55zr17-d212-f-gppro-ms1-soft",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3487,7 +3667,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/190-55zr17-d212-f-gppro-ms1-soft",
+      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-front-1",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3505,15 +3685,6 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/stompgrip",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
       "url": "https://www.paddys-races-days.ch/product-page/acerbis-palm-protector",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -3523,25 +3694,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-front",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/bridgestone-battlax-back",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "http://www.paddys-races-days.ch"
-    },
-    {
-      "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/kyt-visier-tt-revo",
+      "url": "https://www.paddys-races-days.ch/product-page/stompgrip",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3559,7 +3712,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/marco-simoncelli-58-super-sic-motorradrennen-100mm-motorrad-vinyl-fahrrad-helm-a",
+      "url": "https://www.paddys-races-days.ch/product-page/suomy-pinlock-sr-gp",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3577,7 +3730,7 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/suomy-pinlock-sr-gp",
+      "url": "https://www.paddys-races-days.ch/product-page/kyt-visier-tt-revo",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3586,7 +3739,34 @@
     },
     {
       "veranstalter": "Paddys-Races-Days",
-      "url": "https://www.paddys-races-days.ch/product-page/suomy-visier-s1-xr",
+      "url": "https://www.paddys-races-days.ch/product-page/bridgestone-battlax-back",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/pirelli-diablo-superbike-front",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/motul-oelkanne",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "http://www.paddys-races-days.ch"
+    },
+    {
+      "veranstalter": "Paddys-Races-Days",
+      "url": "https://www.paddys-races-days.ch/product-page/marco-simoncelli-58-super-sic-motorradrennen-100mm-motorrad-vinyl-fahrrad-helm-a",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -3623,7 +3803,7 @@
     {
       "veranstalter": "ADAC/Trainer Tom Dick Rennstrecken Training",
       "url": "https://www.tom-dick.de/trackdays/viererpaket-3x-harzring-1x-stc-2027/",
-      "vorschlag_strecke": "Harzring / STC",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3632,7 +3812,7 @@
     {
       "veranstalter": "ADAC/Trainer Tom Dick Rennstrecken Training",
       "url": "https://www.tom-dick.de/trackdays/dreierpaket-4-harzring-challenge-2027/",
-      "vorschlag_strecke": "Harzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -3784,15 +3964,6 @@
     },
     {
       "veranstalter": "GA Promotion",
-      "url": "https://www.gapromotion.com/deutsch/tnt-rennstrecke/gap-cup-card-2026/",
-      "vorschlag_strecke": null,
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.gapromotion.com/deutsch/tnt-rennstrecke/"
-    },
-    {
-      "veranstalter": "GA Promotion",
       "url": "https://www.gapromotion.com/j/shop/terms",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
@@ -3857,9 +4028,9 @@
     {
       "veranstalter": "PS-Renntraining",
       "url": "https://ps-motorradtraining.de/termin/anneau-du-rhin-am-9-10-august-2027/",
-      "vorschlag_strecke": "Anneau du Rhin",
-      "vorschlag_anfang": "2027-08-09",
-      "vorschlag_ende": "2027-08-10",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://ps-motorradtraining.de/renntraining/"
     },
@@ -4064,7 +4235,7 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/kurventraining-heidbergring/",
-      "vorschlag_strecke": "Heidbergring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4072,7 +4243,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=0a27b31f27",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17623&_wpnonce=6175029ca9",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4082,7 +4253,7 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/rennstreckentraining-sachsenring-2-tage/",
-      "vorschlag_strecke": "Sachsenring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4090,7 +4261,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=0a27b31f27",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17594&_wpnonce=6175029ca9",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4100,7 +4271,7 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/rennstreckentraining-lausitzring-2-tage/",
-      "vorschlag_strecke": "Lausitzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4108,7 +4279,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=0a27b31f27",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=17592&_wpnonce=6175029ca9",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4118,7 +4289,7 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/rennstrecke_most/",
-      "vorschlag_strecke": "Most",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4126,7 +4297,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=0a27b31f27",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=16777&_wpnonce=6175029ca9",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4136,7 +4307,7 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/kurventraining-kartbahn-oschersleben/",
-      "vorschlag_strecke": "Oschersleben",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4144,7 +4315,7 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=0a27b31f27",
+      "url": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/?add_to_wishlist=9542&_wpnonce=6175029ca9",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4172,33 +4343,6 @@
     {
       "veranstalter": "race & fun Motorradsport GmbH",
       "url": "https://www.race-and-fun.com/produkt/honda-funbike-training-karthalle-hannover/",
-      "vorschlag_strecke": "Hannover",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
-    },
-    {
-      "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-bispingen/",
-      "vorschlag_strecke": "Bispingen",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
-    },
-    {
-      "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-braunschweig/",
-      "vorschlag_strecke": "Braunschweig",
-      "vorschlag_anfang": null,
-      "vorschlag_ende": null,
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
-    },
-    {
-      "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/axfix-transportsicherung-lc-10012/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4207,8 +4351,8 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/pitbike-training-hildesheim-outdoor/",
-      "vorschlag_strecke": "Hildesheim",
+      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-bispingen/",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4216,7 +4360,43 @@
     },
     {
       "veranstalter": "race & fun Motorradsport GmbH",
-      "url": "https://www.race-and-fun.com/produkt/spanngurt-ratsche-35-meter/",
+      "url": "https://www.race-and-fun.com/produkt/pitbike-training-karthalle-braunschweig/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/racefloor-eco/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/reissleine-motorrad/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/helite-turtle-2-0-airbagweste/",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.race-and-fun.com/rennstrecken-und-kurventraining-fur-motorrader/"
+    },
+    {
+      "veranstalter": "race & fun Motorradsport GmbH",
+      "url": "https://www.race-and-fun.com/produkt/spanngurt-tyrefix/",
       "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
@@ -4288,379 +4468,442 @@
     },
     {
       "veranstalter": "Racetrck",
-      "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2026-10-18",
-      "vorschlag_ende": "2026-10-18",
-      "vorschlag_preis": null,
-      "quelle_uebersicht": "https://racetrck.de/events/"
-    },
-    {
-      "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-2",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2026-10-25",
-      "vorschlag_ende": "2026-10-25",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2026-10-25",
-      "vorschlag_ende": "2026-10-25",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-2",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2026-11-01",
-      "vorschlag_ende": "2026-11-01",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-3",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2026-11-07",
-      "vorschlag_ende": "2026-11-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-woerth-2",
-      "vorschlag_strecke": "Wörth am Rhein",
-      "vorschlag_anfang": "2026-11-08",
-      "vorschlag_ende": "2026-11-08",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-5",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2026-11-15",
-      "vorschlag_ende": "2026-11-15",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-2",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2026-11-15",
-      "vorschlag_ende": "2026-11-15",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-hemsbach",
-      "vorschlag_strecke": "Hemsbach",
-      "vorschlag_anfang": "2026-11-21",
-      "vorschlag_ende": "2026-11-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-5",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2026-11-22",
-      "vorschlag_ende": "2026-11-22",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-3",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2026-11-29",
-      "vorschlag_ende": "2026-11-29",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-prokart-raceland-wackersdorf-3-2",
-      "vorschlag_strecke": "Wackersdorf",
-      "vorschlag_anfang": "2026-11-30",
-      "vorschlag_ende": "2026-11-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-6",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2026-12-06",
-      "vorschlag_ende": "2026-12-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-3",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2026-12-06",
-      "vorschlag_ende": "2026-12-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-4",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2026-12-13",
-      "vorschlag_ende": "2026-12-13",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-woerth",
-      "vorschlag_strecke": "Wörth am Rhein",
-      "vorschlag_anfang": "2026-12-13",
-      "vorschlag_ende": "2026-12-13",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-hemsbach-2",
-      "vorschlag_strecke": "Hemsbach",
-      "vorschlag_anfang": "2026-12-19",
-      "vorschlag_ende": "2026-12-19",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-7",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2026-12-20",
-      "vorschlag_ende": "2026-12-20",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-prokart-raceland-wackersdorf-3",
-      "vorschlag_strecke": "Wackersdorf",
-      "vorschlag_anfang": "2026-12-21",
-      "vorschlag_ende": "2026-12-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-6",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-01-10",
-      "vorschlag_ende": "2027-01-10",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-4",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2027-01-17",
-      "vorschlag_ende": "2027-01-17",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-7",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-01-24",
-      "vorschlag_ende": "2027-01-24",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-8",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2027-01-24",
-      "vorschlag_ende": "2027-01-24",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-8",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-02-07",
-      "vorschlag_ende": "2027-02-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-5",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2027-02-07",
-      "vorschlag_ende": "2027-02-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-9",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2027-02-14",
-      "vorschlag_ende": "2027-02-14",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-9",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-02-21",
-      "vorschlag_ende": "2027-02-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-6",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2027-02-28",
-      "vorschlag_ende": "2027-02-28",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-10",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-03-07",
-      "vorschlag_ende": "2027-03-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-10",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2027-03-07",
-      "vorschlag_ende": "2027-03-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-oberwerrn-11",
-      "vorschlag_strecke": "Oberwerrn",
-      "vorschlag_anfang": "2027-03-21",
-      "vorschlag_ende": "2027-03-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-rottweil-7",
-      "vorschlag_strecke": "Rottweil",
-      "vorschlag_anfang": "2027-03-21",
-      "vorschlag_ende": "2027-03-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/pitbike-training-indoor-umkirch-2027-03-27",
-      "vorschlag_strecke": "Umkirch",
-      "vorschlag_anfang": "2027-03-27",
-      "vorschlag_ende": "2027-03-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-03-04-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-04-03",
-      "vorschlag_ende": "2027-04-03",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/schraeglagentraining-intensiv-10-04-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-18-04-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-04-18",
-      "vorschlag_ende": "2027-04-18",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-24-04-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-04-24",
-      "vorschlag_ende": "2027-04-24",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/schraeglagentraining-intensiv-01-05-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/schraeglagentraining-intensiv-22-05-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/pitbike-training-cheb-28-05-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-06-06-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-06-06",
-      "vorschlag_ende": "2027-06-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/pitbike-training-belleben-11-06-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-20-06-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-06-20",
-      "vorschlag_ende": "2027-06-20",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/pitbike-training-muelsen-25-06-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-04-07-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-07-04",
-      "vorschlag_ende": "2027-07-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/schraeglagentraining-intensiv-24-07-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-25-07-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-07-25",
-      "vorschlag_ende": "2027-07-25",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://racetrck.de/events/"
+    },
+    {
+      "veranstalter": "Racetrck",
+      "url": "https://racetrck.de/event/pitbike-training-circuit-de-karting-de-lenclos-30-07-2027-2",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-15-08-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-08-15",
-      "vorschlag_ende": "2027-08-15",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
     {
       "veranstalter": "Racetrck",
       "url": "https://racetrck.de/event/schraeglagentraining-intensiv-11-09-2027",
-      "vorschlag_strecke": "Eppingen",
-      "vorschlag_anfang": "2027-09-11",
-      "vorschlag_ende": "2027-09-11",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://racetrck.de/events/"
     },
@@ -4847,9 +5090,9 @@
     {
       "veranstalter": "Bimota Club Deutschland",
       "url": "https://bimotaclub-deutschland.de/wp-content/uploads/2026/07/2608_BRN_Bimota.pdf",
-      "vorschlag_strecke": "Brünn",
-      "vorschlag_anfang": "2026-08-26",
-      "vorschlag_ende": "2026-08-26",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://bimotaclub-deutschland.de/zeitplan/"
     },
@@ -4919,7 +5162,7 @@
     {
       "veranstalter": "Erklärbär-Frank.de",
       "url": "https://erklaerbaer-frank.de/xxl-kurventraining-harzring/",
-      "vorschlag_strecke": "Harzring",
+      "vorschlag_strecke": null,
       "vorschlag_anfang": null,
       "vorschlag_ende": null,
       "vorschlag_preis": null,
@@ -4946,225 +5189,225 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/240",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-09-05",
-      "vorschlag_ende": "2026-09-05",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/238",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-08-15",
-      "vorschlag_ende": "2026-08-16",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/237",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2026-08-01",
-      "vorschlag_ende": "2026-08-02",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/249",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-07-16",
-      "vorschlag_ende": "2026-07-16",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/236",
-      "vorschlag_strecke": "Slovakia Ring",
-      "vorschlag_anfang": "2026-07-13",
-      "vorschlag_ende": "2026-07-14",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/248",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-07-02",
-      "vorschlag_ende": "2026-07-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/247",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-06-25",
-      "vorschlag_ende": "2026-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/246",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-06-18",
-      "vorschlag_ende": "2026-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/235",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2026-06-13",
-      "vorschlag_ende": "2026-06-14",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/233",
-      "vorschlag_strecke": "Bikernieki",
-      "vorschlag_anfang": "2026-05-30",
-      "vorschlag_ende": "2026-05-31",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/245",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-05-21",
-      "vorschlag_ende": "2026-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/244",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-05-17",
-      "vorschlag_ende": "2026-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/232",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-05-16",
-      "vorschlag_ende": "2026-05-17",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/243",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-05-16",
-      "vorschlag_ende": "2026-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/242",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-05-14",
-      "vorschlag_ende": "2026-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/231",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-04-25",
-      "vorschlag_ende": "2026-04-25",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/241",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2026-04-23",
-      "vorschlag_ende": "2026-04-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/220",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-09-06",
-      "vorschlag_ende": "2025-09-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/230",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-09-04",
-      "vorschlag_ende": "2025-09-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/229",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-08-28",
-      "vorschlag_ende": "2025-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/219",
-      "vorschlag_strecke": "Tor Poznan",
-      "vorschlag_anfang": "2025-08-25",
-      "vorschlag_ende": "2025-08-26",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/228",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2025-08-21",
-      "vorschlag_ende": "2025-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/217",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-08-16",
-      "vorschlag_ende": "2025-08-17",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/227",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-08-14",
-      "vorschlag_ende": "2025-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/226",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-08-07",
-      "vorschlag_ende": "2025-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5189,99 +5432,99 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/215",
-      "vorschlag_strecke": "Pannonia Ring",
-      "vorschlag_anfang": "2025-07-24",
-      "vorschlag_ende": "2025-07-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/214",
-      "vorschlag_strecke": "Slovakia Ring",
-      "vorschlag_anfang": "2025-07-21",
-      "vorschlag_ende": "2025-07-22",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/224",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-07-03",
-      "vorschlag_ende": "2025-07-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/223",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-06-26",
-      "vorschlag_ende": "2025-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/212",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2025-06-14",
-      "vorschlag_ende": "2025-06-15",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/213",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-06-07",
-      "vorschlag_ende": "2025-06-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/211",
-      "vorschlag_strecke": "Bikernieki",
-      "vorschlag_anfang": "2025-05-31",
-      "vorschlag_ende": "2025-06-01",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/222",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-05-11",
-      "vorschlag_ende": "2025-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/210",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-05-10",
-      "vorschlag_ende": "2025-05-11",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/209",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-04-26",
-      "vorschlag_ende": "2025-04-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/221",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2025-04-17",
-      "vorschlag_ende": "2025-04-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5306,9 +5549,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/192",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2024-09-07",
-      "vorschlag_ende": "2024-09-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5333,9 +5576,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/191",
-      "vorschlag_strecke": "Tor Poznan",
-      "vorschlag_anfang": "2024-08-26",
-      "vorschlag_ende": "2024-08-27",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5351,9 +5594,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/194",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2024-08-17",
-      "vorschlag_ende": "2024-08-18",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5378,9 +5621,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/190",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2024-08-03",
-      "vorschlag_ende": "2024-08-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5396,9 +5639,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/189",
-      "vorschlag_strecke": "Slovakia Ring",
-      "vorschlag_anfang": "2024-07-22",
-      "vorschlag_ende": "2024-07-23",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5414,9 +5657,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/188",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2024-07-06",
-      "vorschlag_ende": "2024-07-07",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5441,9 +5684,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/187",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2024-06-08",
-      "vorschlag_ende": "2024-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5459,9 +5702,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/186",
-      "vorschlag_strecke": "Bikernieki",
-      "vorschlag_anfang": "2024-06-02",
-      "vorschlag_ende": "2024-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5486,9 +5729,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/185",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2024-05-11",
-      "vorschlag_ende": "2024-05-12",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5504,9 +5747,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/184",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2024-04-27",
-      "vorschlag_ende": "2024-04-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5540,9 +5783,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/161",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-09-09",
-      "vorschlag_ende": "2023-09-09",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5567,18 +5810,18 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/178",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2023-08-20",
-      "vorschlag_ende": "2023-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/160",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-08-19",
-      "vorschlag_ende": "2023-08-20",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5594,9 +5837,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/159",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2023-08-05",
-      "vorschlag_ende": "2023-08-06",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5621,9 +5864,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/153",
-      "vorschlag_strecke": "Slovakia Ring",
-      "vorschlag_anfang": "2023-07-24",
-      "vorschlag_ende": "2023-07-25",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5648,9 +5891,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/168",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-06-29",
-      "vorschlag_ende": "2023-06-29",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5666,45 +5909,45 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/193",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2023-06-18",
-      "vorschlag_ende": "2023-06-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/158",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2023-06-17",
-      "vorschlag_ende": "2023-06-18",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/157",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-06-10",
-      "vorschlag_ende": "2023-06-10",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/167",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-06-08",
-      "vorschlag_ende": "2023-06-08",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/156",
-      "vorschlag_strecke": "Bikernieki",
-      "vorschlag_anfang": "2023-06-03",
-      "vorschlag_ende": "2023-06-04",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5720,18 +5963,18 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/169",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2023-05-21",
-      "vorschlag_ende": "2023-05-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/155",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-05-20",
-      "vorschlag_ende": "2023-05-21",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5756,9 +5999,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/154",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2023-04-29",
-      "vorschlag_ende": "2023-04-29",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5783,9 +6026,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/135",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2022-08-27",
-      "vorschlag_ende": "2022-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5810,18 +6053,18 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/149",
-      "vorschlag_strecke": "Nemuno Žiedas",
-      "vorschlag_anfang": "2022-08-14",
-      "vorschlag_ende": "2022-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/134",
-      "vorschlag_strecke": "Nemunring",
-      "vorschlag_anfang": "2022-08-13",
-      "vorschlag_ende": "2022-08-14",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5837,9 +6080,9 @@
     {
       "veranstalter": "Navas Racing Club",
       "url": "https://www.nrc.lt/en/events/133",
-      "vorschlag_strecke": "Porsche Ring",
-      "vorschlag_anfang": "2022-08-06",
-      "vorschlag_ende": "2022-08-30",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://www.nrc.lt/en/events-2/"
     },
@@ -5860,6 +6103,24 @@
       "vorschlag_ende": null,
       "vorschlag_preis": null,
       "quelle_uebersicht": "https://rheintal-msc.de/motorradtraining2.html"
+    },
+    {
+      "veranstalter": "Sportfahrerwoche",
+      "url": "https://www.sportfahrerwoche.de/index.php/component/eventbooking/2027/rennstrecke2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.sportfahrerwoche.de"
+    },
+    {
+      "veranstalter": "Sportfahrerwoche",
+      "url": "https://www.sportfahrerwoche.de/index.php/component/eventbooking/2027/sportfahrerwoche-all-in-2027",
+      "vorschlag_strecke": null,
+      "vorschlag_anfang": null,
+      "vorschlag_ende": null,
+      "vorschlag_preis": null,
+      "quelle_uebersicht": "https://www.sportfahrerwoche.de"
     }
   ]
 }
