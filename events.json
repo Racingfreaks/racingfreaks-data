@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T11:20:22+00:00",
+  "generated_at": "2026-11-08T11:18:55+00:00",
   "source": "racingfreaks.de initial import",
   "stats": {
     "total": 1010,
@@ -21229,9 +21229,10 @@
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-10-25T08:59:50+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-10-25T08:59:50+00:00",
-      "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4"
+      "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "Speer Racing",
@@ -21943,10 +21944,10 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-01T11:07:00+00:00",
+      "letzte_pruefung": "2026-11-08T11:05:44+00:00",
       "archiviert": false,
-      "letzte_volle_pruefung": "2026-11-01T11:07:00+00:00",
-      "content_hash": "12102da75e629d91e49e4e0e8a119300d4571662bb55fb5dd29dc9f10af19267"
+      "letzte_volle_pruefung": "2026-11-08T11:05:44+00:00",
+      "content_hash": "47d74023713003cf2defa6075f196757184db9413853273cd049ec7634ee41f6"
     },
     {
       "veranstalter": "MRS MotoRacingSchool",
@@ -21967,7 +21968,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-01T11:07:02+00:00",
+      "letzte_pruefung": "2026-11-08T11:05:45+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -22399,9 +22400,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-10-25T09:01:37+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-10-25T09:01:37+00:00",
-      "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4"
+      "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -22500,9 +22502,10 @@
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
       "letzte_pruefung": "2026-10-25T09:01:42+00:00",
-      "archiviert": false,
+      "archiviert": true,
       "letzte_volle_pruefung": "2026-10-25T09:01:42+00:00",
-      "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4"
+      "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -25218,7 +25221,7 @@
       "preis": 89,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-01T11:09:40+00:00",
+      "letzte_pruefung": "2026-11-08T11:08:21+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
@@ -25238,7 +25241,7 @@
       "preis": 89,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-01T11:09:41+00:00",
+      "letzte_pruefung": "2026-11-08T11:08:23+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
@@ -25258,13 +25261,13 @@
       "preis": 959,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-01T11:09:43+00:00",
+      "letzte_pruefung": "2026-11-08T11:08:34+00:00",
       "archiviert": false,
       "added_via": "excel_sync",
       "added_at": "2026-04-27T20:50:38Z",
       "needs_initial_scrape": true,
-      "letzte_volle_pruefung": "2026-11-01T11:09:43+00:00",
-      "content_hash": "70abe45438089b0b2151f149b0ee7d2185f6f8d95e94214aedb38d725ed11249"
+      "letzte_volle_pruefung": "2026-11-08T11:08:34+00:00",
+      "content_hash": "2efd31c24afc6cb6912d551fbdd00ce2138e43be5081eb36485191d72741bd65"
     },
     {
       "id": 1119,
@@ -26309,10 +26312,11 @@
       "gruppen": null,
       "leistungen": [],
       "db": null,
-      "archiviert": false,
+      "archiviert": true,
       "letzte_pruefung": "2026-10-25T09:08:28+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:28+00:00",
-      "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae"
+      "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "id": 1166,
@@ -26618,10 +26622,11 @@
       "gruppen": null,
       "leistungen": [],
       "db": null,
-      "archiviert": false,
+      "archiviert": true,
       "letzte_pruefung": "2026-10-25T09:09:10+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:10+00:00",
-      "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295"
+      "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
+      "archiv_grund": "vergangen (auto)"
     },
     {
       "id": 1180,
@@ -28150,7 +28155,7 @@
       "ende": "2027-05-04",
       "tage": 2,
       "preis": 419,
-      "verfuegbarkeit": "frei",
+      "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
       "url": "https://www.bike-promotion.com/de/events/overview",
       "typ": "Rennstreckentraining",
@@ -28740,8 +28745,65 @@
       "tage": 8,
       "preis": null,
       "verfuegbarkeit": "wenige",
-      "freie_plaetze": null,
+      "freie_plaetze": 2,
       "url": "https://www.fast-travel.ch/coaching",
+      "typ": "Rennstreckentraining",
+      "level": "Alle",
+      "gruppen": null,
+      "leistungen": [],
+      "db": null,
+      "archiviert": false
+    },
+    {
+      "id": 1290,
+      "veranstalter": "Bike Promotion",
+      "strecke": "Most",
+      "land": "Tschechien",
+      "start": "2027-05-10",
+      "ende": "2027-05-11",
+      "tage": 2,
+      "preis": 230,
+      "verfuegbarkeit": "frei",
+      "freie_plaetze": null,
+      "url": "https://www.bike-promotion.com/de/events/overview",
+      "typ": "Rennstreckentraining",
+      "level": "Alle",
+      "gruppen": null,
+      "leistungen": [],
+      "db": null,
+      "archiviert": false
+    },
+    {
+      "id": 1291,
+      "veranstalter": "Rehm race days",
+      "strecke": "Aragón",
+      "land": "Spanien",
+      "start": "2027-04-22",
+      "ende": "2027-04-24",
+      "tage": 3,
+      "preis": null,
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "url": "https://www.rehmracedays.com/kalender/",
+      "typ": "Rennstreckentraining",
+      "level": "Alle",
+      "gruppen": null,
+      "leistungen": [],
+      "db": null,
+      "archiviert": false
+    },
+    {
+      "id": 1292,
+      "veranstalter": "Rehm race days",
+      "strecke": "Barcelona",
+      "land": "Spanien",
+      "start": "2027-04-27",
+      "ende": "2027-04-29",
+      "tage": 3,
+      "preis": null,
+      "verfuegbarkeit": "unbekannt",
+      "freie_plaetze": null,
+      "url": "https://www.rehmracedays.com/kalender/",
       "typ": "Rennstreckentraining",
       "level": "Alle",
       "gruppen": null,
