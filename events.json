@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T19:08:34+00:00",
+  "generated_at": "2026-11-16T19:51:31+00:00",
   "source": "racingfreaks.de initial import",
   "stats": {
     "total": 1321,
@@ -21502,11 +21502,11 @@
       ],
       "verfuegbarkeit": "warteliste",
       "freie_plaetze": 0,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:00:18+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -21612,11 +21612,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:00:27+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -21750,11 +21750,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-18T08:37:50+00:00",
       "content_hash": "28aa8da134eb4c5b4153db85148e05102c7e739a4a2020e06f0a22e5335b7dea",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -21807,7 +21807,8 @@
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:00:42+00:00",
       "content_hash": "7c783552bd7de616a22dc223e3f720cd4cd94e3b83174b9c1540d04240a17d3d",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "veranstalter": "Rehm race days",
@@ -21828,11 +21829,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:00:51+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -21857,11 +21858,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:00+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -21885,7 +21886,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -21897,7 +21898,7 @@
       ],
       "letzte_volle_pruefung": "2026-10-18T08:38:19+00:00",
       "content_hash": "9266f4fdd84910c54be246ab8cead8f9a60b2ac4db86795bc212453690879587",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -21919,11 +21920,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:11+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -21975,11 +21976,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-11-15T11:47:46+00:00",
       "content_hash": "47a4718de7c8225176d6695d2eea01b0983eca6a4b952833ea12369b90dc76ee",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -22036,11 +22037,11 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:25+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -22065,7 +22066,7 @@
       ],
       "verfuegbarkeit": "unbekannt",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "url_history": [
         {
@@ -22077,7 +22078,7 @@
       ],
       "letzte_volle_pruefung": "2026-10-18T08:38:43+00:00",
       "content_hash": "7255bf2085e6b731dbd103330dbb6f6bbdb4470c67f7b6dd4072a4bc74600703",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -22268,7 +22269,8 @@
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:33+00:00",
       "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -22575,7 +22577,8 @@
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:46+00:00",
       "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "veranstalter": "No Limits Trackdays",
@@ -22597,11 +22600,11 @@
       "id": 988,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": 0,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:01:50+00:00",
       "content_hash": "e05224ff082e6335b6e8903eb491050737a47a2ebef512029c78c32bdd25a9e4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -23436,7 +23439,8 @@
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:00+00:00",
       "content_hash": "7c783552bd7de616a22dc223e3f720cd4cd94e3b83174b9c1540d04240a17d3d",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "veranstalter": "MOTORRAID",
@@ -23457,11 +23461,11 @@
       "id": 1030,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:09+00:00",
       "content_hash": "11f0a278cf026860122e2a26b9e9dde60732e6e1f74f101c5ee276bdaae981e7",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -24527,7 +24531,7 @@
       "id": 1074,
       "verfuegbarkeit": "wenige",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:20+00:00",
       "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
@@ -24539,7 +24543,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -24564,7 +24568,7 @@
       "id": 1075,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:25+00:00",
       "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
@@ -24576,7 +24580,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -24601,7 +24605,7 @@
       "id": 1076,
       "verfuegbarkeit": "ausgebucht",
       "freie_plaetze": 0,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:30+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
@@ -24613,7 +24617,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -24638,7 +24642,7 @@
       "id": 1077,
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:02:36+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
@@ -24650,7 +24654,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25665,7 +25669,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:06:53+00:00",
       "content_hash": "636ef03a9ab0b1a9c341276200874352a14da33a99d6acc4ad59eb16828f679f",
@@ -25677,7 +25681,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25703,7 +25707,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:06:56+00:00",
       "content_hash": "636ef03a9ab0b1a9c341276200874352a14da33a99d6acc4ad59eb16828f679f",
@@ -25715,7 +25719,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25741,7 +25745,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:07:00+00:00",
       "content_hash": "636ef03a9ab0b1a9c341276200874352a14da33a99d6acc4ad59eb16828f679f",
@@ -25753,7 +25757,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25779,7 +25783,7 @@
       ],
       "verfuegbarkeit": "frei",
       "freie_plaetze": null,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "archiviert": false,
       "letzte_volle_pruefung": "2026-10-25T09:07:03+00:00",
       "content_hash": "636ef03a9ab0b1a9c341276200874352a14da33a99d6acc4ad59eb16828f679f",
@@ -25791,7 +25795,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25929,10 +25933,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:07:22+00:00",
       "content_hash": "360914af68cac33f3c5c84d3b92d0ae5de28c20297d747b12f89d30cbaa69c04",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25956,10 +25960,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:07:27+00:00",
       "content_hash": "360914af68cac33f3c5c84d3b92d0ae5de28c20297d747b12f89d30cbaa69c04",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -25983,10 +25987,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:07:36+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26010,10 +26014,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:07:46+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26037,10 +26041,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:07:55+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26110,10 +26114,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:04+00:00",
       "content_hash": "3b1725eb8ff1bfd12cfde438461ff3dd15c698cbca47181c0865192ccebd29a4",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26368,7 +26372,8 @@
       "letzte_pruefung": "2026-10-25T09:08:15+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:15+00:00",
       "content_hash": "7a3833ab71907a0c20bb29a196f88442c5e466b4d7e332248846f74f74e2a4b9",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "id": 1159,
@@ -26388,10 +26393,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:26+00:00",
       "content_hash": "7a3833ab71907a0c20bb29a196f88442c5e466b4d7e332248846f74f74e2a4b9",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26575,10 +26580,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:34+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26601,10 +26606,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:37+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26627,10 +26632,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:40+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26653,10 +26658,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:42+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26679,10 +26684,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:45+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26705,10 +26710,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:48+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26754,10 +26759,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:54+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26783,7 +26788,8 @@
       "letzte_pruefung": "2026-10-25T09:08:58+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:08:58+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_fehlt": 1
+      "listen_fehlt": 2,
+      "listen_fehlt_seit": "2026-11-16"
     },
     {
       "id": 1176,
@@ -26803,10 +26809,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:01+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26829,10 +26835,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:05+00:00",
       "content_hash": "72ebb3ad9561196fc08684bccc823f5c9ca12e550c343d5464308dc3b45713ae",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -26901,7 +26907,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:16+00:00",
       "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
       "url_history": [
@@ -26912,7 +26918,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26936,7 +26942,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:21+00:00",
       "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
       "url_history": [
@@ -26947,7 +26953,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -26971,7 +26977,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:27+00:00",
       "content_hash": "3be42be8b52dd283bb34cccf92f3c3e4805cfb88be87b644bc1113a5d2661295",
       "url_history": [
@@ -26982,7 +26988,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27006,7 +27012,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:33+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27017,7 +27023,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27041,7 +27047,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:38+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27052,7 +27058,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27076,7 +27082,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:44+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27087,7 +27093,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27111,7 +27117,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:50+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27122,7 +27128,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27146,7 +27152,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:09:56+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27157,7 +27163,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27181,7 +27187,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:03+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27192,7 +27198,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27216,7 +27222,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:10+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27227,7 +27233,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27251,7 +27257,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:16+00:00",
       "content_hash": "f5af3e6fe64dd3acd6a11e2c4402b9b14de548c771ba74bb620eaca12451c0dc",
       "url_history": [
@@ -27262,7 +27268,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27352,10 +27358,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:21+00:00",
       "content_hash": "2692d6eb0115ae1777824405d4b4f6ac9720bbe26d13ebef7db4e040d09a6451",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27402,10 +27408,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:31+00:00",
       "content_hash": "2692d6eb0115ae1777824405d4b4f6ac9720bbe26d13ebef7db4e040d09a6451",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27475,10 +27481,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:46+00:00",
       "content_hash": "2692d6eb0115ae1777824405d4b4f6ac9720bbe26d13ebef7db4e040d09a6451",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27525,10 +27531,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-25T09:10:56+00:00",
       "content_hash": "2692d6eb0115ae1777824405d4b4f6ac9720bbe26d13ebef7db4e040d09a6451",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27575,10 +27581,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:47:54+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27625,10 +27631,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:48:05+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27675,10 +27681,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:48:16+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27817,10 +27823,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:48:48+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27867,10 +27873,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:48:58+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27894,7 +27900,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:04+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -27905,7 +27911,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27929,7 +27935,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:08+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -27940,7 +27946,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27964,7 +27970,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:14+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -27975,7 +27981,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -27999,7 +28005,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:18+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28010,7 +28016,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28034,7 +28040,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:24+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28045,7 +28051,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28069,7 +28075,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:29+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28080,7 +28086,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28196,7 +28202,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:34+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28207,7 +28213,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28231,7 +28237,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:39+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28242,7 +28248,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28289,7 +28295,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:50+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28300,7 +28306,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28324,7 +28330,7 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:49:56+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28335,7 +28341,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28359,7 +28365,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:02+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28370,7 +28376,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28394,7 +28400,7 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:08+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28405,7 +28411,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28429,7 +28435,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:14+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28440,7 +28446,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28464,7 +28470,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:19+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28475,7 +28481,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28499,7 +28505,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:25+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28510,7 +28516,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28534,10 +28540,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:33+00:00",
       "content_hash": "6534675e98134fe865f51e3bc0d90c3f2dd68dfac98cb3872750cfaa51738802",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28561,10 +28567,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:38+00:00",
       "content_hash": "1d260fcd592dcab86d46f513687303a98443b31f2662d22cb71d046d6216ad79",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28611,7 +28617,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:48+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28622,7 +28628,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28646,7 +28652,7 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:53+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28657,7 +28663,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28681,7 +28687,7 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T08:50:58+00:00",
       "content_hash": "cc90267fd7301f051a3e641f41ed4659320aa41d0fe8b282c5893e939fb3f81a",
       "url_history": [
@@ -28692,7 +28698,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28716,7 +28722,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28726,7 +28732,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28750,7 +28756,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28760,7 +28766,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28784,7 +28790,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28794,7 +28800,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28818,7 +28824,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28828,7 +28834,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28852,7 +28858,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28862,7 +28868,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28886,7 +28892,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28896,7 +28902,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28920,7 +28926,7 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "letzte_volle_pruefung": "2026-10-18T12:00:00+00:00",
       "url_history": [
         {
@@ -28930,7 +28936,7 @@
           "via": "listen-abgleich"
         }
       ],
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -28982,8 +28988,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29015,8 +29021,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29048,8 +29054,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29081,8 +29087,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29106,8 +29112,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29130,8 +29136,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29154,8 +29160,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29178,8 +29184,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29202,8 +29208,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29226,8 +29232,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29250,8 +29256,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29274,8 +29280,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29298,8 +29304,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29322,8 +29328,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29346,8 +29352,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29370,8 +29376,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29394,8 +29400,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29418,8 +29424,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29443,8 +29449,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29488,8 +29494,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29533,8 +29539,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29578,8 +29584,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29623,8 +29629,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29656,8 +29662,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29721,8 +29727,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -29753,8 +29759,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29778,8 +29784,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29803,8 +29809,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29828,8 +29834,8 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29881,8 +29887,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29914,8 +29920,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29947,8 +29953,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -29980,8 +29986,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30013,8 +30019,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30046,8 +30052,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30079,8 +30085,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30112,8 +30118,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30145,8 +30151,8 @@
           "via": "listen-abgleich"
         }
       ],
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30170,10 +30176,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30197,10 +30203,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30224,10 +30230,10 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30251,10 +30257,10 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30278,10 +30284,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30305,10 +30311,10 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30332,10 +30338,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30359,10 +30365,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30386,10 +30392,10 @@
       "leistungen": [],
       "db": "103 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30413,10 +30419,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30440,10 +30446,10 @@
       "leistungen": [],
       "db": "92 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30467,10 +30473,10 @@
       "leistungen": [],
       "db": "92 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30494,10 +30500,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30521,10 +30527,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30548,10 +30554,10 @@
       "leistungen": [],
       "db": "92 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30575,10 +30581,10 @@
       "leistungen": [],
       "db": "92 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30602,10 +30608,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30629,10 +30635,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30656,10 +30662,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30683,10 +30689,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30710,10 +30716,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30737,10 +30743,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30764,10 +30770,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30791,10 +30797,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30818,10 +30824,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30845,10 +30851,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30872,10 +30878,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30899,10 +30905,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30926,10 +30932,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30953,10 +30959,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -30980,10 +30986,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31007,10 +31013,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31034,10 +31040,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -31060,10 +31066,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31087,10 +31093,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31114,10 +31120,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31141,10 +31147,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31168,10 +31174,10 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31195,10 +31201,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31222,10 +31228,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31249,10 +31255,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31276,10 +31282,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31303,10 +31309,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31330,10 +31336,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31357,10 +31363,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31384,10 +31390,10 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31411,10 +31417,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31438,10 +31444,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31465,10 +31471,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31492,10 +31498,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31519,10 +31525,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31546,10 +31552,10 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31573,10 +31579,10 @@
       "leistungen": [],
       "db": "101 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31600,10 +31606,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31627,10 +31633,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31654,10 +31660,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -31680,10 +31686,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31707,10 +31713,10 @@
       "leistungen": [],
       "db": "101 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31734,10 +31740,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31761,10 +31767,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31788,10 +31794,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31815,10 +31821,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31842,10 +31848,10 @@
       "leistungen": [],
       "db": "105 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31869,10 +31875,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31896,10 +31902,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31923,10 +31929,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31950,10 +31956,10 @@
       "leistungen": [],
       "db": "101 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -31977,10 +31983,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32004,10 +32010,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32031,10 +32037,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32058,10 +32064,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32085,10 +32091,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32112,10 +32118,10 @@
       "leistungen": [],
       "db": "101 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32139,10 +32145,10 @@
       "leistungen": [],
       "db": "98 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -32165,10 +32171,10 @@
       "leistungen": [],
       "db": "107 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32192,10 +32198,10 @@
       "leistungen": [],
       "db": "101 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32219,10 +32225,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32246,10 +32252,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32273,10 +32279,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32300,10 +32306,10 @@
       "leistungen": [],
       "db": "100 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32327,10 +32333,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32354,10 +32360,10 @@
       "leistungen": [],
       "db": "Kein Limit",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32381,10 +32387,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32408,10 +32414,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32435,10 +32441,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32462,10 +32468,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32489,10 +32495,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32516,10 +32522,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32543,10 +32549,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32570,10 +32576,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32597,10 +32603,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32624,10 +32630,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32651,10 +32657,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32678,10 +32684,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32705,10 +32711,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32732,10 +32738,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32759,10 +32765,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32786,10 +32792,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32813,10 +32819,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32840,10 +32846,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32867,10 +32873,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32894,10 +32900,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -32921,10 +32927,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -32947,10 +32953,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -32973,10 +32979,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -32999,10 +33005,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33025,10 +33031,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33051,10 +33057,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33077,10 +33083,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33103,10 +33109,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33129,10 +33135,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33155,10 +33161,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33181,10 +33187,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33207,10 +33213,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33233,10 +33239,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33259,10 +33265,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33285,10 +33291,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33311,10 +33317,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33337,10 +33343,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33363,10 +33369,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33389,10 +33395,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33415,10 +33421,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33442,10 +33448,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33469,10 +33475,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33496,10 +33502,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33520,10 +33526,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33544,10 +33550,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33568,10 +33574,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33592,10 +33598,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33616,10 +33622,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33640,10 +33646,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33664,10 +33670,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33688,10 +33694,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33712,10 +33718,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33736,10 +33742,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33760,10 +33766,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33784,10 +33790,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -33808,10 +33814,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33835,10 +33841,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33862,10 +33868,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33889,10 +33895,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "verfuegbarkeit"
       ]
@@ -33915,10 +33921,10 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33942,10 +33948,10 @@
       "leistungen": [],
       "db": "102 dB",
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33969,10 +33975,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -33996,10 +34002,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34023,10 +34029,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34050,10 +34056,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34077,10 +34083,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34104,10 +34110,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34131,10 +34137,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34158,10 +34164,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34185,10 +34191,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34212,10 +34218,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34239,10 +34245,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34263,10 +34269,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34287,10 +34293,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34311,10 +34317,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34335,10 +34341,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34359,10 +34365,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34383,10 +34389,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34407,10 +34413,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34431,10 +34437,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34458,10 +34464,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": [
         "preis",
         "verfuegbarkeit"
@@ -34485,10 +34491,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34509,10 +34515,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34533,10 +34539,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34557,10 +34563,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34581,10 +34587,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34605,10 +34611,10 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     },
     {
@@ -34629,17 +34635,17 @@
       "leistungen": [],
       "db": null,
       "archiviert": false,
-      "letzte_pruefung": "2026-11-16T19:06:05+00:00",
+      "letzte_pruefung": "2026-11-16T19:49:07+00:00",
       "added_via": "listen-abgleich",
       "added_at": "2026-11-16T19:06:05+00:00",
-      "listen_stand": "2026-11-16T19:06:05+00:00",
+      "listen_stand": "2026-11-16T19:49:07+00:00",
       "listen_felder": []
     }
   ],
   "migrated_at": "2026-04-26T05:45:28",
   "last_excel_sync": "2026-04-27T20:50:38Z",
   "lauf": {
-    "at": "2026-11-16T19:08:34+00:00",
+    "at": "2026-11-16T19:51:31+00:00",
     "listen": {
       "ok": [
         "Bike Promotion",
@@ -34661,13 +34667,287 @@
       ],
       "fehler": {},
       "verworfen": null,
-      "kommend_vorher": 150,
+      "kommend_vorher": 299,
       "kommend_nachher": 299,
-      "neu": 170,
-      "geaendert": 58,
-      "archiviert": 21
+      "neu": 0,
+      "geaendert": 0,
+      "archiviert": 0
     },
     "listen_serien": {},
+    "listen_angaben": {
+      "Bike Promotion": {
+        "status": [
+          64,
+          64,
+          0
+        ],
+        "preis": [
+          64,
+          64,
+          0
+        ],
+        "link": [
+          64,
+          64,
+          0
+        ]
+      },
+      "Bikers Days": {
+        "status": [
+          0,
+          9,
+          0
+        ],
+        "preis": [
+          0,
+          9,
+          0
+        ],
+        "link": [
+          9,
+          9,
+          0
+        ]
+      },
+      "CR Moto": {
+        "status": [
+          49,
+          49,
+          0
+        ],
+        "preis": [
+          47,
+          49,
+          0
+        ],
+        "link": [
+          0,
+          49,
+          0
+        ]
+      },
+      "Gully Racing": {
+        "status": [
+          0,
+          3,
+          0
+        ],
+        "preis": [
+          0,
+          3,
+          0
+        ],
+        "link": [
+          0,
+          3,
+          0
+        ]
+      },
+      "HPS- Racing": {
+        "status": [
+          3,
+          3,
+          0
+        ],
+        "preis": [
+          3,
+          3,
+          0
+        ],
+        "link": [
+          0,
+          3,
+          0
+        ]
+      },
+      "Hafeneger Renntrainings": {
+        "status": [
+          26,
+          26,
+          0
+        ],
+        "preis": [
+          26,
+          26,
+          0
+        ],
+        "link": [
+          26,
+          26,
+          0
+        ]
+      },
+      "MAXX ADRENALIN": {
+        "status": [
+          6,
+          6,
+          0
+        ],
+        "preis": [
+          6,
+          6,
+          0
+        ],
+        "link": [
+          6,
+          6,
+          0
+        ]
+      },
+      "MOTORRAID": {
+        "status": [
+          22,
+          22,
+          0
+        ],
+        "preis": [
+          22,
+          22,
+          0
+        ],
+        "link": [
+          0,
+          22,
+          0
+        ]
+      },
+      "MotoMonster": {
+        "status": [
+          3,
+          16,
+          0
+        ],
+        "preis": [
+          3,
+          16,
+          0
+        ],
+        "link": [
+          16,
+          16,
+          0
+        ]
+      },
+      "No Limits Trackdays": {
+        "status": [
+          20,
+          20,
+          0
+        ],
+        "preis": [
+          0,
+          20,
+          0
+        ],
+        "link": [
+          0,
+          20,
+          0
+        ]
+      },
+      "PPO TRACK DAYS": {
+        "status": [
+          0,
+          4,
+          0
+        ],
+        "preis": [
+          0,
+          4,
+          0
+        ],
+        "link": [
+          0,
+          4,
+          0
+        ]
+      },
+      "RACECRACKS": {
+        "status": [
+          12,
+          12,
+          0
+        ],
+        "preis": [
+          12,
+          12,
+          0
+        ],
+        "link": [
+          0,
+          12,
+          0
+        ]
+      },
+      "Rehm race days": {
+        "status": [
+          13,
+          13,
+          0
+        ],
+        "preis": [
+          12,
+          13,
+          0
+        ],
+        "link": [
+          0,
+          13,
+          0
+        ]
+      },
+      "Speed Factory": {
+        "status": [
+          0,
+          2,
+          0
+        ],
+        "preis": [
+          0,
+          2,
+          0
+        ],
+        "link": [
+          0,
+          2,
+          0
+        ]
+      },
+      "Speer Racing": {
+        "status": [
+          18,
+          18,
+          0
+        ],
+        "preis": [
+          18,
+          18,
+          0
+        ],
+        "link": [
+          0,
+          18,
+          0
+        ]
+      },
+      "fast-travel.ch": {
+        "status": [
+          24,
+          24,
+          0
+        ],
+        "preis": [
+          0,
+          24,
+          0
+        ],
+        "link": [
+          0,
+          24,
+          0
+        ]
+      }
+    },
     "einzelpruefung": {
       "zu_pruefen": 27,
       "ok": 0,
